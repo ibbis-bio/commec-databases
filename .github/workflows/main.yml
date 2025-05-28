@@ -1,0 +1,28 @@
+name: Test Commec DBs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          activate-environment: commec-env
+          environment-file: tests/environment.yaml
+          auto-activate-base: false
+
+      - name: Install pytest
+        run: conda install -n commec-env pytest
+
+      - name: Run tests
+        run: pytest tests/

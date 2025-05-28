@@ -14,19 +14,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Miniconda
+      - name: Set up Conda environment
         uses: conda-incubator/setup-miniconda@v3
         with:
           activate-environment: commec-env
           environment-file: tests/environment.yaml
           auto-activate-base: false
 
-      - name: Install pytest
-        shell: bash -l {0}
-        run: conda install -n commec-env pytest
-
       - name: Run tests
         shell: bash -l {0}
-        run: |
-          conda activate commec-env
-          pytest tests/
+        run: pytest tests/

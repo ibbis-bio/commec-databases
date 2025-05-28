@@ -41,7 +41,13 @@ def test_databases_can_run(input_database, tmp_path):
     output_file = tmp_path / "db.out"
 
     screener = handler_class(db_path, fasta_file, str(output_file), force=True)
-    screener.search()
+    try:
+        screener.search()
+    except RuntimeError:
+        with open(output_file + ".log.tmp",'r', encoding = 'utf-8') as f:
+            output_text = str(f.read())
+            assert False, "Failed to run subprocess: Temporary log output: " + output_text
+
 
     with open(output_file,'r', encoding = 'utf-8') as f:
         output_text = str(f.read())

@@ -1,0 +1,36 @@
+name: Test Commec DBs
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Force full pull of LFS files
+        run: git lfs pull
+
+      - name: Set up Conda environment
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          activate-environment: commec-env
+          environment-file: tests/environment.yaml
+          auto-activate-base: false
+
+      - name: Test hmmscan installed.
+        shell: bash -l {0}
+        run: hmmscan -h
+
+      - name: Hash database files.
+        shell: bash -l {0}
+        run: sha256sum commec-dbs/*/*
+
+      - name: Run tests
+        shell: bash -l {0}
+        run: pytest tests/ -vv

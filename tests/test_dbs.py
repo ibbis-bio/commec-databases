@@ -7,9 +7,7 @@ Passing this test is a requirement to update the databases for download.
 import os
 import pytest
 
-#from commec.tools.diamond import DiamondHandler
 from commec.tools.blastn import BlastNHandler
-#from commec.tools.blastx import BlastXHandler
 from commec.tools.hmmer import HmmerHandler
 from commec.tools.cmscan import CmscanHandler
 

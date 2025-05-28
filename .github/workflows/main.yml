@@ -24,5 +24,9 @@ jobs:
       - name: Install pytest
         run: conda install -n commec-env pytest
 
+      - name: Activate local environment
+        run: conda activate commec-env
+
       - name: Run tests
         run: pytest tests/
+

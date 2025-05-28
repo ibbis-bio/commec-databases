@@ -1,0 +1,9 @@
+commec-dbs/benign_db/benign.hmm filter=lfs diff=lfs merge=lfs -text
+commec-dbs/benign_db/benign.hmm.h3m filter=lfs diff=lfs merge=lfs -text
+commec-dbs/benign_db/benign.hmm.h3p filter=lfs diff=lfs merge=lfs -text
+commec-dbs/benign_db/benign.hmm.h3f filter=lfs diff=lfs merge=lfs -text
+commec-dbs/biorisk_db/biorisk.hmm.h3m filter=lfs diff=lfs merge=lfs -text
+commec-dbs/biorisk_db/biorisk.hmm.h3p filter=lfs diff=lfs merge=lfs -text
+commec-dbs/biorisk_db/biorisk.hmm filter=lfs diff=lfs merge=lfs -text
+commec-dbs/biorisk_db/biorisk.hmm.h3f filter=lfs diff=lfs merge=lfs -text
+commec-dbs/benign_db/benign.fasta filter=lfs diff=lfs merge=lfs -text

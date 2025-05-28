@@ -1,0 +1,7 @@
+name: commec-env
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.8
+  - commec
+  - pytest

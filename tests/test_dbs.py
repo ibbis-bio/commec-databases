@@ -46,7 +46,8 @@ def test_databases_can_run(input_database, tmp_path):
     except RuntimeError:
         with open(str(output_file)+".log.tmp",'r', encoding = 'utf-8') as f:
             output_text = str(f.read())
-            assert False, "Failed to run subprocess: Temporary log output: " + output_text
+            print("Error text for database run: ", output_text)
+            assert False, "Failed to run subprocess: Temporary log output."
 
 
     with open(output_file,'r', encoding = 'utf-8') as f:

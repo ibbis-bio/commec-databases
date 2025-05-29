@@ -1,0 +1,376 @@
+ID	Description
+COG0006	proline dipeptidase activity
+COG0008	Catalyzes the attachment of glutamate to tRNA(Glu) in a two-step reaction glutamate is first activated by ATP to form Glu-AMP and then transferred to the acceptor end of tRNA(Glu)
+COG0009	L-threonylcarbamoyladenylate synthase
+COG0012	GTP binding
+COG0013	Catalyzes the attachment of alanine to tRNA(Ala) in a two-step reaction alanine is first activated by ATP to form Ala- AMP and then transferred to the acceptor end of tRNA(Ala). Also edits incorrectly charged Ser-tRNA(Ala) and Gly-tRNA(Ala) via its editing domain
+COG0015	Belongs to the lyase 1 family. Adenylosuccinate lyase subfamily
+COG0016	Belongs to the class-II aminoacyl-tRNA synthetase family. Phe-tRNA synthetase alpha subunit type 1 subfamily
+COG0018	arginyl-trna synthetase
+COG0019	diaminopimelate decarboxylase activity
+COG0020	Catalyzes the condensation of isopentenyl diphosphate (IPP) with allylic pyrophosphates generating different type of terpenoids
+COG0024	Methionine aminopeptidase
+COG0030	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase activity
+COG0031	Belongs to the cysteine synthase cystathionine beta- synthase family
+COG0034	Catalyzes the formation of phosphoribosylamine from phosphoribosylpyrophosphate (PRPP) and glutamine
+COG0036	Belongs to the ribulose-phosphate 3-epimerase family
+COG0037	tRNA processing
+COG0041	Catalyzes the conversion of N5-carboxyaminoimidazole ribonucleotide (N5-CAIR) to 4-carboxy-5-aminoimidazole ribonucleotide (CAIR)
+COG0042	Catalyzes the synthesis of 5,6-dihydrouridine (D), a modified base found in the D-loop of most tRNAs, via the reduction of the C5-C6 double bond in target uridines
+COG0046	Part of the phosphoribosylformylglycinamidine synthase complex involved in the purines biosynthetic pathway. Catalyzes the ATP-dependent conversion of formylglycinamide ribonucleotide (FGAR) and glutamine to yield formylglycinamidine ribonucleotide (FGAM) and glutamate. The FGAM synthase complex is composed of three subunits. PurQ produces an ammonia molecule by converting glutamine to glutamate. PurL transfers the ammonia molecule to FGAR to form FGAM in an ATP-dependent manner. PurS interacts with PurQ and PurL and is thought to assist in the transfer of the ammonia molecule from PurQ to PurL
+COG0047	phosphoribosylformylglycinamidine synthase activity
+COG0048	Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits, it traverses the body of the 30S subunit contacting proteins on the other side and probably holding the rRNA structure together. The combined cluster of proteins S8, S12 and S17 appears to hold together the shoulder and platform of the 30S subunit
+COG0049	tRNA binding
+COG0050	This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis
+COG0051	transcription antitermination factor activity, RNA binding
+COG0052	Belongs to the universal ribosomal protein uS2 family
+COG0055	Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits
+COG0056	Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit
+COG0057	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+COG0060	amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile)
+COG0061	Involved in the regulation of the intracellular balance of NAD and NADP, and is a key enzyme in the biosynthesis of NADP. Catalyzes specifically the phosphorylation on 2'-hydroxyl of the adenosine moiety of NAD to yield NADP
+COG0072	phenylalanine-tRNA ligase activity
+COG0080	Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors
+COG0081	regulation of translation
+COG0082	Catalyzes the anti-1,4-elimination of the C-3 phosphate and the C-6 proR hydrogen from 5-enolpyruvylshikimate-3-phosphate (EPSP) to yield chorismate, which is the branch point compound that serves as the starting substrate for the three terminal pathways of aromatic amino acid biosynthesis. This reaction introduces a second double bond into the aromatic ring system
+COG0084	hydrolase, TatD family'
+COG0085	RNA polymerase activity
+COG0086	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+COG0087	One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit
+COG0088	Forms part of the polypeptide exit tunnel
+COG0089	rRNA binding
+COG0090	One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity
+COG0091	The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome
+COG0092	Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation
+COG0093	Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome
+COG0094	This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance. In the 70S ribosome it contacts protein S13 of the 30S subunit (bridge B1b), connecting the 2 subunits
+COG0096	One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit
+COG0097	This protein binds to the 23S rRNA, and is important in its secondary structure. It is located near the subunit interface in the base of the L7 L12 stalk, and near the tRNA binding site of the peptidyltransferase center
+COG0098	Located at the back of the 30S subunit body where it stabilizes the conformation of the head with respect to the body
+COG0099	Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits
+COG0100	Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine-Dalgarno cleft in the 70S ribosome
+COG0101	tRNA pseudouridine synthase activity
+COG0102	This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly
+COG0103	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+COG0104	Plays an important role in the de novo pathway of purine nucleotide biosynthesis. Catalyzes the first committed step in the biosynthesis of AMP from IMP
+COG0112	Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. This reaction serves as the major source of one-carbon groups required for the biosynthesis of purines, thymidylate, methionine, and other important biomolecules. Also exhibits THF- independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism
+COG0115	Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family
+COG0124	histidyl-tRNA synthetase
+COG0126	phosphoglycerate kinase activity
+COG0127	Pyrophosphatase that catalyzes the hydrolysis of nucleoside triphosphates to their monophosphate derivatives, with a high preference for the non-canonical purine nucleotides XTP (xanthosine triphosphate), dITP (deoxyinosine triphosphate) and ITP. Seems to function as a house-cleaning enzyme that removes non-canonical purine nucleotides from the nucleotide pool, thus preventing their incorporation into DNA RNA and avoiding chromosomal lesions
+COG0128	3-phosphoshikimate 1-carboxyvinyltransferase activity
+COG0130	Responsible for synthesis of pseudouridine from uracil- 55 in the psi GC loop of transfer RNAs
+COG0136	Catalyzes the NADPH-dependent formation of L-aspartate- semialdehyde (L-ASA) by the reductive dephosphorylation of L- aspartyl-4-phosphate
+COG0138	bifunctional purine biosynthesis protein purh
+COG0142	geranyltranstransferase activity
+COG0143	Is required not only for elongation of protein synthesis but also for the initiation of all mRNA translation through initiator tRNA(fMet) aminoacylation
+COG0144	Specifically methylates the cytosine at position 967 (m5C967) of 16S rRNA
+COG0148	phosphopyruvate hydratase activity
+COG0149	triose-phosphate isomerase activity
+COG0150	phosphoribosylformylglycinamidine cyclo-ligase activity
+COG0151	Belongs to the GarS family
+COG0152	phosphoribosylaminoimidazolesuccinocarboxamide synthase activity
+COG0162	Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr)
+COG0164	Endonuclease that specifically degrades the RNA of RNA- DNA hybrids
+COG0166	Belongs to the GPI family
+COG0167	dihydroorotate dehydrogenase activity
+COG0169	Involved in the biosynthesis of the chorismate, which leads to the biosynthesis of aromatic amino acids. Catalyzes the reversible NADPH linked reduction of 3-dehydroshikimate (DHSA) to yield shikimate (SA)
+COG0171	NAD+ synthase (glutamine-hydrolyzing) activity
+COG0172	Catalyzes the attachment of serine to tRNA(Ser). Is also able to aminoacylate tRNA(Sec) with serine, to form the misacylated tRNA L-seryl-tRNA(Sec), which will be further converted into selenocysteinyl-tRNA(Sec)
+COG0173	Aspartyl-tRNA synthetase with relaxed tRNA specificity since it is able to aspartylate not only its cognate tRNA(Asp) but also tRNA(Asn). Reaction proceeds in two steps L-aspartate is first activated by ATP to form Asp-AMP and then transferred to the acceptor end of tRNA(Asp Asn)
+COG0177	DNA repair enzyme that has both DNA N-glycosylase activity and AP-lyase activity. The DNA N-glycosylase activity releases various damaged pyrimidines from DNA by cleaving the N- glycosidic bond, leaving an AP (apurinic apyrimidinic) site. The AP-lyase activity cleaves the phosphodiester bond 3' to the AP site by a beta-elimination, leaving a 3'-terminal unsaturated sugar and a product with a terminal 5'-phosphate
+COG0178	The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrA is an ATPase and a DNA-binding protein. A damage recognition complex composed of 2 uvrA and 2 uvrB subunits scans DNA for abnormalities. When the presence of a lesion has been verified by uvrB, the uvrA molecules dissociate
+COG0180	Tryptophanyl-tRNA synthetase
+COG0184	Forms an intersubunit bridge (bridge B4) with the 23S rRNA of the 50S subunit in the ribosome
+COG0185	Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA
+COG0186	One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal RNA
+COG0187	DNA topoisomerase II activity
+331C0	COG0188 Type IIA topoisomerase (DNA gyrase topo II topoisomerase IV) A subunit
+COG0188	A type II topoisomerase that negatively supercoils closed circular double-stranded (ds) DNA in an ATP-dependent manner to modulate DNA topology and maintain chromosomes in an underwound state. Negative supercoiling favors strand separation, and DNA replication, transcription, recombination and repair, all of which involve strand separation. Also able to catalyze the interconversion of other topological isomers of dsDNA rings, including catenanes and knotted rings. Type II topoisomerases break and join 2 DNA strands simultaneously in an ATP-dependent manner
+COG0190	Catalyzes the oxidation of 5,10- methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10- formyltetrahydrofolate
+COG0192	Catalyzes the formation of S-adenosylmethionine (AdoMet) from methionine and ATP. The overall synthetic reaction is composed of two sequential steps, AdoMet formation and the subsequent tripolyphosphate hydrolysis which occurs prior to release of AdoMet from the enzyme
+COG0193	aminoacyl-tRNA hydrolase activity
+COG0194	GDP metabolic process
+COG0195	Participates in both transcription termination and antitermination
+COG0196	riboflavin kinase activity
+COG0197	Binds 23S rRNA and is also seen to make contacts with the A and possibly P site tRNAs
+COG0198	One of the proteins that surrounds the polypeptide exit tunnel on the outside of the subunit
+COG0199	Binds 16S rRNA, required for the assembly of 30S particles and may also be responsible for determining the conformation of the 16S rRNA at the A site
+COG0200	Binds to the 23S rRNA
+COG0201	protein transport
+COG0202	RNA polymerase activity
+COG0203	ribosomal protein L17
+COG0204	Acyl-transferase
+COG0206	Essential cell division protein that forms a contractile ring structure (Z ring) at the future cell division site. The regulation of the ring assembly controls the timing and the location of cell division. One of the functions of the FtsZ ring is to recruit other cell division proteins to the septum to produce a new cell wall between the dividing cells. Binds GTP and shows GTPase activity
+COG0209	Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides
+COG0210	DNA helicase
+COG0211	Belongs to the bacterial ribosomal protein bL27 family
+COG0212	Belongs to the 5-formyltetrahydrofolate cyclo-ligase family
+COG0215	cysteine-tRNA ligase activity
+COG0216	Peptide chain release factor 1 directs the termination of translation in response to the peptide chain termination codons UAG and UAA
+COG0217	transcriptional regulatory protein
+COG0220	tRNA (guanine-N7-)-methyltransferase activity
+COG0222	ribosome binding
+COG0223	Attaches a formyl group to the free amino group of methionyl-tRNA(fMet). The formyl group appears to play a dual role in the initiator identity of N-formylmethionyl-tRNA by promoting its recognition by IF2 and preventing the misappropriation of this tRNA by the elongation apparatus
+COG0224	Produces ATP from ADP in the presence of a proton gradient across the membrane. The gamma chain is believed to be important in regulating ATPase activity and the flow of protons through the CF(0) complex
+COG0227	Belongs to the bacterial ribosomal protein bL28 family
+COG0228	four-way junction DNA binding
+COG0231	Involved in peptide bond synthesis. Stimulates efficient translation and peptide-bond synthesis on native or reconstituted 70S ribosomes in vitro. Probably functions indirectly by altering the affinity of the ribosome for aminoacyl-tRNA, thus increasing their reactivity as acceptors for peptidyl transferase
+COG0233	cytoplasmic translational termination
+COG0234	Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter
+COG0236	Carrier of the growing fatty acid chain in fatty acid biosynthesis
+COG0237	dephospho-CoA kinase activity
+COG0238	Binds as a heterodimer with protein S6 to the central domain of the 16S rRNA, where it helps stabilize the platform of the 30S subunit
+COG0240	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity
+COG0242	peptide deformylase activity
+COG0244	Forms part of the ribosomal stalk, playing a central role in the interaction of the ribosome with GTP-bound translation factors
+COG0250	Participates in transcription elongation, termination and antitermination
+COG0251	oxidation-reduction process
+COG0254	rRNA binding
+COG0255	Belongs to the universal ribosomal protein uL29 family
+COG0256	This is one of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance
+COG0258	In addition to polymerase activity, this DNA polymerase exhibits 5'-3' exonuclease activity
+COG0261	This protein binds to 23S rRNA in the presence of protein L20
+COG0264	Associates with the EF-Tu.GDP complex and induces the exchange of GDP to GTP. It remains bound to the aminoacyl-tRNA.EF- Tu.GTP complex up to the GTP hydrolysis stage on the ribosome
+33QGC	COG0265 Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain
+COG0265	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain
+COG0267	Belongs to the bacterial ribosomal protein bL33 family
+COG0268	Binds directly to 16S ribosomal RNA
+COG0272	DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA
+COG0275	rRNA processing
+COG0283	belongs to the cytidylate kinase family. Type 1 subfamily
+COG0284	orotidine-5'-phosphate decarboxylase activity
+COG0285	dihydrofolate synthase activity
+COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+COG0290	IF-3 binds to the 30S ribosomal subunit and shifts the equilibrum between 70S ribosomes and their 50S and 30S subunits in favor of the free subunits, thus enhancing the availability of 30S subunits on which protein synthesis initiation begins
+COG0291	Belongs to the bacterial ribosomal protein bL35 family
+COG0292	Binds directly to 23S ribosomal RNA and is necessary for the in vitro assembly process of the 50S ribosomal subunit. It is not involved in the protein synthesizing functions of that subunit
+COG0299	Catalyzes the transfer of a formyl group from 10- formyltetrahydrofolate to 5-phospho-ribosyl-glycinamide (GAR), producing 5-phospho-ribosyl-N-formylglycinamide (FGAR) and tetrahydrofolate
+COG0304	beta-ketoacyl-acyl-carrier-protein synthase II activity
+COG0305	Participates in initiation and elongation during chromosome replication
+COG0313	Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA
+COG0317	In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance
+COG0319	Single strand-specific metallo-endoribonuclease involved in late-stage 70S ribosome quality control and in maturation of the 3' terminus of the 16S rRNA
+30RG1	COG0322 Nuclease subunit of the excinuclease complex
+COG0322	excinuclease ABC activity
+COG0324	Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 in tRNAs that read codons beginning with uridine, leading to the formation of N6-(dimethylallyl)adenosine (i(6)A)
+COG0325	Pyridoxal 5'-phosphate (PLP)-binding protein, which is involved in PLP homeostasis
+COG0328	RNA-DNA hybrid ribonuclease activity
+COG0329	Catalyzes the condensation of (S)-aspartate-beta- semialdehyde (S)-ASA and pyruvate to 4-hydroxy- tetrahydrodipicolinate (HTPA)
+COG0330	HflC and HflK could
+COG0331	[acyl-carrier-protein] S-malonyltransferase activity
+COG0332	Catalyzes the condensation reaction of fatty acid synthesis by the addition to an acyl acceptor of two carbons from malonyl-ACP. Catalyzes the first condensation reaction which initiates fatty acid synthesis and may therefore play a role in governing the total rate of fatty acid production. Possesses both acetoacetyl-ACP synthase and acetyl transacylase activities. Its substrate specificity determines the biosynthesis of branched- chain and or straight-chain of fatty acids
+COG0335	large ribosomal subunit rRNA binding
+COG0336	Belongs to the RNA methyltransferase TrmD family
+COG0337	Catalyzes the conversion of 3-deoxy-D-arabino- heptulosonate 7-phosphate (DAHP) to dehydroquinate (DHQ)
+COG0340	biotin-[acetyl-CoA-carboxylase] ligase activity
+COG0345	Catalyzes the reduction of 1-pyrroline-5-carboxylate (PCA) to L-proline
+COG0353	May play a role in DNA repair. It seems to be involved in an RecBC-independent recombinational process of DNA repair. It may act with RecF and RecO
+COG0355	proton-transporting ATP synthase activity, rotational mechanism
+COG0356	it plays a direct role in the translocation of protons across the membrane
+COG0357	Ribosomal RNA small subunit methyltransferase G
+COG0358	DNA primase activity
+COG0359	binds to the 23S rRNA
+COG0360	Binds together with S18 to 16S ribosomal RNA
+COG0361	One of the essential components for the initiation of protein synthesis. Stabilizes the binding of IF-2 and IF-3 on the 30S subunit to which N-formylmethionyl-tRNA(fMet) subsequently binds. Helps modulate mRNA selection, yielding the 30S pre- initiation complex (PIC). Upon addition of the 50S ribosomal subunit IF-1, IF-2 and IF-3 are released leaving the mature 70S translation initation complex
+COG0436	Aminotransferase
+COG0438	transferase activity, transferring glycosyl groups
+COG0441	Catalyzes the attachment of threonine to tRNA(Thr) in a two-step reaction L-threonine is first activated by ATP to form Thr-AMP and then transferred to the acceptor end of tRNA(Thr)
+COG0442	prolyl-tRNA aminoacylation
+COG0443	Heat shock 70 kDa protein
+COG0449	glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+COG0451	ADP-glyceromanno-heptose 6-epimerase activity
+COG0452	Catalyzes two steps in the biosynthesis of coenzyme A. In the first step cysteine is conjugated to 4'-phosphopantothenate to form 4-phosphopantothenoylcysteine, in the latter compound is decarboxylated to form 4'-phosphopantotheine
+COG0456	acetyltransferase
+30P6F	COG0457 FOG TPR repeat
+31CX3	COG0457 FOG TPR repeat
+32BXY	COG0457 FOG TPR repeat
+32UY1	COG0457 FOG TPR repeat
+COG0457	Tetratricopeptide repeat
+COG5010	COG0457 FOG TPR repeat
+COG0458	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity
+COG0459	protein refolding
+COG0460	homoserine dehydrogenase
+COG0461	Catalyzes the transfer of a ribosyl phosphate group from 5-phosphoribose 1-diphosphate to orotate, leading to the formation of orotidine monophosphate (OMP)
+COG0462	Involved in the biosynthesis of the central metabolite phospho-alpha-D-ribosyl-1-pyrophosphate (PRPP) via the transfer of pyrophosphoryl group from ATP to 1-hydroxyl of ribose-5-phosphate (Rib-5-P)
+COG0463	Glycosyl transferase, family 2
+COG0465	Acts as a processive, ATP-dependent zinc metallopeptidase for both cytoplasmic and membrane proteins. Plays a role in the quality control of integral membrane proteins
+COG0468	Can catalyze the hydrolysis of ATP in the presence of single-stranded DNA, the ATP-dependent uptake of single-stranded DNA by duplex DNA, and the ATP-dependent hybridization of homologous single-stranded DNAs. It interacts with LexA causing its activation and leading to its autocatalytic cleavage
+COG0469	pyruvate kinase activity
+COG0470	DNA polymerase III
+COG0472	First step of the lipid cycle reactions in the biosynthesis of the cell wall peptidoglycan
+COG0480	Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome
+COG0481	GTPase activity
+COG0482	sulfurtransferase activity
+31Q8Q	COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain
+COG0484	heat shock protein binding
+COG0488	(ABC) transporter
+COG0489	protein tyrosine kinase activity
+33YC2	COG0491 Zn-dependent hydrolases, including glyoxylases
+COG0491	Thiolesterase that catalyzes the hydrolysis of S-D- lactoyl-glutathione to form glutathione and D-lactic acid
+COG0492	ferredoxin-NADP+ reductase activity
+COG0494	nUDIX hydrolase
+COG0495	leucyl-tRNA aminoacylation
+COG0497	DNA recombination
+COG0504	CTP synthase activity
+COG0505	Belongs to the CarA family
+COG0513	Belongs to the DEAD box helicase family
+COG0516	GMP reductase activity
+COG0517	IMP dehydrogenase activity
+COG0519	Catalyzes the synthesis of GMP from XMP
+COG0520	Catalyzes the removal of elemental sulfur and selenium atoms from L-cysteine, L-cystine, L-selenocysteine, and L- selenocystine to produce L-alanine
+COG0522	One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit
+COG0525	valine-tRNA ligase activity
+33ARA	COG0526, thiol-disulfide isomerase and thioredoxins
+COG0526	COG0526, thiol-disulfide isomerase and thioredoxins
+COG0527	aspartate kinase activity
+COG0528	UMP kinase activity
+COG0532	One of the essential components for the initiation of protein synthesis. Protects formylmethionyl-tRNA from spontaneous hydrolysis and promotes its binding to the 30S ribosomal subunits. Also involved in the hydrolysis of GTP during the formation of the 70S ribosomal complex
+COG0533	Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine. Is involved in the transfer of the threonylcarbamoyl moiety of threonylcarbamoyl-AMP (TC-AMP) to the N6 group of A37, together with TsaE and TsaB. TsaD likely plays a direct catalytic role in this reaction
+COG0536	An essential GTPase which binds GTP, GDP and possibly (p)ppGpp with moderate affinity, with high nucleotide exchange rates and a fairly low GTP hydrolysis rate. Plays a role in control of the cell cycle, stress response, ribosome biogenesis and in those bacteria that undergo differentiation, in morphogenesis control
+COG0537	adenosine 5'-monophosphoramidase activity
+COG0539	negative regulation of cytoplasmic translation
+COG0540	Belongs to the ATCase OTCase family
+COG0541	Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Binds to the hydrophobic signal sequence of the ribosome-nascent chain (RNC) as it emerges from the ribosomes. The SRP-RNC complex is then targeted to the cytoplasmic membrane where it interacts with the SRP receptor FtsY
+COG0542	response to heat
+COG0544	peptidyl-prolyl cis-trans isomerase activity
+COG0550	Releases the supercoiling and torsional tension of DNA, which is introduced during the DNA replication and transcription, by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at a target site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(5'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 3'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand, thus removing DNA supercoils. Finally, in the religation step, the DNA 3'-OH attacks the covalent intermediate to expel the active-site tyrosine and restore the DNA phosphodiester backbone
+COG0552	protein localization to endoplasmic reticulum
+COG0556	nucleotide-excision repair
+COG0558	Belongs to the CDP-alcohol phosphatidyltransferase class-I family
+COG0563	adenylate kinase activity
+COG0564	pseudouridine synthase activity
+COG0566	Belongs to the class IV-like SAM-binding methyltransferase superfamily. RNA methyltransferase TrmH family
+COG0568	sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released
+COG0571	ribonuclease III activity
+COG0576	Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ
+2ZX55	COG0577 ABC-type antimicrobial peptide transport system, permease component
+COG0577	efflux transmembrane transporter activity
+COG0583	DNA-binding transcription factor activity
+COG0587	DNA-directed DNA polymerase activity
+COG0590	tRNA wobble adenosine to inosine editing
+COG0592	DNA-directed DNA polymerase activity
+COG0593	it binds specifically double-stranded DNA at a 9 bp consensus (dnaA box) 5'-TTATC CA A CA A-3'. DnaA binds to ATP and to acidic phospholipids
+COG0597	This protein specifically catalyzes the removal of signal peptides from prolipoproteins
+COG0607	Catalyzes the ATP-dependent transfer of a sulfur to tRNA to produce 4-thiouridine in position 8 of tRNAs, which functions as a near-UV photosensor. Also catalyzes the transfer of sulfur to the sulfur carrier protein ThiS, forming ThiS-thiocarboxylate. This is a step in the synthesis of thiazole, in the thiamine biosynthesis pathway. The sulfur is donated as persulfide by IscS
+COG0617	tRNA 3'-terminal CCA addition
+COG0621	Catalyzes the methylthiolation of N6- (dimethylallyl)adenosine (i(6)A), leading to the formation of 2- methylthio-N6-(dimethylallyl)adenosine (ms(2)i(6)A) at position 37 in tRNAs that read codons beginning with uridine
+COG0624	Catalyzes the hydrolysis of N-succinyl-L,L- diaminopimelic acid (SDAP), forming succinate and LL-2,6- diaminoheptanedioate (DAP), an intermediate involved in the bacterial biosynthesis of lysine and meso-diaminopimelic acid, an essential component of bacterial cell walls
+COG0628	permease
+COG0629	single-stranded DNA binding
+COG0632	four-way junction helicase activity
+COG0635	Involved in the biosynthesis of porphyrin-containing compound
+COG0640	Transcriptional regulator
+COG0652	PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides
+COG0653	protein targeting
+COG0658	competence protein
+30HXX	COG0664 cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+COG0664	- Catabolite gene activator and regulatory subunit of cAMP-dependent protein
+COG0668	transmembrane transport
+COG0669	Reversibly transfers an adenylyl group from ATP to 4'- phosphopantetheine, yielding dephospho-CoA (dPCoA) and pyrophosphate
+COG0681	Belongs to the peptidase S26 family
+COG0682	Transfers the N-acyl diglyceride group on what will become the N-terminal cysteine of membrane lipoproteins
+COG0690	P-P-bond-hydrolysis-driven protein transmembrane transporter activity
+COG0691	Required for rescue of stalled ribosomes mediated by trans-translation. Binds to transfer-messenger RNA (tmRNA), required for stable association of tmRNA with ribosomes. tmRNA and SmpB together mimic tRNA shape, replacing the anticodon stem-loop with SmpB. tmRNA is encoded by the ssrA gene
+COG0697	spore germination
+COG0703	Catalyzes the specific phosphorylation of the 3-hydroxyl group of shikimic acid using ATP as a cosubstrate
+COG0706	membrane insertase activity
+COG0707	Cell wall formation. Catalyzes the transfer of a GlcNAc subunit on undecaprenyl-pyrophosphoryl-MurNAc-pentapeptide (lipid intermediate I) to form undecaprenyl-pyrophosphoryl-MurNAc- (pentapeptide)GlcNAc (lipid intermediate II)
+COG0711	Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0)
+COG0712	F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation
+COG0735	belongs to the Fur family
+COG0740	serine-type endopeptidase activity
+COG0742	ribosomal rna small subunit methyltransferase
+345V1	COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+COG0745	RESPONSE REGULATOR receiver
+COG0749	In addition to polymerase activity, this DNA polymerase exhibits 5'-3' exonuclease activity
+COG0750	zinc metalloprotease
+COG0758	DNA mediated transformation
+COG0766	Cell wall formation. Adds enolpyruvyl to UDP-N- acetylglucosamine
+COG0768	penicillin binding
+COG0769	Catalyzes the addition of meso-diaminopimelic acid to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanyl-D-glutamate (UMAG) in the biosynthesis of bacterial cell-wall peptidoglycan
+COG0770	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity
+COG0771	Cell wall formation. Catalyzes the addition of glutamate to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanine (UMA)
+COG0772	Belongs to the SEDS family
+COG0773	UDP-N-acetylmuramate-L-alanine ligase activity
+COG0776	regulation of translation
+COG0778	Nitroreductase
+COG0779	Required for maturation of 30S ribosomal subunits
+COG0781	Involved in transcription antitermination. Required for transcription of ribosomal RNA (rRNA) genes. Binds specifically to the boxA antiterminator sequence of the ribosomal RNA (rrn) operons
+COG0782	Necessary for efficient RNA polymerase transcription elongation past template-encoded arresting sites. The arresting sites in DNA have the property of trapping a certain fraction of elongating RNA polymerases that pass through, resulting in locked ternary complexes. Cleavage of the nascent transcript by cleavage factors such as GreA or GreB allows the resumption of elongation from the new 3'terminus
+COG0787	Catalyzes the interconversion of L-alanine and D- alanine. May also act on other amino acids
+COG0789	Transcriptional regulator
+COG0799	negative regulation of ribosome biogenesis
+COG0802	atpase or kinase
+COG0806	An accessory protein needed during the final step in the assembly of 30S ribosomal subunit, possibly for assembly of the head region. Probably interacts with S19. Essential for efficient processing of 16S rRNA. May be needed both before and after RbfA during the maturation of 16S rRNA. It has affinity for free ribosomal 30S subunits but not for 70S ribosomes
+COG0812	UDP-N-acetylmuramate dehydrogenase activity
+COG0816	Could be a nuclease involved in processing of the 5'-end of pre-16S rRNA
+COG0820	rRNA (adenine-C2-)-methyltransferase activity
+COG0858	One of several proteins that assist in the late maturation steps of the functional core of the 30S ribosomal subunit. Associates with free 30S ribosomal subunits (but not with 30S subunits that are part of 70S ribosomes or polysomes). Required for efficient processing of 16S rRNA. May interact with the 5'-terminal helix region of 16S rRNA
+COG1012	belongs to the aldehyde dehydrogenase family
+COG1028	Short-chain dehydrogenase reductase Sdr
+COG1040	competence protein
+COG1057	Catalyzes the reversible adenylation of nicotinate mononucleotide (NaMN) to nicotinic acid adenine dinucleotide (NaAD)
+COG1066	DNA-dependent ATPase involved in processing of recombination intermediates, plays a role in repairing DNA breaks. Stimulates the branch migration of RecA-mediated strand transfer reactions, allowing the 3' invading strand to extend heteroduplex DNA faster. Binds ssDNA in the presence of ADP but not other nucleotides, has ATPase activity that is stimulated by ssDNA and various branched DNA structures, but inhibited by SSB. Does not have RecA's homology-searching function
+COG1073	alpha beta
+COG1080	General (non sugar-specific) component of the phosphoenolpyruvate-dependent sugar phosphotransferase system (sugar PTS). This major carbohydrate active-transport system catalyzes the phosphorylation of incoming sugar substrates concomitantly with their translocation across the cell membrane. Enzyme I transfers the phosphoryl group from phosphoenolpyruvate (PEP) to the phosphoryl carrier protein (HPr)
+COG1104	cysteine desulfurase activity
+COG1109	Catalyzes the conversion of glucosamine-6-phosphate to glucosamine-1-phosphate
+COG1131	(ABC) transporter
+COG1132	(ABC) transporter
+COG1136	(ABC) transporter
+COG1159	An essential GTPase that binds both GDP and GTP, with rapid nucleotide exchange. Plays a role in 16S rRNA processing and 30S ribosomal subunit biogenesis and possibly also in cell cycle regulation and energy metabolism
+COG1160	GTP binding
+COG1181	Belongs to the D-alanine--D-alanine ligase family
+COG1185	polyribonucleotide nucleotidyltransferase activity
+COG1186	Peptide chain release factor 2 directs the termination of translation in response to the peptide chain termination codons UGA and UAA
+COG1187	pseudouridine synthase activity
+2ZARU	COG1192 ATPases involved in chromosome partitioning
+COG1192	Involved in chromosome partitioning
+32BXW	COG1196 Chromosome segregation ATPases
+COG1196	nuclear chromosome segregation
+COG1197	Couples transcription and DNA repair by recognizing RNA polymerase (RNAP) stalled at DNA lesions. Mediates ATP-dependent release of RNAP and its truncated transcript from the DNA, and recruitment of nucleotide excision repair machinery to the damaged site
+COG1198	Involved in the restart of stalled replication forks. Recognizes and binds the arrested nascent DNA chain at stalled replication forks. It can open the DNA duplex, via its helicase activity, and promote assembly of the primosome and loading of the major replicative helicase DnaB onto DNA
+COG1200	Critical role in recombination and DNA repair. Helps process Holliday junction intermediates to mature products by catalyzing branch migration. Has a DNA unwinding activity characteristic of a DNA helicase with a 3'- to 5'- polarity. Unwinds branched duplex DNA (Y-DNA)
+COG1207	Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain
+COG1214	PFAM Peptidase M22, glycoprotease
+COG1215	transferase activity, transferring glycosyl groups
+COG1217	gtp-binding protein TYPA
+COG1219	ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP
+COG1249	Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family
+COG1253	flavin adenine dinucleotide binding
+COG1309	transcriptional regulator
+COG1314	P-P-bond-hydrolysis-driven protein transmembrane transporter activity
+COG1381	Involved in DNA repair and RecF pathway recombination
+COG1385	rRNA (uridine-N3-)-methyltransferase activity
+COG1396	sequence-specific DNA binding
+COG1399	metal-binding, possibly nucleic acid-binding protein
+COG1466	dna polymerase III delta subunit
+COG1475	DNA binding
+COG1544	Required for dimerization of active 70S ribosomes into 100S ribosomes in stationary phase
+COG1546	Belongs to the CinA family
+COG1570	exodeoxyribonuclease VII activity
+COG1589	Essential cell division protein. May link together the upstream cell division proteins, which are predominantly cytoplasmic, with the downstream cell division proteins, which are predominantly periplasmic. May control correct divisome assembly
+COG1595	DNA-templated transcription, initiation
+COG1674	ftsk spoiiie
+COG1702	phosphate starvation-inducible protein PhoH
+COG1846	Transcriptional regulator
+COG1862	Preprotein translocase
+COG1968	undecaprenyl-diphosphatase activity
+COG2205	protein histidine kinase activity
+30DNX	COG2217 Cation transport ATPase
+COG2217	Heavy metal translocating P-type atpase
+COG2226	methyltransferase
+COG2255	four-way junction helicase activity
+COG2256	atpase related to the helicase subunit of the holliday junction resolvase
+COG2262	GTPase that associates with the 50S ribosomal subunit and may have a role during protein synthesis or ribosome biogenesis
+COG2265	Belongs to the class I-like SAM-binding methyltransferase superfamily. RNA M5U methyltransferase family
+COG2267	carboxylic ester hydrolase activity
+COG2812	DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity
+COG2814	Major facilitator Superfamily
+COG2890	protein-(glutamine-N5) methyltransferase activity
+COG3118	belongs to the thioredoxin family
+COG3842	ATPase activity
+COG4974	Belongs to the 'phage' integrase family
+COG5002	protein histidine kinase activity
+	

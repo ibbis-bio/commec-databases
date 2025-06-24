@@ -1,0 +1,32 @@
+name: Attach LFS-aware ZIP Binary to Release
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  upload-zip:
+    name: Archive and Upload
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout full history and tags
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Needed for git archive + tags
+
+    - name: Set up Git LFS
+      run: |
+        git lfs install
+        git lfs pull
+
+    - name: Create ZIP from commec-dbs subdirectory
+      run: |
+        zip -r commec-dbs.zip commec-dbs
+
+    - name: Upload ZIP to release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: commec-dbs.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

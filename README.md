@@ -37,6 +37,10 @@ conda activate commec-dev
 From here, you should have an interactive version of the package installed via (`pip -e .`) as well
 as the necessary shell dependencies.
 
+Database Release Pipeline
+=========================
+Explicit Instructions here.
+
 About
 =====
 The Common Mechanism is a project of [IBBIS](https://ibbis.bio), the International Biosecurity and
@@ -44,4 +48,4 @@ Biosafety Initiative for Science. From 2021-2023, the software and databases wer
 team of technical consultants working with the Nuclear Threat Initiative, led by Dr. Nicole Wheeler
 of the University of Birmingham, and including contributions from Brittany Rife Magalis of the
 University of Louisville and Jennifer Lu of the Center for Computational Biology at Johns Hopkins
-University. In 2024, IBBIS became the home of the project
+University. In 2024, IBBIS became the home of the project.

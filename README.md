@@ -37,9 +37,13 @@ conda activate commec-dev
 From here, you should have an interactive version of the package installed via (`pip -e .`) as well
 as the necessary shell dependencies.
 
-Database Release Pipeline
-=========================
-Explicit Instructions here.
+Database Release and Update
+===========================
+Updating the databases will entail the following steps:
+- Ensure git lfs is installed.
+- Create a Pull Request for changes into main, triggering unit tests on new database files.
+- On successful PR, merge into main.
+- Create a Release, which will automatically package commec-dbs lfs into a release zip.
 
 About
 =====

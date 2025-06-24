@@ -45,3 +45,11 @@ team of technical consultants working with the Nuclear Threat Initiative, led by
 of the University of Birmingham, and including contributions from Brittany Rife Magalis of the
 University of Louisville and Jennifer Lu of the Center for Computational Biology at Johns Hopkins
 University. In 2024, IBBIS became the home of the project
+
+Database Release and Update
+===========================
+Updating the databases will entail the following steps:
+- Ensure git lfs is installed.
+- Create a Pull Request for changes into main, triggering unit tests on new database files.
+- On successful PR, merge into main.
+- Create a Release, which will automatically package commec-dbs lfs into a release zip.

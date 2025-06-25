@@ -39,6 +39,9 @@ jobs:
             git push origin ${{ github.event.inputs.tag }}
           fi
 
+      - name: Write version.txt into commec-dbs
+        run: echo "${{ github.event.inputs.tag }}" > commec-dbs/commec-db-version.txt
+
       - name: Create ZIP of commec-dbs
         run: |
           cd commec-dbs

@@ -51,6 +51,5 @@ jobs:
           name: Release ${{ github.event.inputs.tag }}
           files: commec-dbs.zip
           fail_on_unmatched_files: true
-          skip_if_release_exists: false  # ⛔️ fail if release already exists
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

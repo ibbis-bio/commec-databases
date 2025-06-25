@@ -1,34 +1,54 @@
-name: Automated Release with ZIP
+name: Tag and Release
 
 on:
-  push:
-    tags:
-      - 'v*'  # Only run on version tags like v1.2.3
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag to create and release (e.g., v1.2.3)'
+        required: true
+
+permissions:
+  contents: write  # Needed for tag + release + asset upload
 
 jobs:
   release:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout full repo
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-        lfs: true  # Also pulls Git LFS files
+      - name: Checkout main with full history and LFS
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          lfs: true
 
-    - name: Set up Git LFS (redundant safety)
-      run: |
-        git lfs install
-        git lfs pull
+      - name: Ensure LFS files are pulled
+        run: |
+          git lfs install
+          git lfs pull
 
-    - name: Create ZIP from commec-dbs subdirectory
-      run: zip -r commec-dbs.zip commec-dbs
+      - name: Create tag if it does not exist
+        run: |
+          if git rev-parse ${{ github.event.inputs.tag }} >/dev/null 2>&1; then
+            echo "❌ Tag '${{ github.event.inputs.tag }}' already exists. Skipping tag creation."
+          else
+            echo "✅ Creating tag '${{ github.event.inputs.tag }}' on latest main..."
+            git config user.name "${{ github.actor }}"
+            git config user.email "${{ github.actor }}@users.noreply.github.com"
+            git tag ${{ github.event.inputs.tag }}
+            git push origin ${{ github.event.inputs.tag }}
+          fi
 
-    - name: Create GitHub Release and upload ZIP
-      uses: softprops/action-gh-release@v1
-      with:
-        tag_name: ${{ github.ref_name }}
-        name: Release ${{ github.ref_name }}
-        files: commec-dbs.zip
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create ZIP of commec-dbs
+        run: zip -r commec-dbs.zip commec-dbs
+
+      - name: Create release and upload ZIP (fails if release exists)
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.event.inputs.tag }}
+          name: Release ${{ github.event.inputs.tag }}
+          files: commec-dbs.zip
+          fail_on_unmatched_files: true
+          skip_if_release_exists: false  # ⛔️ fail if release already exists
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

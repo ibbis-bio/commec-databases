@@ -15,35 +15,18 @@ The `screen` command runs an input FASTA through four steps:
   3. Regulated nucleotide scan (uses BLASTN against NCBI nt)
   4. Benign scan (users hmmer, cmscan and BLASTN against custom databases)
 
-This repository contains the Biorisk and Benign database files necessary for steps 1 and 4. These are the only databases necessary when running Commec in the truncated `--fast-mode`.
+This repository contains the Biorisk and Benign database files necessary for steps 1 and 4. These are the only databases necessary when running Commec in the truncated `--skip-tx` mode where regulated taxonomy steps are skipped.
 
-Simply copy the contents of the commec-dbs folder within this repository to the desired location and use the -databases cli to point to that fold, or ensure that the yaml parameters file points to the biorisk and benign directorys respectively.
-
-Documentation
-=============
-The online documentation is located at the
-[GitHub Wiki](https://github.com/ibbis-screening/common-mechanism/wiki).
-
-Development
-=======
-Development dependencies are managed through a conda environment. Install conda, then make sure
-that [your channels are configured correctly](http://bioconda.github.io/).
-
-```
-conda env create -f environment.yml
-conda activate commec-dev
-```
-
-From here, you should have an interactive version of the package installed via (`pip -e .`) as well
-as the necessary shell dependencies.
+These files can be downloaded to a desired location using the `commec setup` command line interface. Alternatively, downloading commec-dbs.zip from the a tagged release, and placing the extracted files in a location to be pointed to with the `-d, --databases` commec cli. Or ensure that the yaml parameters file points to the biorisk and benign directories respectively.
 
 Database Release and Update
 ===========================
 Updating the databases will entail the following steps:
-- Ensure git lfs is installed.
-- Create a Pull Request for changes into main, triggering unit tests on new database files.
-- On successful PR, merge into main.
-- Create a Release, which will automatically package commec-dbs lfs into a release zip.
+- Ensure git lfs is installed, and pull using `git lfs pull`
+- Update the relevant files inside the commec-dbs sub-directory within the repo.
+- Create a Pull Request for changes into main, this will trigger unit tests on the database files.
+- On a successfully merged pull request, merge into main.
+- Use the `tag and release` github action, supply the semantic version, which will automate the release.
 
 About
 =====

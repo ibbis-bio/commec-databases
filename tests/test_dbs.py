@@ -15,10 +15,10 @@ DATABASE_DIRECTORY = os.path.join(os.path.dirname(__file__), "..", "commec-dbs")
 TEST_DIRECTORY = os.path.dirname(__file__)
 
 databases_to_test = [
-    [BlastNHandler, "benign_db", "benign.fasta"],
-    [HmmerHandler, "biorisk_db", "biorisk.hmm"],
-    [HmmerHandler, "benign_db", "benign.hmm"],
-    [CmscanHandler, "benign_db", "benign.cm"],
+    [BlastNHandler, "low_concern/dna", "benign.fasta"],
+    [HmmerHandler, "biorisk", "biorisk.hmm"],
+    [HmmerHandler, "low_concern/protein", "benign.hmm"],
+    [CmscanHandler, "low_concern/rna", "benign.cm"],
 ]
 
 @pytest.mark.parametrize("input_database", databases_to_test)

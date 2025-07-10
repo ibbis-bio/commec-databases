@@ -27,9 +27,10 @@ jobs:
         shell: bash -l {0}
         run: hmmscan -h
 
-      - name: Hash database files.
+      - name: Hash all database files recursively.
         shell: bash -l {0}
-        run: sha256sum commec-dbs/*/*
+        run: |
+          find commec-dbs/*/* -type f -exec sha256sum {} +
 
       - name: Run tests
         shell: bash -l {0}

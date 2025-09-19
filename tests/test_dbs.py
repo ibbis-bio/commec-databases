@@ -18,7 +18,7 @@ databases_to_test = [
     [BlastNHandler, "low_concern/dna", "benign.fasta"],
     [HmmerHandler, "biorisk", "biorisk.hmm"],
     [HmmerHandler, "low_concern/protein", "benign.hmm"],
-    [CmscanHandler, "low_concern/rna", "benign.cm"],
+    [CmscanHandler, "low_concern/rna", "low_concern.cm"],
 ]
 
 @pytest.mark.parametrize("input_database", databases_to_test)

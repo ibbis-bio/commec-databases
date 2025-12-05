@@ -54,5 +54,5 @@ def test_databases_can_run(input_database, tmp_path):
         output_text = str(f.read())
 
     assert output_text, "The output file text failed to generate."
-    assert screener.check_output(), "No file was created for tool search."
+    assert screener.validate_output(), "No file was created for tool search."
     assert screener.get_version_information(), "get_version_information() returned empty/None"

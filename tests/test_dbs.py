@@ -15,9 +15,9 @@ DATABASE_DIRECTORY = os.path.join(os.path.dirname(__file__), "..", "commec-dbs")
 TEST_DIRECTORY = os.path.dirname(__file__)
 
 databases_to_test = [
-    [BlastNHandler, "low_concern/dna", "benign.fasta"],
+    [BlastNHandler, "low_concern/dna", "low_concern.fasta"],
     [HmmerHandler, "biorisk", "biorisk.hmm"],
-    [HmmerHandler, "low_concern/protein", "benign.hmm"],
+    [HmmerHandler, "low_concern/protein", "low_concern.hmm"],
     [CmscanHandler, "low_concern/rna", "low_concern.cm"],
 ]
 

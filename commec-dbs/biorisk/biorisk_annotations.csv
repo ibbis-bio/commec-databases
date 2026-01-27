@@ -238,7 +238,7 @@ VFG043280gbWP011860684,(flgL) flagellar hook-associated protein FlgL [Peritricho
 VFG043281gbWP011860685,(CD630_RS01690) flagellar assembly protein FliW [Peritrichous flagella (VF0732) - Motility (VFC0204)] [Clostridium difficile 630],FALSE
 VFG043283gbWP016729241,(fliS) flagellar export chaperone FliS [Peritrichous flagella (VF0732) - Motility (VFC0204)] [Clostridium difficile 630],FALSE
 VFG043284gbWP011860688,(fliD) flagellar filament capping protein FliD [Peritrichous flagella (VF0732) - Motility (VFC0204)] [Clostridium difficile 630],FALSE
-VFG043285gbWP011860690,(fliC) flagellin FliC [Peritrichous flagella (VF0732) - Motility (VFC0204)] [Clostridium difficile 630],TRUE
+VFG043285gbWP011860690,(fliC) flagellin FliC [Peritrichous flagella (VF0732) - Motility (VFC0204)] [Clostridium difficile 630],FALSE
 VFG043286gbWP011860691,(CD630_RS01725) glycosyltransferase [Peritrichous flagella (VF0732) - Motility (VFC0204)] [Clostridium difficile 630],FALSE
 VFG043287gbWP003425253,(CD630_RS01730) HAD-IB family phosphatase [Peritrichous flagella (VF0732) - Motility (VFC0204)] [Clostridium difficile 630],FALSE
 VFG043288gbWP011860693,(CD630_RS01735) NTP transferase domain-containing protein [Peritrichous flagella (VF0732) - Motility (VFC0204)] [Clostridium difficile 630],FALSE
@@ -1076,7 +1076,7 @@ VFG041985gbWP011004176,(RS_RS21340) hypothetical protein [T3SS (VF1295) - Effect
 VFG041986gbWP011004174,(popA) hypersensitive response elicitor PopA1 [T3SS (VF1295) - Effector delivery system (VFC0086)] [Ralstonia solanacearum GMI1000],FALSE
 VFG041987gbWP011004173,(RS_RS21325) protein PopB [T3SS (VF1295) - Effector delivery system (VFC0086)] [Ralstonia solanacearum GMI1000],FALSE
 VFG041988gbWP011004172,(ripAC) T3SS leucine-rich repeat effector RipAC/PopC [T3SS (VF1295) - Effector delivery system (VFC0086)] [Ralstonia solanacearum GMI1000],FALSE
-VFG041989gbWP011004171,(sctC) type III secretion system outer membrane ring subunit SctC [T3SS (VF1295) - Effector delivery system (VFC0086)] [Ralstonia solanacearum GMI1000],TRUE
+VFG041989gbWP011004171,(sctC) type III secretion system outer membrane ring subunit SctC [T3SS (VF1295) - Effector delivery system (VFC0086)] [Ralstonia solanacearum GMI1000],FALSE
 VFG041992gbWP011004168,(RS_RS21300) type III secretion protein HrpB7 [T3SS (VF1295) - Effector delivery system (VFC0086)] [Ralstonia solanacearum GMI1000],FALSE
 VFG041995gbWP011004165,(RS_RS21285) type III secretion protein HrpB4 [T3SS (VF1295) - Effector delivery system (VFC0086)] [Ralstonia solanacearum GMI1000],FALSE
 VFG041997gbWP011004162,(RS_RS21270) HrpB1 family type III secretion system apparatus protein [T3SS (VF1295) - Effector delivery system (VFC0086)] [Ralstonia solanacearum GMI1000],FALSE

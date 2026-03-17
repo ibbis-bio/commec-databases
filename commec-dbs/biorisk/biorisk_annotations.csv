@@ -2342,10 +2342,8 @@ gi27885143refNP777494.1,N-Pro [Classical swine fever virus],FALSE
 gi27885153refNP777504.1,nonstructural protein NS4B [Classical swine fever virus],FALSE
 NP904322.1,nsp4-pp1a/pp1ab [Severe acute respiratory syndrome-related coronavirus],FALSE
 NP828858.1,nucleocapsid protein [Severe acute respiratory syndrome-related coronavirus],FALSE
-Q2UAZ8,Cytochrome P450 monooxygenase ppsD ,TRUE
 P87017,5'-hydroxyaverantin dehydrogenase ,TRUE
 Q00674,Putative sterigmatocystin biosynthesis ketoreductase stcE ,TRUE
-A1CFL2,Patulin synthase ,TRUE
 Q12120,Sterigmatocystin 8-O-methyltransferase ,TRUE
 Q90WJ9,Saxitoxin and tetrodotoxin-binding protein 2 ,TRUE
 P60615,Alpha-bungarotoxin ,TRUE
@@ -2377,7 +2375,6 @@ Q2G140,Multidrug export protein MepA ,TRUE
 Q2G107,Enterotoxin-like toxin X ,TRUE
 Q6G7T8,Uncharacterized leukocidin-like protein 1 ,TRUE
 P02976,Immunoglobulin G-binding protein A ,TRUE
-A6QIR4,Endoribonuclease MazF ,TRUE
 Q6G8G5,HTH-type transcriptional regulator rot ,TRUE
 Q497V5,S1 RNA-binding domain-containing protein 1 ,TRUE
 A0A0H2XIV9,Type VII secretion system protein EssD ,TRUE
@@ -2404,7 +2401,6 @@ ETXMTX2, Clostridium epsilon toxin ETX/Bacillus mosquitocidal toxin MTX2,TRUE
 Octapeptide, Octapeptide repeat,TRUE
 EnterotoxinST, Heat-stable enterotoxin ST,FALSE
 ADPribexoTox, ADP-ribosyltransferase exoenzyme,TRUE
-PTE, Phosphotriesterase family,TRUE
 PeptidaseM24, Metallopeptidase family M24,FALSE
 AMPN, Aminopeptidase P  N-terminal domain,FALSE
 Amidohydro1, Amidohydrolase family,FALSE

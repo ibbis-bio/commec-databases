@@ -1354,7 +1354,7 @@ VFG007478gbWP001234824,(fliE) flagellar hook-basal body protein [Flagella (VF051
 VFG007508gbWP000387035,"(flaI) flagellar rod protein FlaI, putative [Flagella (VF0519) - Motility (VFC0204)] [Vibrio cholerae O1 biovar El Tor str. N16961]",FALSE
 VFG007514gbWP000052031,(fliD) flagellar hook-associated protein [Flagella (VF0519) - Motility (VFC0204)] [Vibrio cholerae O1 biovar El Tor str. N16961],FALSE
 VFG007520gbWP000405330,(flaG) flagellar protein FlaG [Flagella (VF0519) - Motility (VFC0204)] [Vibrio cholerae O1 biovar El Tor str. N16961],FALSE
-VFG007532gbWP000290371,(flaD) flagellin [Flagella (VF0519) - Motility (VFC0204)] [Vibrio cholerae O1 biovar El Tor str. N16961],TRUE
+VFG007532gbWP000290371,(flaD) flagellin [Flagella (VF0519) - Motility (VFC0204)] [Vibrio cholerae O1 biovar El Tor str. N16961],FALSE
 VFG007544gbWP000075896,(cheW) purine-binding chemotaxis protein CheW [Flagella (VF0519) - Motility (VFC0204)] [Vibrio cholerae O1 biovar El Tor str. N16961],FALSE
 VFG007586gbWP001881782,(flhF) flagellar biosynthesis protein [Flagella (VF0519) - Motility (VFC0204)] [Vibrio cholerae O1 biovar El Tor str. N16961],FALSE
 VFG007598gbWP000362406,(motA) flagellar motor protein [Flagella (VF0519) - Motility (VFC0204)] [Vibrio cholerae O1 biovar El Tor str. N16961],FALSE
@@ -1900,7 +1900,7 @@ gi54296774refYP123143.1,small-molecule methyltransferase IraA [Legionella pneumo
 gi54296559refYP122928.1,hypothetical protein lpp0590 [Legionella pneumophila str. Paris],FALSE
 gi54298666refYP125035.1,defect in organelle trafficking protein DotB (ATPase) [Legionella pneumophila str. Paris],TRUE
 gi54296815refYP123184.1,macrophage infectivity potentiator [Legionella pneumophila str. Paris],FALSE
-gi54297249refYP123618.1,flagellin [Legionella pneumophila str. Paris],TRUE
+gi54297249refYP123618.1,flagellin [Legionella pneumophila str. Paris],FALSE
 gi82524575refYP406170.1,IpgA [Shigella dysenteriae Sd197],FALSE
 gi82524576refYP406171.1,IcsB [Shigella dysenteriae Sd197],FALSE
 gi82524577refYP406172.1,IpgD [Shigella dysenteriae Sd197],FALSE

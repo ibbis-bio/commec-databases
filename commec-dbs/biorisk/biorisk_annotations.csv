@@ -2891,186 +2891,186 @@ BIORISK_1089,{FLAG}75185614_AGGL_ABRPR RecName: Full=Agglutinin-1; AltName: Full
 BIORISK_1090,{FLAG}386634_01-ST-3=heat-stable enterotoxin [Vibrio cholerae 01 Peptide 19 aa],TRUE
 BIORISK_1091,{FLAG}516283061_accessory cholera enterotoxin [Vibrio cholerae],TRUE
 BIORISK_1092,{FLAG}18144541_hyaluronidase [Clostridium perfringens str. 13],TRUE
-BIORISK_RICIN_10072025,{FLAG}RICIN HMM ADDED 2025,TRUE
-1A8M_1ExtractedfromPDB,{FLAG},TRUE
-1CA1_1ExtractedfromPDB,{FLAG},TRUE
-1CK1_1ExtractedfromPDB,{FLAG},TRUE
-1ESF_1ExtractedfromPDB,{FLAG},TRUE
-1ESF_2ExtractedfromPDB,{FLAG},TRUE
-1ESF_3ExtractedfromPDB,{FLAG},TRUE
-1F77_1ExtractedfromPDB,{FLAG},TRUE
-1F77_2ExtractedfromPDB,{FLAG},TRUE
-1F77_3ExtractedfromPDB,{FLAG},TRUE
-1F82_1ExtractedfromPDB,{FLAG},TRUE
-1GIQ_1ExtractedfromPDB,{FLAG},TRUE
-1STE_1ExtractedfromPDB,{FLAG},TRUE
-1XTC_1ExtractedfromPDB,{FLAG},TRUE
-1XTC_2ExtractedfromPDB,{FLAG},TRUE
-1XTC_3ExtractedfromPDB,{FLAG},TRUE
-1XXG_1ExtractedfromPDB,{FLAG},TRUE
-1XXG_2ExtractedfromPDB,{FLAG},TRUE
-1XXG_3ExtractedfromPDB,{FLAG},TRUE
-1ZN3_1ExtractedfromPDB,{FLAG},TRUE
-1ZN3_2ExtractedfromPDB,{FLAG},TRUE
-1ZN3_3ExtractedfromPDB,{FLAG},TRUE
-1ZN3_4ExtractedfromPDB,{FLAG},TRUE
-2A8A_1ExtractedfromPDB,{FLAG},TRUE
-2A8A_2ExtractedfromPDB,{FLAG},TRUE
-2A97_1ExtractedfromPDB,{FLAG},TRUE
-2A97_2ExtractedfromPDB,{FLAG},TRUE
-2A97_3ExtractedfromPDB,{FLAG},TRUE
-2AAI_1ExtractedfromPDB,{FLAG},TRUE
-2AAI_2ExtractedfromPDB,{FLAG},TRUE
-2E4M_1ExtractedfromPDB,{FLAG},TRUE
-2E4M_2ExtractedfromPDB,{FLAG},TRUE
-2NTT_1ExtractedfromPDB,{FLAG},TRUE
-2Q3N_1ExtractedfromPDB,{FLAG},TRUE
-2Q3N_2ExtractedfromPDB,{FLAG},TRUE
-2RG9_1ExtractedfromPDB,{FLAG},TRUE
-2RG9_2ExtractedfromPDB,{FLAG},TRUE
-2ZS6_1ExtractedfromPDB,{FLAG},TRUE
-2ZS6_2ExtractedfromPDB,{FLAG},TRUE
-3ANZ_1ExtractedfromPDB,{FLAG},TRUE
-3ANZ_2ExtractedfromPDB,{FLAG},TRUE
-3K3Q_1ExtractedfromPDB,{FLAG},TRUE
-3K3Q_2ExtractedfromPDB,{FLAG},TRUE
-3K3Q_3ExtractedfromPDB,{FLAG},TRUE
-3K3Q_4ExtractedfromPDB,{FLAG},TRUE
-3MPP_1ExtractedfromPDB,{FLAG},TRUE
-3MPP_2ExtractedfromPDB,{FLAG},TRUE
-3MPP_3ExtractedfromPDB,{FLAG},TRUE
-3MPP_4ExtractedfromPDB,{FLAG},TRUE
-3MPP_5ExtractedfromPDB,{FLAG},TRUE
-3MPP_6ExtractedfromPDB,{FLAG},TRUE
-3MXG_1ExtractedfromPDB,{FLAG},TRUE
-3N7K_1ExtractedfromPDB,{FLAG},TRUE
-3N7K_2ExtractedfromPDB,{FLAG},TRUE
-3N7K_3ExtractedfromPDB,{FLAG},TRUE
-3OBT_1ExtractedfromPDB,{FLAG},TRUE
-3OBT_2ExtractedfromPDB,{FLAG},TRUE
-3OBT_3ExtractedfromPDB,{FLAG},TRUE
-3OBT_4ExtractedfromPDB,{FLAG},TRUE
-3RMX_1ExtractedfromPDB,{FLAG},TRUE
-3RMX_2ExtractedfromPDB,{FLAG},TRUE
-3RMX_3ExtractedfromPDB,{FLAG},TRUE
-3RMX_4ExtractedfromPDB,{FLAG},TRUE
-3RMX_5ExtractedfromPDB,{FLAG},TRUE
-3RMX_6ExtractedfromPDB,{FLAG},TRUE
-3RMX_7ExtractedfromPDB,{FLAG},TRUE
-3SEB_1ExtractedfromPDB,{FLAG},TRUE
-3ZUS_1ExtractedfromPDB,{FLAG},TRUE
-3ZUS_2ExtractedfromPDB,{FLAG},TRUE
-3ZUS_3ExtractedfromPDB,{FLAG},TRUE
-3ZUS_4ExtractedfromPDB,{FLAG},TRUE
-3ZUS_5ExtractedfromPDB,{FLAG},TRUE
-4FVU_1ExtractedfromPDB,{FLAG},TRUE
-4FVU_2ExtractedfromPDB,{FLAG},TRUE
-4M1U_1ExtractedfromPDB,{FLAG},TRUE
-4M1U_2ExtractedfromPDB,{FLAG},TRUE
-4M1U_3ExtractedfromPDB,{FLAG},TRUE
-4OHJ_1ExtractedfromPDB,{FLAG},TRUE
-4OHJ_2ExtractedfromPDB,{FLAG},TRUE
-4U2X_1ExtractedfromPDB,{FLAG},TRUE
-4U2X_2ExtractedfromPDB,{FLAG},TRUE
-4U2X_3ExtractedfromPDB,{FLAG},TRUE
-4U2X_4ExtractedfromPDB,{FLAG},TRUE
-4U2X_5ExtractedfromPDB,{FLAG},TRUE
-4U2X_6ExtractedfromPDB,{FLAG},TRUE
-4U2X_7ExtractedfromPDB,{FLAG},TRUE
-4U2X_8ExtractedfromPDB,{FLAG},TRUE
-4ZKT_10ExtractedfromPDB,{FLAG},TRUE
-4ZKT_11ExtractedfromPDB,{FLAG},TRUE
-4ZKT_12ExtractedfromPDB,{FLAG},TRUE
-4ZKT_13ExtractedfromPDB,{FLAG},TRUE
-4ZKT_14ExtractedfromPDB,{FLAG},TRUE
-4ZKT_15ExtractedfromPDB,{FLAG},TRUE
-4ZKT_16ExtractedfromPDB,{FLAG},TRUE
-4ZKT_17ExtractedfromPDB,{FLAG},TRUE
-4ZKT_18ExtractedfromPDB,{FLAG},TRUE
-4ZKT_19ExtractedfromPDB,{FLAG},TRUE
-4ZKT_1ExtractedfromPDB,{FLAG},TRUE
-4ZKT_20ExtractedfromPDB,{FLAG},TRUE
-4ZKT_2ExtractedfromPDB,{FLAG},TRUE
-4ZKT_3ExtractedfromPDB,{FLAG},TRUE
-4ZKT_4ExtractedfromPDB,{FLAG},TRUE
-4ZKT_5ExtractedfromPDB,{FLAG},TRUE
-4ZKT_6ExtractedfromPDB,{FLAG},TRUE
-4ZKT_7ExtractedfromPDB,{FLAG},TRUE
-4ZKT_8ExtractedfromPDB,{FLAG},TRUE
-4ZKT_9ExtractedfromPDB,{FLAG},TRUE
-5JMC_10ExtractedfromPDB,{FLAG},TRUE
-5JMC_11ExtractedfromPDB,{FLAG},TRUE
-5JMC_12ExtractedfromPDB,{FLAG},TRUE
-5JMC_13ExtractedfromPDB,{FLAG},TRUE
-5JMC_1ExtractedfromPDB,{FLAG},TRUE
-5JMC_2ExtractedfromPDB,{FLAG},TRUE
-5JMC_3ExtractedfromPDB,{FLAG},TRUE
-5JMC_4ExtractedfromPDB,{FLAG},TRUE
-5JMC_5ExtractedfromPDB,{FLAG},TRUE
-5JMC_6ExtractedfromPDB,{FLAG},TRUE
-5JMC_7ExtractedfromPDB,{FLAG},TRUE
-5JMC_8ExtractedfromPDB,{FLAG},TRUE
-5JMC_9ExtractedfromPDB,{FLAG},TRUE
-5OOO_1ExtractedfromPDB,{FLAG},TRUE
-5OOO_2ExtractedfromPDB,{FLAG},TRUE
-5OOO_3ExtractedfromPDB,{FLAG},TRUE
-5U75_1ExtractedfromPDB,{FLAG},TRUE
-5V5G_1ExtractedfromPDB,{FLAG},TRUE
-5V5G_2ExtractedfromPDB,{FLAG},TRUE
-5V5G_3ExtractedfromPDB,{FLAG},TRUE
-5V5G_4ExtractedfromPDB,{FLAG},TRUE
-5V8U_1ExtractedfromPDB,{FLAG},TRUE
-5V8U_2ExtractedfromPDB,{FLAG},TRUE
-5V8U_3ExtractedfromPDB,{FLAG},TRUE
-5V8U_4ExtractedfromPDB,{FLAG},TRUE
-5V8U_5ExtractedfromPDB,{FLAG},TRUE
-5V8U_6ExtractedfromPDB,{FLAG},TRUE
-5V8U_7ExtractedfromPDB,{FLAG},TRUE
-5V8U_8ExtractedfromPDB,{FLAG},TRUE
-5V8U_9ExtractedfromPDB,{FLAG},TRUE
-5Z3J_1ExtractedfromPDB,{FLAG},TRUE
-6ES1_1ExtractedfromPDB,{FLAG},TRUE
-6ES1_2ExtractedfromPDB,{FLAG},TRUE
-6FFA_1ExtractedfromPDB,{FLAG},TRUE
-6FFA_2ExtractedfromPDB,{FLAG},TRUE
-6G5K_1ChainsACauthBBotulinumneurotoxintypeBClostridiumbotulinum1491,{FLAG},TRUE
-6G5K_2ChainsBauth33DauthCSynaptotagmin-1Homosapiens9606,{FLAG},TRUE
-6KRY_1ExtractedfromPDB,{FLAG},TRUE
-6OBM_1ExtractedfromPDB,{FLAG},TRUE
-6OBM_2ExtractedfromPDB,{FLAG},TRUE
-6OBM_3ExtractedfromPDB,{FLAG},TRUE
-6S8C_10ExtractedfromPDB,{FLAG},TRUE
-6S8C_11ExtractedfromPDB,{FLAG},TRUE
-6S8C_12ExtractedfromPDB,{FLAG},TRUE
-6S8C_13ExtractedfromPDB,{FLAG},TRUE
-6S8C_14ExtractedfromPDB,{FLAG},TRUE
-6S8C_15ExtractedfromPDB,{FLAG},TRUE
-6S8C_16ExtractedfromPDB,{FLAG},TRUE
-6S8C_1ExtractedfromPDB,{FLAG},TRUE
-6S8C_2ExtractedfromPDB,{FLAG},TRUE
-6S8C_3ExtractedfromPDB,{FLAG},TRUE
-6S8C_4ExtractedfromPDB,{FLAG},TRUE
-6S8C_5ExtractedfromPDB,{FLAG},TRUE
-6S8C_6ExtractedfromPDB,{FLAG},TRUE
-6S8C_7ExtractedfromPDB,{FLAG},TRUE
-6S8C_8ExtractedfromPDB,{FLAG},TRUE
-6S8C_9ExtractedfromPDB,{FLAG},TRUE
-7FFE_1ChainsADauthFHauthKOauthSCapsidproteinVenezuelanequineencephalitisvirusstrainTC-8311037,{FLAG},TRUE
-7FFE_2ChainsBCEauthGKauthOSpikeglycoproteinE1VenezuelanequineencephalitisvirusstrainTC-8311037,{FLAG},TRUE
-7FFE_3ChainsFauthIIauthLLauthPPauthTassemblyproteinE3VenezuelanequineencephalitisvirusstrainTC-8311037,{FLAG},TRUE
-7FFE_4ChainsGauthJJauthNMauthQNauthRSpikeglycoproteinE2VenezuelanequineencephalitisvirusstrainTC-8311037,{FLAG},TRUE
-7K84_1ExtractedfromPDB,{FLAG},TRUE
-7K84_2ExtractedfromPDB,{FLAG},TRUE
-7K84_3ExtractedfromPDB,{FLAG},TRUE
-7KZ7_1ExtractedfromPDB,{FLAG},TRUE
-8B07_1ExtractedfromPDB,{FLAG},TRUE
-8B07_2ExtractedfromPDB,{FLAG},TRUE
-8B07_3ExtractedfromPDB,{FLAG},TRUE
-8B07_4ExtractedfromPDB,{FLAG},TRUE
-8B07_5ExtractedfromPDB,{FLAG},TRUE
-8C9K_1ExtractedfromPDB,{FLAG},TRUE
-8DNG_1ExtractedfromPDB,{FLAG},TRUE
-8DNG_2ExtractedfromPDB,{FLAG},TRUE
+BIORISK_RICIN_10072025,RICIN,TRUE
+1A8M_1ExtractedfromPDB,TUMOR NECROSIS FACTOR ALPHA [Homo sapiens] PDB : 1A8M,TRUE
+1CA1_1ExtractedfromPDB,ALPHA-TOXIN [Clostridium perfringens] PDB : 1CA1,TRUE
+1CK1_1ExtractedfromPDB,PROTEIN (ENTEROTOXIN TYPE C-3) [Staphylococcus aureus] PDB : 1CK1,TRUE
+1ESF_1ExtractedfromPDB,STAPHYLOCOCCAL ENTEROTOXIN A [Staphylococcus aureus] PDB : 1ESF,TRUE
+1ESF_2ExtractedfromPDB,STAPHYLOCOCCAL ENTEROTOXIN A [Staphylococcus aureus] PDB : 1ESF,TRUE
+1ESF_3ExtractedfromPDB,STAPHYLOCOCCAL ENTEROTOXIN A [Staphylococcus aureus] PDB : 1ESF,TRUE
+1F77_1ExtractedfromPDB,ENTEROTOXIN H [Staphylococcus aureus] PDB : 1F77,TRUE
+1F77_2ExtractedfromPDB,ENTEROTOXIN H [Staphylococcus aureus] PDB : 1F77,TRUE
+1F77_3ExtractedfromPDB,ENTEROTOXIN H [Staphylococcus aureus] PDB : 1F77,TRUE
+1F82_1ExtractedfromPDB,BOTULINUM NEUROTOXIN TYPE B [Clostridium botulinum] PDB : 1F82,TRUE
+1GIQ_1ExtractedfromPDB,IOTA TOXIN COMPONENT IA [Clostridium perfringens] PDB : 1GIQ,TRUE
+1STE_1ExtractedfromPDB,STAPHYLOCOCCAL ENTEROTOXIN C2 [Staphylococcus aureus] PDB : 1STE,TRUE
+1XTC_1ExtractedfromPDB,CHOLERA TOXIN [Vibrio cholerae] PDB : 1XTC,TRUE
+1XTC_2ExtractedfromPDB,CHOLERA TOXIN [Vibrio cholerae] PDB : 1XTC,TRUE
+1XTC_3ExtractedfromPDB,CHOLERA TOXIN [Vibrio cholerae] PDB : 1XTC,TRUE
+1XXG_1ExtractedfromPDB,enterotoxin [Staphylococcus aureus] PDB : 1XXG,TRUE
+1XXG_2ExtractedfromPDB,enterotoxin [Staphylococcus aureus] PDB : 1XXG,TRUE
+1XXG_3ExtractedfromPDB,enterotoxin [Staphylococcus aureus] PDB : 1XXG,TRUE
+1ZN3_1ExtractedfromPDB,botulinum neurotoxin type E [Clostridium botulinum] PDB : 1ZN3,TRUE
+1ZN3_2ExtractedfromPDB,botulinum neurotoxin type E [Clostridium botulinum] PDB : 1ZN3,TRUE
+1ZN3_3ExtractedfromPDB,botulinum neurotoxin type E [Clostridium botulinum] PDB : 1ZN3,TRUE
+1ZN3_4ExtractedfromPDB,botulinum neurotoxin type E [Clostridium botulinum] PDB : 1ZN3,TRUE
+2A8A_1ExtractedfromPDB,Botulinum neurotoxin type F [Clostridium botulinum] PDB : 2A8A,TRUE
+2A8A_2ExtractedfromPDB,Botulinum neurotoxin type F [Clostridium botulinum] PDB : 2A8A,TRUE
+2A97_1ExtractedfromPDB,Botulinum neurotoxin type F [Clostridium botulinum] PDB : 2A97,TRUE
+2A97_2ExtractedfromPDB,Botulinum neurotoxin type F [Clostridium botulinum] PDB : 2A97,TRUE
+2A97_3ExtractedfromPDB,Botulinum neurotoxin type F [Clostridium botulinum] PDB : 2A97,TRUE
+2AAI_1ExtractedfromPDB,RICIN (A CHAIN) [Ricinus communis] PDB : 2AAI,TRUE
+2AAI_2ExtractedfromPDB,RICIN (A CHAIN) [Ricinus communis] PDB : 2AAI,TRUE
+2E4M_1ExtractedfromPDB,Main hemagglutinin component [Clostridium botulinum] PDB : 2E4M,TRUE
+2E4M_2ExtractedfromPDB,Main hemagglutinin component [Clostridium botulinum] PDB : 2E4M,TRUE
+2NTT_1ExtractedfromPDB,Staphylococcal enterotoxin K [Staphylococcus aureus subsp. aureus] PDB : 2NTT,TRUE
+2Q3N_1ExtractedfromPDB,Agglutinin-1 A chain [Abrus precatorius] PDB : 2Q3N,TRUE
+2Q3N_2ExtractedfromPDB,Agglutinin-1 A chain [Abrus precatorius] PDB : 2Q3N,TRUE
+2RG9_1ExtractedfromPDB,Beta-galactoside-specific lectin 1 chain A isoform 1 [Viscum album] PDB : 2RG9,TRUE
+2RG9_2ExtractedfromPDB,Beta-galactoside-specific lectin 1 chain A isoform 1 [Viscum album] PDB : 2RG9,TRUE
+2ZS6_1ExtractedfromPDB,Hemagglutinin components HA3 [Clostridium botulinum] PDB : 2ZS6,TRUE
+2ZS6_2ExtractedfromPDB,Hemagglutinin components HA3 [Clostridium botulinum] PDB : 2ZS6,TRUE
+3ANZ_1ExtractedfromPDB,Alpha-hemolysin [Staphylococcus aureus] PDB : 3ANZ,TRUE
+3ANZ_2ExtractedfromPDB,Alpha-hemolysin [Staphylococcus aureus] PDB : 3ANZ,TRUE
+3K3Q_1ExtractedfromPDB,llama Aa1 VHH domain [Lama glama] PDB : 3K3Q,TRUE
+3K3Q_2ExtractedfromPDB,llama Aa1 VHH domain [Lama glama] PDB : 3K3Q,TRUE
+3K3Q_3ExtractedfromPDB,llama Aa1 VHH domain [Lama glama] PDB : 3K3Q,TRUE
+3K3Q_4ExtractedfromPDB,llama Aa1 VHH domain [Lama glama] PDB : 3K3Q,TRUE
+3MPP_1ExtractedfromPDB,Botulinum neurotoxin type G [Clostridium botulinum] PDB : 3MPP,TRUE
+3MPP_2ExtractedfromPDB,Botulinum neurotoxin type G [Clostridium botulinum] PDB : 3MPP,TRUE
+3MPP_3ExtractedfromPDB,Botulinum neurotoxin type G [Clostridium botulinum] PDB : 3MPP,TRUE
+3MPP_4ExtractedfromPDB,Botulinum neurotoxin type G [Clostridium botulinum] PDB : 3MPP,TRUE
+3MPP_5ExtractedfromPDB,Botulinum neurotoxin type G [Clostridium botulinum] PDB : 3MPP,TRUE
+3MPP_6ExtractedfromPDB,Botulinum neurotoxin type G [Clostridium botulinum] PDB : 3MPP,TRUE
+3MXG_1ExtractedfromPDB,Shiga-like toxin 2 subunit B [Escherichia coli] PDB : 3MXG,TRUE
+3N7K_1ExtractedfromPDB,Botulinum neurotoxin type C1 [Clostridium botulinum] PDB : 3N7K,TRUE
+3N7K_2ExtractedfromPDB,Botulinum neurotoxin type C1 [Clostridium botulinum] PDB : 3N7K,TRUE
+3N7K_3ExtractedfromPDB,Botulinum neurotoxin type C1 [Clostridium botulinum] PDB : 3N7K,TRUE
+3OBT_1ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3OBT,TRUE
+3OBT_2ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3OBT,TRUE
+3OBT_3ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3OBT,TRUE
+3OBT_4ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3OBT,TRUE
+3RMX_1ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3RMX,TRUE
+3RMX_2ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3RMX,TRUE
+3RMX_3ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3RMX,TRUE
+3RMX_4ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3RMX,TRUE
+3RMX_5ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3RMX,TRUE
+3RMX_6ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3RMX,TRUE
+3RMX_7ExtractedfromPDB,Botulinum neurotoxin type D [Clostridium botulinum] PDB : 3RMX,TRUE
+3SEB_1ExtractedfromPDB,STAPHYLOCOCCAL ENTEROTOXIN B [Staphylococcus aureus] PDB : 3SEB,TRUE
+3ZUS_1ExtractedfromPDB,"BOTULINUM NEUROTOXIN TYPE A, SYNAPTOSOMAL-ASSOCIATED PROTEIN 23 [CLOSTRIDIUM BOTULINUM] PDB : 3ZUS",TRUE
+3ZUS_2ExtractedfromPDB,"BOTULINUM NEUROTOXIN TYPE A, SYNAPTOSOMAL-ASSOCIATED PROTEIN 23 [CLOSTRIDIUM BOTULINUM] PDB : 3ZUS",TRUE
+3ZUS_3ExtractedfromPDB,"BOTULINUM NEUROTOXIN TYPE A, SYNAPTOSOMAL-ASSOCIATED PROTEIN 23 [CLOSTRIDIUM BOTULINUM] PDB : 3ZUS",TRUE
+3ZUS_4ExtractedfromPDB,"BOTULINUM NEUROTOXIN TYPE A, SYNAPTOSOMAL-ASSOCIATED PROTEIN 23 [CLOSTRIDIUM BOTULINUM] PDB : 3ZUS",TRUE
+3ZUS_5ExtractedfromPDB,"BOTULINUM NEUROTOXIN TYPE A, SYNAPTOSOMAL-ASSOCIATED PROTEIN 23 [CLOSTRIDIUM BOTULINUM] PDB : 3ZUS",TRUE
+4FVU_1ExtractedfromPDB,Nucleoprotein [Lassa virus Josiah] PDB : 4FVU,TRUE
+4FVU_2ExtractedfromPDB,Nucleoprotein [Lassa virus Josiah] PDB : 4FVU,TRUE
+4M1U_1ExtractedfromPDB,Shiga toxin 2 A-subunit [Escherichia coli O157:H7] PDB : 4M1U,TRUE
+4M1U_2ExtractedfromPDB,Shiga toxin 2 A-subunit [Escherichia coli O157:H7] PDB : 4M1U,TRUE
+4M1U_3ExtractedfromPDB,Shiga toxin 2 A-subunit [Escherichia coli O157:H7] PDB : 4M1U,TRUE
+4OHJ_1ExtractedfromPDB,Toxic shock syndrome toxin-1 [Staphylococcus aureus] PDB : 4OHJ,TRUE
+4OHJ_2ExtractedfromPDB,Toxic shock syndrome toxin-1 [Staphylococcus aureus] PDB : 4OHJ,TRUE
+4U2X_1ExtractedfromPDB,Membrane-associated protein VP24 [Zaire ebolavirus] PDB : 4U2X,TRUE
+4U2X_2ExtractedfromPDB,Membrane-associated protein VP24 [Zaire ebolavirus] PDB : 4U2X,TRUE
+4U2X_3ExtractedfromPDB,Membrane-associated protein VP24 [Zaire ebolavirus] PDB : 4U2X,TRUE
+4U2X_4ExtractedfromPDB,Membrane-associated protein VP24 [Zaire ebolavirus] PDB : 4U2X,TRUE
+4U2X_5ExtractedfromPDB,Membrane-associated protein VP24 [Zaire ebolavirus] PDB : 4U2X,TRUE
+4U2X_6ExtractedfromPDB,Membrane-associated protein VP24 [Zaire ebolavirus] PDB : 4U2X,TRUE
+4U2X_7ExtractedfromPDB,Membrane-associated protein VP24 [Zaire ebolavirus] PDB : 4U2X,TRUE
+4U2X_8ExtractedfromPDB,Membrane-associated protein VP24 [Zaire ebolavirus] PDB : 4U2X,TRUE
+4ZKT_10ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_11ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_12ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_13ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_14ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_15ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_16ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_17ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_18ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_19ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_1ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_20ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_2ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_3ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_4ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_5ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_6ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_7ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_8ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+4ZKT_9ExtractedfromPDB,Bontoxilysin A [Clostridium botulinum (strain Alaska E43 / Type E3)] PDB : 4ZKT,TRUE
+5JMC_10ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_11ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_12ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_13ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_1ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_2ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_3ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_4ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_5ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_6ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_7ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_8ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5JMC_9ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5JMC,TRUE
+5OOO_1ExtractedfromPDB,Non-structural protein NS-S [Rift valley fever virus] PDB : 5OOO,TRUE
+5OOO_2ExtractedfromPDB,Non-structural protein NS-S [Rift valley fever virus] PDB : 5OOO,TRUE
+5OOO_3ExtractedfromPDB,Non-structural protein NS-S [Rift valley fever virus] PDB : 5OOO,TRUE
+5U75_1ExtractedfromPDB,Enterotoxin-like toxin X [Staphylococcus aureus] PDB : 5U75,TRUE
+5V5G_1ExtractedfromPDB,RNA-directed RNA polymerase L [Crimean-Congo hemorrhagic fever virus (strain Nigeria/IbAr10200/1970)] PDB : 5V5G,TRUE
+5V5G_2ExtractedfromPDB,RNA-directed RNA polymerase L [Crimean-Congo hemorrhagic fever virus (strain Nigeria/IbAr10200/1970)] PDB : 5V5G,TRUE
+5V5G_3ExtractedfromPDB,RNA-directed RNA polymerase L [Crimean-Congo hemorrhagic fever virus (strain Nigeria/IbAr10200/1970)] PDB : 5V5G,TRUE
+5V5G_4ExtractedfromPDB,RNA-directed RNA polymerase L [Crimean-Congo hemorrhagic fever virus (strain Nigeria/IbAr10200/1970)] PDB : 5V5G,TRUE
+5V8U_1ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5V8U_2ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5V8U_3ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5V8U_4ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5V8U_5ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5V8U_6ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5V8U_7ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5V8U_8ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5V8U_9ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 5V8U,TRUE
+5Z3J_1ExtractedfromPDB,Abrin A-chain [Abrus precatorius] PDB : 5Z3J,TRUE
+6ES1_1ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 6ES1,TRUE
+6ES1_2ExtractedfromPDB,Botulinum neurotoxin type A [Clostridium botulinum] PDB : 6ES1,TRUE
+6FFA_1ExtractedfromPDB,Lbpro [Foot-and-mouth disease virus] PDB : 6FFA,TRUE
+6FFA_2ExtractedfromPDB,Lbpro [Foot-and-mouth disease virus] PDB : 6FFA,TRUE
+6G5K_1ChainsACauthBBotulinumneurotoxintypeBClostridiumbotulinum1491,Botulinum neurotoxin type B [Clostridium botulinum] PDB : 6G5K,TRUE
+6G5K_2ChainsBauth33DauthCSynaptotagmin-1Homosapiens9606,Botulinum neurotoxin type B [Clostridium botulinum] PDB : 6G5K,TRUE
+6KRY_1ExtractedfromPDB,Enterotoxin SEN variant [Staphylococcus aureus] PDB : 6KRY,TRUE
+6OBM_1ExtractedfromPDB,Ricin A chain [Ricinus communis] PDB : 6OBM,TRUE
+6OBM_2ExtractedfromPDB,Ricin A chain [Ricinus communis] PDB : 6OBM,TRUE
+6OBM_3ExtractedfromPDB,Ricin A chain [Ricinus communis] PDB : 6OBM,TRUE
+6S8C_10ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_11ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_12ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_13ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_14ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_15ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_16ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_1ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_2ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_3ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_4ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_5ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_6ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_7ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_8ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+6S8C_9ExtractedfromPDB,"Genome polyprotein,Genome polyprotein [Tick-borne encephalitis virus (WESTERN SUBTYPE)] PDB : 6S8C",TRUE
+7FFE_1ChainsADauthFHauthKOauthSCapsidproteinVenezuelanequineencephalitisvirusstrainTC-8311037,Capsid protein [Venezuelan equine encephalitis virus (strain TC-83)] PDB : 7FFE,TRUE
+7FFE_2ChainsBCEauthGKauthOSpikeglycoproteinE1VenezuelanequineencephalitisvirusstrainTC-8311037,Capsid protein [Venezuelan equine encephalitis virus (strain TC-83)] PDB : 7FFE,TRUE
+7FFE_3ChainsFauthIIauthLLauthPPauthTassemblyproteinE3VenezuelanequineencephalitisvirusstrainTC-8311037,Capsid protein [Venezuelan equine encephalitis virus (strain TC-83)] PDB : 7FFE,TRUE
+7FFE_4ChainsGauthJJauthNMauthQNauthRSpikeglycoproteinE2VenezuelanequineencephalitisvirusstrainTC-8311037,Capsid protein [Venezuelan equine encephalitis virus (strain TC-83)] PDB : 7FFE,TRUE
+7K84_1ExtractedfromPDB,Botulinum neurotoxin type E [Clostridium botulinum] PDB : 7K84,TRUE
+7K84_2ExtractedfromPDB,Botulinum neurotoxin type E [Clostridium botulinum] PDB : 7K84,TRUE
+7K84_3ExtractedfromPDB,Botulinum neurotoxin type E [Clostridium botulinum] PDB : 7K84,TRUE
+7KZ7_1ExtractedfromPDB,Botulinum neurotoxin type X [Clostridium botulinum] PDB : 7KZ7,TRUE
+8B07_1ExtractedfromPDB,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase [Monkeypox virus] PDB : 8B07,TRUE
+8B07_2ExtractedfromPDB,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase [Monkeypox virus] PDB : 8B07,TRUE
+8B07_3ExtractedfromPDB,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase [Monkeypox virus] PDB : 8B07,TRUE
+8B07_4ExtractedfromPDB,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase [Monkeypox virus] PDB : 8B07,TRUE
+8B07_5ExtractedfromPDB,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase [Monkeypox virus] PDB : 8B07,TRUE
+8C9K_1ExtractedfromPDB,MPXVgp165 [Monkeypox virus] PDB : 8C9K,TRUE
+8DNG_1ExtractedfromPDB,Fusion glycoprotein F0 [Nipah henipavirus] PDB : 8DNG,TRUE
+8DNG_2ExtractedfromPDB,Fusion glycoprotein F0 [Nipah henipavirus] PDB : 8DNG,TRUE
 A0A8D9W4Z1,{FLAG},TRUE
 ADC37993.1,{FLAG},TRUE
 ADC37994.1,{FLAG},TRUE

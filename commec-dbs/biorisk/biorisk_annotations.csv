@@ -2379,7 +2379,7 @@ Q6G8G5,HTH-type transcriptional regulator rot ,TRUE
 Q497V5,S1 RNA-binding domain-containing protein 1 ,TRUE
 A0A0H2XIV9,Type VII secretion system protein EssD ,TRUE
 P62561,Exotoxin type A ,TRUE
-Q70US9,Volkensin (Fragment) ,TRUE
+Q70US9,Volkensin (Fragment),TRUE
 RIP, Ribosome inactivating protein,TRUE
 RicinBlectin2, Ricin-type beta-trefoil lectin domain-like,FALSE
 ToxinRbindN, Clostridium neurotoxin  N-terminal receptor binding,TRUE
@@ -2407,490 +2407,490 @@ Amidohydro1, Amidohydrolase family,FALSE
 Imm26, Immunity protein 26,TRUE
 BinarytoxB, Clostridial binary toxin B/anthrax toxin PA Ca-binding domain,FALSE
 Toxintrans, Clostridium neurotoxin  Translocation domain,TRUE
-BIORISK_0004,{FLAG}223516920_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0005,{FLAG}18266760_terminase [Staphylococcus aureus],TRUE
-BIORISK_0006,{FLAG}49258639_B Chain B Shiga Toxin Type 2,TRUE
-BIORISK_0007,{FLAG}402516273_shiga-like toxin A subunit [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00325],TRUE
-BIORISK_0008,{FLAG}13959317_CBLE_VISAL RecName: Full=Chitin-binding lectin,TRUE
-BIORISK_0009,{FLAG}sp|P0DPR0|HA33C_CBCP Main hemagglutinin component type C OS=Clostridium botulinum C phage OX=12336 GN=HA-33 PE=1 SV=1,TRUE
-BIORISK_0010,{FLAG}sp|Q12120|AFLP_ASPPU Sterigmatocystin 8-O-methyltransferase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflP PE=1 SV=1,TRUE
-BIORISK_0011,{FLAG}113010_ABRC_ABRPR RecName: Full=Abrin-c; Contains: RecName: Full=Abrin-c A chain; AltName: Full=rRNA N-glycosidase; Contains: RecName: Full=Linker peptide; Contains: RecName: Full=Abrin-c B chain; Flags: Precursor,TRUE
-BIORISK_0012,{FLAG}3805790_bonT [Clostridium botulinum],TRUE
-BIORISK_0013,{FLAG}122223_HAPT_VIBCH RecName: Full=Hemagglutinin/proteinase; Short=HA/protease; AltName: Full=Vibriolysin; Flags: Precursor,TRUE
-BIORISK_0014,{FLAG}609627_EpsF [Vibrio cholerae],TRUE
-BIORISK_0015,{FLAG}1345371_lambda toxin [Clostridium perfringens],TRUE
-BIORISK_0042,{FLAG}223539154_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0043,{FLAG}91177950_shiga toxin subunit B partial [Escherichia coli],TRUE
-BIORISK_0044,{FLAG}159121347_shiga toxin A-chain (rRNA N-glycosidase) [Rickettsiella grylli],TRUE
-BIORISK_0045,{FLAG}126517424_protein A partial [Staphylococcus aureus],TRUE
-BIORISK_0046,{FLAG}205371671_enterotoxin SEI partial [Staphylococcus aureus],TRUE
-BIORISK_0047,{FLAG}257846024_exotoxin [Staphylococcus aureus A9635],TRUE
-BIORISK_0048,{FLAG}257851044_enterotoxin family protein [Staphylococcus aureus A8115],TRUE
-BIORISK_0049,{FLAG}262074225_diarrheal toxin [Staphylococcus aureus subsp. aureus ED98],TRUE
-BIORISK_0050,{FLAG}290919014_toxin-antitoxin system toxin component GNAT family [Staphylococcus aureus subsp. aureus M1015],TRUE
-BIORISK_0051,{FLAG}377744336_enterotoxin type I [Staphylococcus aureus subsp. aureus CIG290],TRUE
-BIORISK_0052,{FLAG}478006253_enterotoxin SEN partial [Staphylococcus aureus M1093],TRUE
-BIORISK_0053,{FLAG}580655683_alpha-hemolysin [Staphylococcus aureus SJOS6144],TRUE
-BIORISK_0054,{FLAG}52210274_putative exported protein [Burkholderia pseudomallei K96243],TRUE
-BIORISK_0055,{FLAG}17529701_VCA precursor [Viscum coloratum],TRUE
-BIORISK_0056,{FLAG}sp|A0A0H3KHN8|ETXA_STAAE Enterotoxin type A OS=Staphylococcus aureus (strain Newman) OX=426430 GN=sea PE=3 SV=1,TRUE
-BIORISK_0057,{FLAG}sp|P10149|STXA_BPH30 Shiga-like toxin 1 subunit A OS=Bacteriophage H30 OX=12371 GN=stxA PE=3 SV=1,TRUE
-BIORISK_0058,{FLAG}sp|Q45914|BXAN_CLOBO Non-toxic nonhemagglutinin type A OS=Clostridium botulinum OX=1491 GN=ant PE=1 SV=1,TRUE
-BIORISK_0059,{FLAG}sp|Q12732|AFLG_ASPPU Averantin hydroxylase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflG PE=1 SV=2,TRUE
-BIORISK_0060,{FLAG}544674225_botulinum neurotoxin type F5 BoNT/F [Clostridium botulinum],TRUE
-BIORISK_0061,{FLAG}609628_EpsG [Vibrio cholerae],TRUE
-BIORISK_0085,{FLAG}223539155_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0086,{FLAG}98991376_Shiga toxin 2A subunit partial [uncultured bacterium],TRUE
-BIORISK_0087,{FLAG}551991_enterotoxin B partial [Staphylococcus aureus],TRUE
-BIORISK_0088,{FLAG}18266751_orf1 [Staphylococcus aureus],TRUE
-BIORISK_0089,{FLAG}282762431_enterotoxin type A [Staphylococcus aureus A8117],TRUE
-BIORISK_0090,{FLAG}282764648_conserved hypothetical protein [Staphylococcus aureus A8117],TRUE
-BIORISK_0091,{FLAG}283789808_toxin-antitoxin system toxin component Bro family [Staphylococcus aureus subsp. aureus A017934/97],TRUE
-BIORISK_0103,{FLAG}446426584_enterotoxin [Staphylococcus aureus],TRUE
-BIORISK_0104,{FLAG}206812300_Shiga toxin type 2 partial [Escherichia coli],TRUE
-BIORISK_0105,{FLAG}18266767_orf18 [Staphylococcus aureus],TRUE
-BIORISK_0106,{FLAG}82656949_enterotoxin G [Staphylococcus aureus RF122],TRUE
-BIORISK_0107,{FLAG}282597118_toxin secretion ABC transporter permease/ATP-binding protein [Staphylococcus aureus subsp. aureus C160],TRUE
-BIORISK_0109,{FLAG}283460987_toxin repressor [Staphylococcus aureus subsp. aureus H19],TRUE
-BIORISK_0110,{FLAG}377760560_enterotoxin type G [Staphylococcus aureus subsp. aureus CIGC340D],TRUE
-BIORISK_0111,{FLAG}379993941_Enterotoxin [Staphylococcus aureus subsp. aureus DR10],TRUE
-BIORISK_0112,{FLAG}610824110_putative gamma-hemolysin component B [Staphylococcus aureus subsp. aureus CO-49],TRUE
-BIORISK_0113,{FLAG}WP_115289619.1 staphylococcal enterotoxin type U [Staphylococcus aureus],TRUE
-BIORISK_0114,{FLAG}18144940_hyaluronidase [Clostridium perfringens str. 13],TRUE
-BIORISK_0131,{FLAG}299114_gamma-hemolysin component II H gamma II=leukocidin S homolog [Staphylococcus aureus 4 RIMD 310925 Peptide Partial 58 aa segment 1 of 2],TRUE
-BIORISK_0132,{FLAG}18266769_orf21 [Staphylococcus aureus],TRUE
-BIORISK_0133,{FLAG}41207515_enterotoxin E partial [Staphylococcus aureus subsp. aureus],TRUE
-BIORISK_0134,{FLAG}257845126_exotoxin 15 [Staphylococcus aureus A9635],TRUE
-BIORISK_0135,{FLAG}sp|P59026|PHLC_CLOHA Phospholipase C OS=Clostridium haemolyticum OX=84025 GN=plc PE=3 SV=1,TRUE
-BIORISK_0136,{FLAG}sp|Q7T1R0|PA2B1_BUNFL Basic phospholipase A2 beta-bungarotoxin A1 chain OS=Bungarus flaviceps flaviceps OX=8615 PE=1 SV=1,TRUE
-BIORISK_0137,{FLAG}18145185_hyaluronidase [Clostridium perfringens str. 13],TRUE
-BIORISK_0150,{FLAG}223526512_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0151,{FLAG}320480_A60757 enterotoxin C-1 - Staphylococcus aureus (fragments),TRUE
-BIORISK_0152,{FLAG}5690274_AF147744_1 lantibiotic structural protein alpha [Staphylococcus aureus],TRUE
-BIORISK_0153,{FLAG}18266770_staphylococcal enterotoxin Q [Staphylococcus aureus],TRUE
-BIORISK_0154,{FLAG}110675397_type II site-specific deoxyribonuclease [Clostridium perfringens ATCC 13124],TRUE
-BIORISK_0186,{FLAG}223531474_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0187,{FLAG}486931970_leukotoxin LukE [Staphylococcus aureus],TRUE
-BIORISK_0188,{FLAG}528856218_toxin [Staphylococcus aureus S94],TRUE
-BIORISK_0189,{FLAG}446399561_Shiga-like toxin A subunit [Salmonella enterica],TRUE
-BIORISK_0190,{FLAG}7546438_B Chain B Mistletoe Lectin I From Viscum Album,TRUE
-BIORISK_0191,{FLAG}WP_155560339.1 staphylococcal enterotoxin type Y [Staphylococcus aureus],TRUE
-BIORISK_0192,{FLAG}sp|P0DPI0|BXA1_CLOBO Botulinum neurotoxin type A OS=Clostridium botulinum OX=1491 GN=botA PE=1 SV=1,TRUE
-BIORISK_0193,{FLAG}sp|Q0TV31|PHLC_CLOP1 Phospholipase C OS=Clostridium perfringens (strain ATCC 13124 / DSM 756 / JCM 1290 / NCIMB 6125 / NCTC 8237 / Type A) OX=195103 GN=plc PE=1 SV=1,TRUE
-BIORISK_0194,{FLAG}sp|Q00278|AFLD_ASPPU Norsolorinic acid ketoreductase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflD PE=1 SV=1,TRUE
-BIORISK_0195,{FLAG}733429_botulinum neurotoxin serotype A Hc fragment [synthetic construct],TRUE
-BIORISK_0196,{FLAG}746181789_peptidase M27 [Clostridium botulinum],TRUE
-BIORISK_0197,{FLAG}609624_EpsC [Vibrio cholerae],TRUE
-BIORISK_0198,{FLAG}224552642_cholera toxin A subunit partial [Vibrio cholerae],TRUE
-BIORISK_0199,{FLAG}390815523_shiga-like toxin 2 subunit A [Escherichia coli TW10119],TRUE
-BIORISK_0200,{FLAG}502966427_shiga-like toxin A subunit [Erwinia billingiae],TRUE
-BIORISK_0201,{FLAG}sp|P09385|STXA_BP933 Shiga-like toxin 2 subunit A OS=Escherichia phage 933W OX=10730 GN=stxA2 PE=1 SV=2,TRUE
-BIORISK_0208,{FLAG}18266768_orf19 [Staphylococcus aureus],TRUE
-BIORISK_0209,{FLAG}41207509_enterotoxin B partial [Staphylococcus aureus subsp. aureus],TRUE
-BIORISK_0210,{FLAG}152968458_enterotoxin partial [Staphylococcus aureus],TRUE
-BIORISK_0211,{FLAG}166409295_enterotoxin-like R [Staphylococcus aureus],TRUE
-BIORISK_0212,{FLAG}257862176_toxin beta-grasp domain-containing protein [Staphylococcus aureus A5937],TRUE
-BIORISK_0213,{FLAG}262075793_toxin exporting ABC transporter permease [Staphylococcus aureus subsp. aureus ED98],TRUE
-BIORISK_0214,{FLAG}282315108_superantigen-like protein [Staphylococcus aureus subsp. aureus C101],TRUE
-BIORISK_0215,{FLAG}282324395_S1 domain RNA-binding protein [Staphylococcus aureus subsp. aureus WBG10049],TRUE
-BIORISK_0217,{FLAG}377755108_enterotoxin type E [Staphylococcus aureus subsp. aureus CIGC340D],TRUE
-BIORISK_0218,{FLAG}410655537_Enterotoxin [Staphylococcus aureus],TRUE
-BIORISK_0219,{FLAG}445562397_enterotoxin type C-2 [Staphylococcus aureus KT/Y21],TRUE
-BIORISK_0220,{FLAG}446531329_enterotoxin [Staphylococcus aureus],TRUE
-BIORISK_0221,{FLAG}477725841_enterotoxin type D [Staphylococcus aureus M0279],TRUE
-BIORISK_0242,{FLAG}223510624_ricin-agglutinin family protein partial [Ricinus communis],TRUE
-BIORISK_0243,{FLAG}10803051_AF298816_2 shiga toxin II B subunit partial [Escherichia coli],TRUE
-BIORISK_0244,{FLAG}18266759_orf22 [Staphylococcus aureus],TRUE
-BIORISK_0245,{FLAG}446628292_toxin [Staphylococcus aureus],TRUE
-BIORISK_0246,{FLAG}sp|P30995|BXE_CLOBU Botulinum neurotoxin type E OS=Clostridium butyricum OX=1492 PE=1 SV=2,TRUE
-BIORISK_0247,{FLAG}sp|Q9LBR5|HA70D_CBDP Hemagglutinin component HA-70 type D OS=Clostridium botulinum D phage OX=29342 GN=ha-70 PE=1 SV=1,TRUE
-BIORISK_0248,{FLAG}224262_1101208A toxin A1 C term,TRUE
-BIORISK_0249,{FLAG}34980247_CtxB partial [Vibrio cholerae],TRUE
-BIORISK_0266,{FLAG}487721192_gamma-hemolysin protein B [Staphylococcus aureus],TRUE
-BIORISK_0267,{FLAG}117969891_Verotoxin 1 partial [uncultured bacterium],TRUE
-BIORISK_0268,{FLAG}sp|P01553|ENTC1_STAAU Enterotoxin type C-1 OS=Staphylococcus aureus OX=1280 GN=entC1 PE=1 SV=2,TRUE
-BIORISK_0269,{FLAG}sp|P33183|NIGB_SAMNI Nigrin b OS=Sambucus nigra OX=4202 PE=1 SV=2,TRUE
-BIORISK_0270,{FLAG}sp|Q9M654|RIPM_POLML Ribosome-inactivating protein PMRIPm OS=Polygonatum multiflorum OX=45371 GN=RIPm PE=1 SV=1,TRUE
-BIORISK_0271,{FLAG}sp|P60615|3L21A_BUNMU Alpha-bungarotoxin OS=Bungarus multicinctus OX=8616 PE=1 SV=1,TRUE
-BIORISK_0272,{FLAG}259490926_BoNT/A ad ek [Cloning vector pLitSB3Aek],TRUE
-BIORISK_0287,{FLAG}223522038_ricin homolog truncated partial [Ricinus communis],TRUE
-BIORISK_0288,{FLAG}307938397_shiga toxin 1 subunit A partial [Aeromonas caviae],TRUE
-BIORISK_0289,{FLAG}18266762_orf8 [Staphylococcus aureus],TRUE
-BIORISK_0290,{FLAG}115498369_enterotoxin H partial [Staphylococcus aureus],TRUE
-BIORISK_0291,{FLAG}446744400_enterotoxin I partial [Staphylococcus aureus],TRUE
-BIORISK_0292,{FLAG}686386480_gamma-hemolysin subunit B [Staphylococcus aureus],TRUE
-BIORISK_0293,{FLAG}582459477_gamma-hemolysin component B [Staphylococcus aureus W60801],TRUE
-BIORISK_0294,{FLAG}686386481_succinyl-diaminopimelate desuccinylase [Staphylococcus aureus],TRUE
-BIORISK_0295,{FLAG}sp|P43528|E2BA_ECOLX Heat-labile enterotoxin IIB A chain OS=Escherichia coli OX=562 PE=1 SV=2,TRUE
-BIORISK_0296,{FLAG}sp|P00987|VKTH1_BUNMU Kunitz-type serine protease inhibitor homolog beta-bungarotoxin B1 chain major component OS=Bungarus multicinctus OX=8616 PE=1 SV=2,TRUE
-BIORISK_0297,{FLAG}259490935_deltaLC-peptide-BoNT/A tev [Cloning vector pFB1SPepB2Atev],TRUE
-BIORISK_0308,{FLAG}sp|Q8TGA2|AFLA_ASPPU Fatty acid synthase alpha subunit aflA OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflA PE=3 SV=1,TRUE
-BIORISK_0309,{FLAG}609630_EpsI [Vibrio cholerae],TRUE
-BIORISK_0310,{FLAG}262223016_CtxA partial [Vibrio cholerae],TRUE
-BIORISK_0311,{FLAG}122959148_ADDB_CLOP1 RecName: Full=ATP-dependent helicase/deoxyribonuclease subunit B; AltName: Full=ATP-dependent helicase/nuclease AddB,TRUE
-BIORISK_0320,{FLAG}998765_enterotoxin H {N-terminal} [Staphylococcus aureus FRI-569 Peptide Partial 30 aa],TRUE
-BIORISK_0321,{FLAG}18266754_orf7 [Staphylococcus aureus],TRUE
-BIORISK_0322,{FLAG}53854859_MepB [Staphylococcus aureus],TRUE
-BIORISK_0323,{FLAG}282595992_putative toxin-antitoxin system toxin component [Staphylococcus aureus subsp. aureus C160],TRUE
-BIORISK_0324,{FLAG}329728774_putative alpha-hemolysin [Staphylococcus aureus subsp. aureus 21193],TRUE
-BIORISK_0325,{FLAG}359830692_enterotoxin family protein [Staphylococcus aureus subsp. aureus M013],TRUE
-BIORISK_0326,{FLAG}sp|A2PU44|CHELT_VIBCL NAD(+)--arginine ADP-ribosyltransferase Chelt OS=Vibrio cholerae OX=666 GN=A51_B1772 PE=1 SV=1,TRUE
-BIORISK_0327,{FLAG}sp|P18640|BXC_CBCP Botulinum neurotoxin type C OS=Clostridium botulinum C phage OX=12336 PE=1 SV=3,TRUE
-BIORISK_0328,{FLAG}609632_EpsK [Vibrio cholerae],TRUE
-BIORISK_0329,{FLAG}12644212_DSBA_VIBCH RecName: Full=Thiol:disulfide interchange protein DsbA; Flags: Precursor,TRUE
-BIORISK_0357,{FLAG}255760624_Shiga toxin 2 A subunit partial [Escherichia coli],TRUE
-BIORISK_0358,{FLAG}408116261_shiga toxin A subunit partial [Escherichia coli NE037],TRUE
-BIORISK_0359,{FLAG}153012_ETB precursor [Staphylococcus aureus],TRUE
-BIORISK_0360,{FLAG}18266755_orf9 [Staphylococcus aureus],TRUE
-BIORISK_0361,{FLAG}253728430_toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus TCH130],TRUE
-BIORISK_0362,{FLAG}282325145_enterotoxin SEU [Staphylococcus aureus subsp. aureus WBG10049],TRUE
-BIORISK_0363,{FLAG}487709023_enterotoxin [Staphylococcus aureus],TRUE
-BIORISK_0364,{FLAG}54262019_verocytotoxin 1 partial [Escherichia coli],TRUE
-BIORISK_0365,{FLAG}21314418_lectin chain B isoform 1 partial [Viscum coloratum],TRUE
-BIORISK_0366,{FLAG}sp|B1INP5|BXB_CLOBK Botulinum neurotoxin type B OS=Clostridium botulinum (strain Okra / Type B1) OX=498213 GN=botB PE=1 SV=1,TRUE
-BIORISK_0367,{FLAG}sp|P20419|PHLC_PARBF Phospholipase C OS=Paraclostridium bifermentans OX=1490 GN=plc PE=1 SV=1,TRUE
-BIORISK_0368,{FLAG}sp|Q8VUZ6|PHLC_PARSO Phospholipase C OS=Paraclostridium sordellii OX=1505 GN=plc PE=3 SV=1,TRUE
-BIORISK_0369,{FLAG}155316_enterotoxin subunit A partial [Vibrio cholerae],TRUE
-BIORISK_0370,{FLAG}609634_EpsM [Vibrio cholerae],TRUE
-BIORISK_0371,{FLAG}356448294_accessory cholera enterotoxin [Vibrio cholerae HC-33A2],TRUE
-BIORISK_0372,{FLAG}156254608_beta 2 toxin partial [Clostridium perfringens],TRUE
-BIORISK_0395,{FLAG}223503655_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0396,{FLAG}18266757_orf17 [Staphylococcus aureus],TRUE
-BIORISK_0397,{FLAG}58397426_enterotoxin type I precursor [Staphylococcus aureus],TRUE
-BIORISK_0398,{FLAG}436430553_hemolysin [Staphylococcus aureus subsp. aureus DSM 20231],TRUE
-BIORISK_0406,{FLAG}392859041_Shiga toxin 1 A subunit partial [Escherichia coli],TRUE
-BIORISK_0407,{FLAG}299111_gamma-hemolysin component I H gamma I=leukocidin F homolog [Staphylococcus aureus 4 RIMD 310925 Peptide Partial 59 aa segment 1 of 2],TRUE
-BIORISK_0408,{FLAG}sp|Q2G1X0|HLA_STAA8 Alpha-hemolysin OS=Staphylococcus aureus (strain NCTC 8325 / PS 47) OX=93061 GN=hly PE=1 SV=1,TRUE
-BIORISK_0409,{FLAG}sp|Q12053|AFLC_ASPPU Norsolorinic acid synthase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflC PE=1 SV=1,TRUE
-BIORISK_0410,{FLAG}2499920_BXG_CLOBO RecName: Full=Botulinum neurotoxin type G; Short=BoNT/G; AltName: Full=Bontoxilysin-G; Contains: RecName: Full=Botulinum neurotoxin G light chain; Contains: RecName: Full=Botulinum neurotoxin G heavy chain; Flags: Precursor,TRUE
-BIORISK_0411,{FLAG}609625_EpsD [Vibrio cholerae],TRUE
-BIORISK_0412,{FLAG}429201215_LSC [synthetic construct],TRUE
-BIORISK_0413,{FLAG}188998312_delta toxin [Clostridium perfringens],TRUE
-BIORISK_0426,{FLAG}377744333_enterotoxin type H [Staphylococcus aureus subsp. aureus CIG290],TRUE
-BIORISK_0427,{FLAG}487397676_enterotoxin type G [Staphylococcus aureus],TRUE
-BIORISK_0428,{FLAG}580655684_alpha-hemolysin [Staphylococcus aureus SJOS6144],TRUE
-BIORISK_0429,{FLAG}686152093_gamma-hemolysin subunit B partial [Staphylococcus aureus],TRUE
-BIORISK_0430,{FLAG}686245652_gamma-hemolysin subunit B partial [Staphylococcus aureus],TRUE
-BIORISK_0431,{FLAG}9955674_Stx2fA protein subunit [Escherichia coli],TRUE
-BIORISK_0432,{FLAG}sp|A0A242DI27|BXJ_ENTS3 Botulinum-like toxin eBoNT/J OS=Enterococcus sp. (strain 3G1_DIV0629) OX=1834176 GN=A5816_002916 PE=1 SV=1,TRUE
-BIORISK_0433,{FLAG}sp|Q46150|PHLC_CLONO Phospholipase C OS=Clostridium novyi OX=1542 GN=plc PE=1 SV=1,TRUE
-BIORISK_0434,{FLAG}sp|Q8TGA1|AFLB_ASPPU Fatty acid synthase beta subunit aflB OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflB PE=2 SV=1,TRUE
-BIORISK_0435,{FLAG}609629_EpsH [Vibrio cholerae],TRUE
-BIORISK_0436,{FLAG}257851045_toxin OB domain-containing protein [Staphylococcus aureus A8115],TRUE
-BIORISK_0437,{FLAG}282320374_superantigen-like protein [Staphylococcus aureus subsp. aureus D139],TRUE
-BIORISK_0438,{FLAG}283461710_LOW QUALITY PROTEIN: enterotoxin S partial [Staphylococcus aureus subsp. aureus H19],TRUE
-BIORISK_0439,{FLAG}290919351_putative toxin-antitoxin system toxin component [Staphylococcus aureus subsp. aureus M1015],TRUE
-BIORISK_0440,{FLAG}294717887_alpha toxin partial [Clostridium perfringens],TRUE
-BIORISK_0441,{FLAG}366986387_epsilon toxin partial [Clostridium perfringens],TRUE
-BIORISK_0468,{FLAG}223546414_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0469,{FLAG}686286089_gamma-hemolysin subunit A partial [Staphylococcus aureus],TRUE
-BIORISK_0470,{FLAG}1777631_variant shiga-like toxin II VT subunit A partial [Escherichia coli],TRUE
-BIORISK_0471,{FLAG}117969888_Verotoxin 2 partial [uncultured bacterium],TRUE
-BIORISK_0472,{FLAG}sp|P01552|ETXB_STAAU Enterotoxin type B OS=Staphylococcus aureus OX=1280 GN=entB PE=1 SV=1,TRUE
-BIORISK_0473,{FLAG}sp|Q9M653|RIPT_POLML Ribosome-inactivating protein PMRIPt OS=Polygonatum multiflorum OX=45371 GN=RIPt PE=1 SV=1,TRUE
-BIORISK_0474,{FLAG}sp|P01398|3LKB_BUNMU Kappa-bungarotoxin OS=Bungarus multicinctus OX=8616 PE=1 SV=2,TRUE
-BIORISK_0475,{FLAG}401665812_cholera enterotoxin A subunit partial [Vibrio cholerae O1 biovar El Tor],TRUE
-BIORISK_0476,{FLAG}157956187_beta-toxin partial [Clostridium perfringens],TRUE
-BIORISK_0478,{FLAG}377721375_enterotoxin type G partial [Staphylococcus aureus subsp. aureus CIG1096],TRUE
-BIORISK_0479,{FLAG}507190203_enterotoxin Yent1 [Staphylococcus aureus subsp. aureus 091751],TRUE
-BIORISK_0480,{FLAG}sp|P01555|CHTA_VIBCH Cholera enterotoxin subunit A OS=Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) OX=243277 GN=ctxA PE=1 SV=1,TRUE
-BIORISK_0481,{FLAG}sp|Q9M6E9|AGGL_ABRPR Agglutinin-1 OS=Abrus precatorius OX=3816 GN=AAG PE=1 SV=1,TRUE
-BIORISK_0482,{FLAG}sp|A1IVR8|3L21_BUNCA Alpha-elapitoxin-Bc2a (Fragment) OS=Bungarus candidus OX=92438 PE=1 SV=1,TRUE
-BIORISK_0483,{FLAG}18143678_ATP-dependent deoxyribonuclease chain A [Clostridium perfringens str. 13],TRUE
-BIORISK_0484,{FLAG}169296930_type I site-specific deoxyribonuclease HsdR family [Clostridium perfringens C str. JGS1495],TRUE
-BIORISK_0497,{FLAG}223524824_ricin homolog truncated [Ricinus communis],TRUE
-BIORISK_0498,{FLAG}206812296_Shiga toxin type 1 partial [Escherichia coli],TRUE
-BIORISK_0499,{FLAG}356892769_shiga toxin 1 partial [Escherichia coli],TRUE
-BIORISK_0500,{FLAG}18266765_orf15 [Staphylococcus aureus],TRUE
-BIORISK_0501,{FLAG}390895858_shiga-like toxin 2 subunit A partial [Escherichia coli EC4448],TRUE
-BIORISK_0502,{FLAG}40782180_Volkensin partial [Adenia volkensii],TRUE
-BIORISK_0503,{FLAG}151567938_B Chain B Agglutinin From Abrus Precatorius (Apa-I),TRUE
-BIORISK_0504,{FLAG}386635_01-ST-4=heat-stable enterotoxin [Vibrio cholerae 01 Peptide 28 aa],TRUE
-BIORISK_0505,{FLAG}18144895_hyaluronidase [Clostridium perfringens str. 13],TRUE
-BIORISK_0534,{FLAG}251806_preproricin partial [Ricinus communis],TRUE
-BIORISK_0535,{FLAG}223537370_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0536,{FLAG}478045186_alpha-hemolysin [Staphylococcus aureus M1244],TRUE
-BIORISK_0537,{FLAG}502547504_enterotoxin P [Staphylococcus aureus],TRUE
-BIORISK_0538,{FLAG}1777597_variant shiga-like toxin II partial [Escherichia coli],TRUE
-BIORISK_0539,{FLAG}63021521_VT2 [synthetic construct],TRUE
-BIORISK_0540,{FLAG}444628957_shiga-like toxin beta subunit partial [Escherichia coli PA47],TRUE
-BIORISK_0541,{FLAG}sp|P0DPK1|BXX_CLOBO Botulinum neurotoxin type X OS=Clostridium botulinum OX=1491 GN=CBB2_0680 PE=1 SV=1,TRUE
-BIORISK_0542,{FLAG}sp|Q41358|SNAIB_SAMNI Ribosome-inactivating protein SNAI OS=Sambucus nigra OX=4202 GN=SNA-I PE=1 SV=1,TRUE
-BIORISK_0543,{FLAG}sp|Q12062|AFLK_ASPPU Versicolorin B synthase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflK PE=1 SV=1,TRUE
-BIORISK_0544,{FLAG}99865_B39761 abrin (clone 3.7) precursor - Indian licorice (fragment),TRUE
-BIORISK_0545,{FLAG}746263727_peptidase M27 [Clostridium baratii],TRUE
-BIORISK_0546,{FLAG}609626_EpsE [Vibrio cholerae],TRUE
-BIORISK_0547,{FLAG}148466382_cholera toxin A subunit partial [Vibrio phage CTX],TRUE
-BIORISK_0548,{FLAG}229352324_enterotoxin A subunit (NAD(+)--diphthamide ADP- ribosyltransferase) partial [Vibrio cholerae B33],TRUE
-BIORISK_0549,{FLAG}429224650_CtxA [Vibrio cholerae PS15],TRUE
-BIORISK_0550,{FLAG}929032_iota toxin component Ia [Clostridium perfringens],TRUE
-BIORISK_0566,{FLAG}223535279_conserved hypothetical protein [Ricinus communis],TRUE
-BIORISK_0567,{FLAG}6468278_shiga toxin A subunit partial [Enterobacteria phage f1],TRUE
-BIORISK_0568,{FLAG}9944974_AF288215_1 delta hemolysin [Staphylococcus aureus],TRUE
-BIORISK_0569,{FLAG}32264019_enterotoxin type M partial [Staphylococcus aureus],TRUE
-BIORISK_0570,{FLAG}57285505_exotoxin 3 putative [Staphylococcus aureus subsp. aureus COL],TRUE
-BIORISK_0571,{FLAG}166409297_enterotoxin T [Staphylococcus aureus],TRUE
-BIORISK_0572,{FLAG}205371668_enterotoxin-like protein U variant partial [Staphylococcus aureus],TRUE
-BIORISK_0573,{FLAG}270299674_Mono-ADP-ribosyltransferase C3 precursor (Exoenzyme C3) [Staphylococcus aureus],TRUE
-BIORISK_0585,{FLAG}18266763_orf11 [Staphylococcus aureus],TRUE
-BIORISK_0586,{FLAG}115498371_enterotoxin I partial [Staphylococcus aureus],TRUE
-BIORISK_0587,{FLAG}54262037_verocytotoxin 1 partial [Escherichia coli],TRUE
-BIORISK_0588,{FLAG}sp|P04958|TETX_CLOTE Tetanus toxin OS=Clostridium tetani (strain Massachusetts / E88) OX=212717 GN=tetX PE=1 SV=2,TRUE
-BIORISK_0589,{FLAG}18143848_hyaluronidase [Clostridium perfringens str. 13],TRUE
-BIORISK_0590,{FLAG}170662542_iota toxin component Ib [Clostridium perfringens E str. JGS1987],TRUE
-BIORISK_0591,{FLAG}308206461_beta-toxin partial [Clostridium perfringens],TRUE
-BIORISK_0593,{FLAG}487723089_hemolysin [Staphylococcus aureus],TRUE
-BIORISK_0594,{FLAG}443461622_accessory cholera enterotoxin [Vibrio cholerae HC-80A1],TRUE
-BIORISK_0595,{FLAG}194476439_epsilon toxin partial [Clostridium perfringens D],TRUE
-BIORISK_0602,{FLAG}229891708_CT5_CONTE RecName: Full=Trixin,TRUE
-BIORISK_0607,{FLAG}223264_0702158A ricin D Ala chain,TRUE
-BIORISK_0608,{FLAG}110264591_cholera toxin B partial [Vibrio cholerae O1],TRUE
-BIORISK_0609,{FLAG}146314787_accessory cholera enterotoxin [Vibrio cholerae O395],TRUE
-BIORISK_0610,{FLAG}262022431_non-hemolytic enterotoxin lytic component L1 [Vibrio cholerae RC27],TRUE
-BIORISK_0611,{FLAG}896252_alpha-toxin (phospholipase C) [Clostridium perfringens],TRUE
-BIORISK_0612,{FLAG}76496318_beta 2 toxin partial [Clostridium perfringens],TRUE
-BIORISK_0613,{FLAG}77168522_collagenase A partial [Clostridium perfringens],TRUE
-BIORISK_0614,{FLAG}111607663_alpha toxin partial [Clostridium perfringens],TRUE
-BIORISK_0615,{FLAG}183585284_alpha toxin partial [Clostridium perfringens],TRUE
-BIORISK_0616,{FLAG}209910398_epsilon toxin [Clostridium perfringens],TRUE
-BIORISK_0617,{FLAG}323690650_epsilon toxin partial [Clostridium perfringens],TRUE
-BIORISK_0658,{FLAG}225114_1209171A agglutinin B,TRUE
-BIORISK_0659,{FLAG}223531100_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0660,{FLAG}295792030_preproricin partial [Ricinus communis],TRUE
-BIORISK_0661,{FLAG}6468191_Shiga toxin 1 B subunit [Escherichia coli],TRUE
-BIORISK_0662,{FLAG}15830459_Shiga toxin 2 subunit A [Escherichia coli O157:H7 str. Sakai],TRUE
-BIORISK_0663,{FLAG}37360969_shiga toxin 1B subunit partial [Escherichia coli],TRUE
-BIORISK_0664,{FLAG}49425190_Shiga toxin 2 subunit B [Enterobacteria phage VTB178],TRUE
-BIORISK_0665,{FLAG}91177943_shiga toxin subunit A partial [Escherichia coli],TRUE
-BIORISK_0666,{FLAG}347439110_Shiga toxin 2B subunit partial [Escherichia coli],TRUE
-BIORISK_0667,{FLAG}475839_leucocidin S component [Staphylococcus aureus],TRUE
-BIORISK_0668,{FLAG}6176434_AF188837_1 exotoxin 1 [Staphylococcus aureus subsp. aureus NCTC 8325],TRUE
-BIORISK_0669,{FLAG}49242199_enterotoxin [Staphylococcus aureus subsp. aureus MRSA252],TRUE
-BIORISK_0670,{FLAG}57285499_exotoxin putative [Staphylococcus aureus subsp. aureus COL],TRUE
-BIORISK_0671,{FLAG}87126354_alpha-hemolysin precursor [Staphylococcus aureus subsp. aureus USA300_FPR3757],TRUE
-BIORISK_0672,{FLAG}146747420_toxic shock syndrome toxin-1 precursor [Staphylococcus aureus],TRUE
-BIORISK_0673,{FLAG}149945354_conserved hypothetical protein [Staphylococcus aureus subsp. aureus JH1],TRUE
-BIORISK_0674,{FLAG}160367480_staphylococcal exotoxin [Staphylococcus aureus subsp. aureus USA300_TCH1516],TRUE
-BIORISK_0675,{FLAG}166092095_Panton-Valentine leukocidin F [Staphylococcus aureus],TRUE
-BIORISK_0676,{FLAG}253726831_superantigen-like protein [Staphylococcus aureus subsp. aureus TCH130],TRUE
-BIORISK_0677,{FLAG}257271682_C4-dicarboxylate transporter/malic acid transporter [Staphylococcus aureus subsp. aureus 55/2053],TRUE
-BIORISK_0678,{FLAG}257282382_hemolysin [Staphylococcus aureus subsp. aureus E1410],TRUE
-BIORISK_0679,{FLAG}257284724_panton-Valentine leukocidin chain S [Staphylococcus aureus subsp. aureus M876],TRUE
-BIORISK_0680,{FLAG}257839634_beta-channel forming cytolysin [Staphylococcus aureus A9763],TRUE
-BIORISK_0681,{FLAG}257842824_toxin beta-grasp domain-containing protein [Staphylococcus aureus A9719],TRUE
-BIORISK_0682,{FLAG}257845172_conserved hypothetical protein [Staphylococcus aureus A9635],TRUE
-BIORISK_0683,{FLAG}257862172_exotoxin NM10 [Staphylococcus aureus A5937],TRUE
-BIORISK_0684,{FLAG}281334763_Enterotoxin phage associated [Staphylococcus aureus],TRUE
-BIORISK_0685,{FLAG}282319856_superantigen-like protein [Staphylococcus aureus subsp. aureus D139],TRUE
-BIORISK_0686,{FLAG}282324337_exotoxin [Staphylococcus aureus subsp. aureus WBG10049],TRUE
-BIORISK_0687,{FLAG}282330363_toxin mazF [Staphylococcus aureus subsp. aureus Btn1260],TRUE
-BIORISK_0688,{FLAG}282589770_enterotoxin [Staphylococcus aureus A10102],TRUE
-BIORISK_0689,{FLAG}282591917_conserved hypothetical protein [Staphylococcus aureus A9765],TRUE
-BIORISK_0690,{FLAG}sp|P93543|RIP1_SAMNI Ribosome-inactivating protein SNAI' OS=Sambucus nigra OX=4202 PE=1 SV=1,TRUE
-BIORISK_0691,{FLAG}sp|Q8AY47|PA2B2_BUNCA Basic phospholipase A2 beta-bungarotoxin A2 chain (Fragment) OS=Bungarus candidus OX=92438 PE=2 SV=1,TRUE
-BIORISK_0692,{FLAG}1095848_2110216A lockjaw peptide,TRUE
-BIORISK_0700,{FLAG}152998_epidermal cell differentiation inhibitor [Staphylococcus aureus],TRUE
-BIORISK_0701,{FLAG}11094375_AF217235_1 sel [Staphylococcus aureus],TRUE
-BIORISK_0702,{FLAG}32264025_enterotoxin type M partial [Staphylococcus aureus],TRUE
-BIORISK_0703,{FLAG}205371669_enterotoxin SEI variant partial [Staphylococcus aureus],TRUE
-BIORISK_0704,{FLAG}282320372_superantigen-like protein [Staphylococcus aureus subsp. aureus D139],TRUE
-BIORISK_0705,{FLAG}408425188_Hemolysin [Staphylococcus aureus subsp. aureus ST228],TRUE
-BIORISK_0706,{FLAG}120407510_PfoA [Clostridium perfringens],TRUE
-BIORISK_0718,{FLAG}408116388_shiga toxin subunit A partial [Escherichia coli NE037],TRUE
-BIORISK_0719,{FLAG}2689557_orf14 [Staphylococcus aureus],TRUE
-BIORISK_0720,{FLAG}11527268_AF285760_5 YENT2 [Staphylococcus aureus],TRUE
-BIORISK_0721,{FLAG}18266756_orf10 [Staphylococcus aureus],TRUE
-BIORISK_0722,{FLAG}sp|A7GBG3|BXF_CLOBL Botulinum neurotoxin type F OS=Clostridium botulinum (strain Langeland / NCTC 10281 / Type F) OX=441772 GN=F PE=1 SV=1,TRUE
-BIORISK_0723,{FLAG}sp|P19321|BXD_CBDP Botulinum neurotoxin type D OS=Clostridium botulinum D phage OX=29342 GN=botD PE=1 SV=1,TRUE
-BIORISK_0724,{FLAG}sp|Q70US9|VOLK_ADEVO Volkensin (Fragment) OS=Adenia volkensii OX=219186 GN=volk38 PE=1 SV=1,TRUE
-BIORISK_0725,{FLAG}226332414_B Chain B Crystal Structure Of A Catalytically Active Non-Toxic Endopeptidase Derivative Of Clostridium Botulinum Toxin A,TRUE
-BIORISK_0726,{FLAG}155315_zonula occludens toxin [Vibrio cholerae],TRUE
-BIORISK_0727,{FLAG}609633_EpsL [Vibrio cholerae],TRUE
-BIORISK_0728,{FLAG}446897611_MULTISPECIES: hypothetical protein [Vibrio],TRUE
-BIORISK_0729,{FLAG}156254606_beta 2 toxin partial [Clostridium perfringens],TRUE
-BIORISK_0732,{FLAG}359830693_enterotoxin family protein [Staphylococcus aureus subsp. aureus M013],TRUE
-BIORISK_0733,{FLAG}446317600_enterotoxin [Staphylococcus aureus],TRUE
-BIORISK_0734,{FLAG}sp|P28590|ABRC_ABRPR Abrin-c OS=Abrus precatorius OX=3816 PE=1 SV=1,TRUE
-BIORISK_0735,{FLAG}sp|Q9LBR4|HA17D_CBDP Hemagglutinin component HA-17 type D OS=Clostridium botulinum D phage OX=29342 GN=ha-17 PE=1 SV=1,TRUE
-BIORISK_0736,{FLAG}6977827_beta toxin partial [Clostridium perfringens C],TRUE
-BIORISK_0737,{FLAG}315193835_alpha-hemolysin [Staphylococcus aureus subsp. aureus CGS00],TRUE
-BIORISK_0738,{FLAG}446392465_enterotoxin [Staphylococcus aureus],TRUE
-BIORISK_0751,{FLAG}223503656_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0752,{FLAG}2689564_integrase [Staphylococcus aureus],TRUE
-BIORISK_0753,{FLAG}18266758_orf20 [Staphylococcus aureus],TRUE
-BIORISK_0754,{FLAG}21314420_lectin chain B isoform 2 partial [Viscum coloratum],TRUE
-BIORISK_0755,{FLAG}sp|C1FUH8|BXAN_CLOBJ Non-toxic nonhemagglutinin type A OS=Clostridium botulinum (strain Kyoto / Type A2) OX=536232 GN=ntnh PE=1 SV=1,TRUE
-BIORISK_0756,{FLAG}sp|P20723|ETXD_STAAU Enterotoxin type D OS=Staphylococcus aureus OX=1280 GN=entD PE=1 SV=1,TRUE
-BIORISK_0757,{FLAG}sp|Q9LBR2|BXDN_CBDP Non-toxic nonhemagglutinin type D OS=Clostridium botulinum D phage OX=29342 GN=ntnha PE=1 SV=1,TRUE
-BIORISK_0758,{FLAG}sp|P00617|PA2B1_BUNMU Basic phospholipase A2 beta-bungarotoxin A1 chain OS=Bungarus multicinctus OX=8616 PE=1 SV=2,TRUE
-BIORISK_0759,{FLAG}209556_cholera toxin subunit B precursor [synthetic construct],TRUE
-BIORISK_0760,{FLAG}609635_EpsN [Vibrio cholerae],TRUE
-BIORISK_0761,{FLAG}32187073_toxin B subunit precursor partial [Vibrio cholerae],TRUE
-BIORISK_0770,{FLAG}3123900_iota toxin component A partial [Clostridium perfringens],TRUE
-BIORISK_0771,{FLAG}121544184_iota toxin partial [Clostridium perfringens],TRUE
-BIORISK_0772,{FLAG}282555711_beta toxin partial [Clostridium perfringens B],TRUE
-BIORISK_0795,{FLAG}223544526_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0796,{FLAG}6635141_Shiga toxin II subuit A partial [Escherichia coli],TRUE
-BIORISK_0797,{FLAG}577649_preLUKM [Staphylococcus aureus],TRUE
-BIORISK_0798,{FLAG}18266752_orf4 [Staphylococcus aureus],TRUE
-BIORISK_0799,{FLAG}53854857_MepR [Staphylococcus aureus],TRUE
-BIORISK_0800,{FLAG}156153053_PVL toxin partial [Staphylococcus aureus],TRUE
-BIORISK_0801,{FLAG}283789805_toxin-antitoxin system toxin component Bro family [Staphylococcus aureus subsp. aureus A017934/97],TRUE
-BIORISK_0802,{FLAG}312830198_enterotoxin [Staphylococcus aureus subsp. aureus ECT-R 2],TRUE
-BIORISK_0803,{FLAG}587148501_alpha-hemolysin [Staphylococcus aureus W73649],TRUE
-BIORISK_0804,{FLAG}10120878_A Chain A Mutated Shiga-Like Toxin B Subunit (G62t),TRUE
-BIORISK_0805,{FLAG}444548400_shiga-like toxin beta subunit partial [Escherichia coli 99.0815],TRUE
-BIORISK_0806,{FLAG}sp|A0A5P3XKL4|NTNH_PARBF Non-toxic nonhemagglutinin OS=Paraclostridium bifermentans OX=1490 GN=ntnh PE=1 SV=1,TRUE
-BIORISK_0807,{FLAG}sp|Q60393|BXG_CLOBO Botulinum neurotoxin type G OS=Clostridium botulinum OX=1491 GN=botG PE=1 SV=2,TRUE
-BIORISK_0815,{FLAG}223526513_ricin-agglutinin family protein partial [Ricinus communis],TRUE
-BIORISK_0816,{FLAG}5690275_AF147744_2 lantibiotic structural protein beta [Staphylococcus aureus],TRUE
-BIORISK_0817,{FLAG}18266771_orf25 [Staphylococcus aureus],TRUE
-BIORISK_0818,{FLAG}41207529_enterotoxin Q partial [Staphylococcus aureus subsp. aureus],TRUE
-BIORISK_0819,{FLAG}149947367_addiction module toxin Txe/YoeB family [Staphylococcus aureus subsp. aureus JH1],TRUE
-BIORISK_0820,{FLAG}253726823_toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus TCH130],TRUE
-BIORISK_0821,{FLAG}283789399_putative toxin-antitoxin system toxin component MazF family [Staphylococcus aureus subsp. aureus A017934/97],TRUE
-BIORISK_0822,{FLAG}285020031_panton-valentine leucocidin S partial [Staphylococcus aureus],TRUE
-BIORISK_0823,{FLAG}507923190_shiga-like toxin A subunit [Erwinia tracheiphila PSU-1],TRUE
-BIORISK_0824,{FLAG}VDZ34195.1 staphylococcal enterotoxin L [Staphylococcus aureus],TRUE
-BIORISK_0825,{FLAG}sp|P82683|ML3_VISAL Beta-galactoside-specific lectin 3 OS=Viscum album OX=3972 PE=1 SV=2,TRUE
-BIORISK_0832,{FLAG}223635808_VPL9A_POLAB RecName: Full=Turripeptide Pal9a,TRUE
-BIORISK_0840,{FLAG}223528120_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0841,{FLAG}269979609_ricin A chain partial [Ricinus communis],TRUE
-BIORISK_0842,{FLAG}5690276_AF147744_3 lantibiotic modifying enzyme [Staphylococcus aureus],TRUE
-BIORISK_0843,{FLAG}18266772_orf12 [Staphylococcus aureus],TRUE
-BIORISK_0844,{FLAG}282591911_exotoxin 2 [Staphylococcus aureus A9765],TRUE
-BIORISK_0845,{FLAG}478077208_enterotoxin SEN [Staphylococcus aureus M1367],TRUE
-BIORISK_0846,{FLAG}54262051_verocytotoxin 2 partial [Escherichia coli],TRUE
-BIORISK_0847,{FLAG}477968538_enterotoxin type D [Staphylococcus aureus M1016],TRUE
-BIORISK_0848,{FLAG}261106_MLIII A chain=toxic lectin {N-terminal} [Viscum album=mistletoe Peptide Partial 29 aa],TRUE
-BIORISK_0849,{FLAG}GBR90786.1 enterotoxin P phage associated [Staphylococcus aureus],TRUE
-BIORISK_0850,{FLAG}sp|P0A0L6|ETXG_STAAM Enterotoxin type G OS=Staphylococcus aureus (strain Mu50 / ATCC 700699) OX=158878 GN=entG PE=3 SV=1,TRUE
-BIORISK_0851,{FLAG}sp|Q02307|ETXB_CLOPF Epsilon-toxin type B OS=Clostridium perfringens OX=1502 GN=etxB PE=1 SV=1,TRUE
-BIORISK_0852,{FLAG}sp|Q9YGJ0|3NO5I_BUNMU Gamma-bungarotoxin OS=Bungarus multicinctus OX=8616 PE=1 SV=1,TRUE
-BIORISK_0853,{FLAG}110294017_enterotoxin A partial [Staphylococcus aureus],TRUE
-BIORISK_0854,{FLAG}126517408_protein A partial [Staphylococcus aureus],TRUE
-BIORISK_0855,{FLAG}186660357_enterotoxin A partial [Staphylococcus aureus],TRUE
-BIORISK_0856,{FLAG}283461058_enterotoxin Seu [Staphylococcus aureus subsp. aureus H19],TRUE
-BIORISK_0857,{FLAG}288551761_hypothetical protein [Staphylococcus aureus],TRUE
-BIORISK_0858,{FLAG}290920186_toxin-antitoxin system toxin component Bro family partial [Staphylococcus aureus subsp. aureus M1015],TRUE
-BIORISK_0859,{FLAG}446647974_enterotoxin [Staphylococcus aureus],TRUE
-BIORISK_0868,{FLAG}223528122_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_0869,{FLAG}54262053_verocytotoxin 2 partial [Escherichia coli],TRUE
-BIORISK_0870,{FLAG}525336718_shiga-like toxin II subunit A precursor [Escherichia phage 1720a-02],TRUE
-BIORISK_0871,{FLAG}ADC37997.1 enterotoxin SeO [Staphylococcus aureus 04-02981],TRUE
-BIORISK_0872,{FLAG}302333277_enterotoxin family protein [Staphylococcus aureus subsp. aureus JKD6159],TRUE
-BIORISK_0873,{FLAG}375021305_gamma-hemolysin component A [Staphylococcus aureus subsp. aureus IS-99],TRUE
-BIORISK_0874,{FLAG}477907871_enterotoxin SEE partial [Staphylococcus aureus M0780],TRUE
-BIORISK_0881,{FLAG}146747406_leukotoxin E precursor partial [Staphylococcus aureus],TRUE
-BIORISK_0882,{FLAG}160369466_hypothetical protein USA300HOU_2447 [Staphylococcus aureus subsp. aureus USA300_TCH1516],TRUE
-BIORISK_0883,{FLAG}253725482_putative superantigen-like protein partial [Staphylococcus aureus subsp. aureus USA300_TCH959],TRUE
-BIORISK_0884,{FLAG}528854683_toxin [Staphylococcus aureus S100],TRUE
-BIORISK_0885,{FLAG}356494401_enterotoxin type C3 [Staphylococcus aureus],TRUE
-BIORISK_0886,{FLAG}377696764_enterotoxin type B [Staphylococcus aureus subsp. aureus CIG1114],TRUE
-BIORISK_0892,{FLAG}147742070_membrane protein putative toxin regulator-like protein [Staphylococcus aureus subsp. aureus JH9],TRUE
-BIORISK_0893,{FLAG}253725488_superantigen-like protein [Staphylococcus aureus subsp. aureus USA300_TCH959],TRUE
-BIORISK_0894,{FLAG}198042548_hypothetical protein [Escherichia coli],TRUE
-BIORISK_0895,{FLAG}494641_P Chain P Crystal Structure Of An Anticholera Toxin Peptide Complex At 2.3 Angstroms,TRUE
-BIORISK_0899,{FLAG}478052576_enterotoxin type G [Staphylococcus aureus M1275],TRUE
-BIORISK_0900,{FLAG}126517410_protein A partial [Staphylococcus aureus],TRUE
-BIORISK_0901,{FLAG}205371658_enterotoxin-like protein U partial [Staphylococcus aureus],TRUE
-BIORISK_0902,{FLAG}257853890_LOW QUALITY PROTEIN: enterotoxin [Staphylococcus aureus A6300],TRUE
-BIORISK_0903,{FLAG}sp|O13345|AFLQ_ASPPU O-methylsterigmatocystin oxidoreductase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflQ PE=1 SV=1,TRUE
-BIORISK_0904,{FLAG}399136_BXE_CLOBU RecName: Full=Botulinum neurotoxin type E; Short=BoNT/E; AltName: Full=Bontoxilysin-E; Contains: RecName: Full=Botulinum neurotoxin E light chain; Contains: RecName: Full=Botulinum neurotoxin E heavy chain; Flags: Precursor,TRUE
-BIORISK_0905,{FLAG}502144586_peptidase M27 [Clostridium botulinum],TRUE
-BIORISK_0906,{FLAG}1708330_HSTO_VIBCL RecName: Full=Heat-stable enterotoxin STO; AltName: Full=O1-ST; Flags: Precursor,TRUE
-BIORISK_0907,{FLAG}52082991_CTB-P1 [synthetic construct],TRUE
-BIORISK_0908,{FLAG}257848497_RNA-binding S1 domain-containing protein [Staphylococcus aureus A9299],TRUE
-BIORISK_0909,{FLAG}282322009_putative exotoxin 4 [Staphylococcus aureus subsp. aureus M899],TRUE
-BIORISK_0910,{FLAG}293792080_alpha toxin partial [Staphylococcus aureus],TRUE
-BIORISK_0933,{FLAG}18266761_orf5 [Staphylococcus aureus],TRUE
-BIORISK_0934,{FLAG}72536463_Panton-Valentine leukocidin partial [Staphylococcus aureus],TRUE
-BIORISK_0935,{FLAG}115361614_enterotoxin G partial [Staphylococcus aureus],TRUE
-BIORISK_0936,{FLAG}586418706_leukotoxin LukD [Staphylococcus aureus HBHO6050],TRUE
-BIORISK_0937,{FLAG}397785512_shiga-like toxin 2 subunit A domain protein [Escherichia coli STEC_O31],TRUE
-BIORISK_0938,{FLAG}446399560_Shiga-like toxin A subunit [Escherichia coli],TRUE
-BIORISK_0939,{FLAG}WP_032492129.1 staphylococcal enterotoxin type S [Staphylococcus aureus],TRUE
-BIORISK_0940,{FLAG}sp|P0DJY8|SPEA_BPT12 Exotoxin type A OS=Streptococcus pyogenes phage T12 OX=35344 GN=speA PE=3 SV=1,TRUE
-BIORISK_0941,{FLAG}sp|Q06366|BXEN_CLOBU Non-toxic nonhemagglutinin type E OS=Clostridium butyricum OX=1492 PE=3 SV=1,TRUE
-BIORISK_0942,{FLAG}sp|P87017|AFLH_ASPPU 5'-hydroxyaverantin dehydrogenase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflH PE=1 SV=2,TRUE
-BIORISK_0943,{FLAG}sp|Q7T2Q6|VKTHB_BUNFL Kunitz-type serine protease inhibitor homolog beta-bungarotoxin B chain OS=Bungarus flaviceps flaviceps OX=8615 PE=1 SV=1,TRUE
-BIORISK_0944,{FLAG}399137_BXF_CLOBO RecName: Full=Botulinum neurotoxin type F; Short=BoNT/F; AltName: Full=Bontoxilysin-F; Contains: RecName: Full=Botulinum neurotoxin F light chain; Contains: RecName: Full=Botulinum neurotoxin F heavy chain; Flags: Precursor,TRUE
-BIORISK_0945,{FLAG}502144879_peptidase M27 [Clostridium botulinum],TRUE
-BIORISK_0946,{FLAG}586275_Y1460_VIBCH RecName: Full=Uncharacterized protein VC_1460; AltName: Full=OrfU,TRUE
-BIORISK_0947,{FLAG}1827848_A Chain A Cholera Toxin,TRUE
-BIORISK_0948,{FLAG}224552641_zonula occludens toxin partial [Vibrio cholerae],TRUE
-BIORISK_0949,{FLAG}262022432_non-hemolytic enterotoxin lytic component L1 [Vibrio cholerae RC27],TRUE
-BIORISK_0952,{FLAG}290918898_txe/YoeB family toxin [Staphylococcus aureus subsp. aureus M1015],TRUE
-BIORISK_0953,{FLAG}291097240_conserved hypothetical protein [Staphylococcus aureus subsp. aureus 58-424],TRUE
-BIORISK_0954,{FLAG}377696765_enterotoxin type B [Staphylococcus aureus subsp. aureus CIG1114],TRUE
-BIORISK_0955,{FLAG}410655536_Enterotoxin [Staphylococcus aureus],TRUE
-BIORISK_0956,{FLAG}446517171_gamma-hemolysin component A [Staphylococcus aureus],TRUE
-BIORISK_0957,{FLAG}446656427_enterotoxin I [Staphylococcus aureus],TRUE
-BIORISK_0958,{FLAG}446714080_succinyl-diaminopimelate desuccinylase [Staphylococcus aureus],TRUE
-BIORISK_0959,{FLAG}447068943_enterotoxin I [Staphylococcus aureus],TRUE
-BIORISK_0960,{FLAG}477697567_hemolysin [Staphylococcus aureus M0200],TRUE
-BIORISK_0961,{FLAG}477725840_enterotoxin type D [Staphylococcus aureus M0279],TRUE
-BIORISK_0962,{FLAG}477806809_enterotoxin type A partial [Staphylococcus aureus M0460],TRUE
-BIORISK_0963,{FLAG}195182312_shiga toxin 2e A partial [Escherichia coli],TRUE
-BIORISK_0965,{FLAG}8885990_enterotoxin I partial [Staphylococcus aureus],TRUE
-BIORISK_0966,{FLAG}32264016_enterotoxin type M partial [Staphylococcus aureus],TRUE
-BIORISK_0967,{FLAG}126517418_protein A partial [Staphylococcus aureus],TRUE
-BIORISK_0968,{FLAG}149945381_exotoxin 7 [Staphylococcus aureus subsp. aureus JH1],TRUE
-BIORISK_0969,{FLAG}160367483_staphylococcal exotoxin [Staphylococcus aureus subsp. aureus USA300_TCH1516],TRUE
-BIORISK_0970,{FLAG}257858038_enterotoxin type A [Staphylococcus aureus A6224],TRUE
-BIORISK_0971,{FLAG}257862395_addiction module toxin [Staphylococcus aureus A5937],TRUE
-BIORISK_0972,{FLAG}282320336_enterotoxin [Staphylococcus aureus subsp. aureus D139],TRUE
-BIORISK_0973,{FLAG}282592174_ADP-ribosylating toxin [Staphylococcus aureus A9765],TRUE
-BIORISK_0974,{FLAG}282595059_putative toxin-antitoxin system toxin component [Staphylococcus aureus subsp. aureus C160],TRUE
-BIORISK_0975,{FLAG}516415261_toxin [Staphylococcus aureus],TRUE
-BIORISK_0976,{FLAG}sp|A0A5P3XKQ1|PMP1_PARBF Paraclostridial mosquitocidal protein 1 OS=Paraclostridium bifermentans OX=1490 GN=pmp1 PE=1 SV=1,TRUE
-BIORISK_0977,{FLAG}sp|P13810|E2AA_ECOLX Heat-labile enterotoxin IIA A chain OS=Escherichia coli OX=562 PE=3 SV=1,TRUE
-BIORISK_0978,{FLAG}sp|Q6H266|ML2_VISAL Beta-galactoside-specific lectin 2 OS=Viscum album OX=3972 PE=2 SV=1,TRUE
-BIORISK_0979,{FLAG}sp|Q90WJ7|SXT1_TAKPA Saxitoxin and tetrodotoxin-binding protein 1 OS=Takifugu pardalis OX=98921 GN=psbp1 PE=1 SV=2,TRUE
-BIORISK_0980,{FLAG}265719_abrin-a B-chain=toxic lectin [Abrus precatorius seeds Peptide 268 aa],TRUE
-BIORISK_0981,{FLAG}575527059_botulinum neurotoxin type A light chain partial [synthetic construct],TRUE
-BIORISK_0982,{FLAG}609631_EpsJ [Vibrio cholerae],TRUE
-BIORISK_0983,{FLAG}327244558_cholera toxin B subunit partial [Vibrio cholerae O1],TRUE
-BIORISK_0995,{FLAG}223546106_hydrolase hydrolyzing O-glycosyl compounds putative [Ricinus communis],TRUE
-BIORISK_0996,{FLAG}390815507_shiga toxin 2 A subunit [Escherichia coli TW10119],TRUE
-BIORISK_0997,{FLAG}153006_ETA precursor [Staphylococcus aureus],TRUE
-BIORISK_0998,{FLAG}18266753_orf6 [Staphylococcus aureus],TRUE
-BIORISK_1000,{FLAG}253726429_superantigen-like protein [Staphylococcus aureus subsp. aureus USA300_TCH959],TRUE
-BIORISK_1001,{FLAG}257859961_enterotoxin typeC3 [Staphylococcus aureus A5948],TRUE
-BIORISK_1002,{FLAG}282320382_superantigen-like protein 5 [Staphylococcus aureus subsp. aureus D139],TRUE
-BIORISK_1003,{FLAG}282328650_exotoxin [Staphylococcus aureus subsp. aureus WW2703/97],TRUE
-BIORISK_1004,{FLAG}282590191_LOW QUALITY PROTEIN: enterotoxin type E [Staphylococcus aureus A10102],TRUE
-BIORISK_1017,{FLAG}255587303_ricin-agglutinin family protein [Ricinus communis],TRUE
-BIORISK_1018,{FLAG}3806104_exotoxin 2 partial [Staphylococcus aureus],TRUE
-BIORISK_1019,{FLAG}18266764_orf13 [Staphylococcus aureus],TRUE
-BIORISK_1020,{FLAG}115498373_enterotoxin J partial [Staphylococcus aureus],TRUE
-BIORISK_1021,{FLAG}507197968_enterotoxin SeO partial [Staphylococcus aureus subsp. aureus 122051],TRUE
-BIORISK_1022,{FLAG}96426_A60283 shiga-like toxin II variant chain A - Escherichia coli (strain TB1-pCG6) (fragments),TRUE
-BIORISK_1023,{FLAG}300373175_Stx2 partial [Escherichia coli],TRUE
-BIORISK_1024,{FLAG}386231702_shiga-like toxin 2 subunit B [Escherichia coli 3.3884],TRUE
-BIORISK_1025,{FLAG}sp|P02879|RICI_RICCO Ricin OS=Ricinus communis OX=3988 PE=1 SV=1,TRUE
-BIORISK_1026,{FLAG}sp|P43530|ELAH_ECOH1 Heat-labile enterotoxin A chain OS=Escherichia coli O78:H11 (strain H10407 / ETEC) OX=316401 GN=eltA PE=3 SV=1,TRUE
-BIORISK_1027,{FLAG}sp|U3KRF8|SGSL_TRIAN Seed lectin (Fragment) OS=Trichosanthes anguina OX=50544 PE=1 SV=2,TRUE
-BIORISK_1028,{FLAG}sp|P00989|VKTH2_BUNMU Kunitz-type serine protease inhibitor homolog beta-bungarotoxin B2 chain OS=Bungarus multicinctus OX=8616 PE=1 SV=2,TRUE
-BIORISK_1029,{FLAG}18653444_abrin isoform G precursor partial [Abrus precatorius],TRUE
-BIORISK_1030,{FLAG}18143830_collagenase [Clostridium perfringens str. 13],TRUE
-BIORISK_1031,{FLAG}170661520_putative type I site-specific deoxyribonuclease HsdR family subfamily [Clostridium perfringens E str. JGS1987],TRUE
-BIORISK_1068,{FLAG}91177944_shiga toxin subunit B partial [Escherichia coli],TRUE
-BIORISK_1069,{FLAG}208739426_shiga toxin subunit A [Escherichia coli O157:H7 str. EC4042],TRUE
-BIORISK_1070,{FLAG}7239368_AF230358_1 delta-haemolysin precurser [Staphylococcus aureus subsp. aureus RN4220],TRUE
-BIORISK_1071,{FLAG}149945380_exotoxin 6 [Staphylococcus aureus subsp. aureus JH1],TRUE
-BIORISK_1073,{FLAG}20177871_COW3_CONTE RecName: Full=Leu-contryphan-Tx; Flags: Precursor,TRUE
-BIORISK_1080,{FLAG}206557915_COW_CONST RecName: Full=Contryphan-S; Flags: Precursor,TRUE
-BIORISK_1083,{FLAG}307938405_shiga toxin 2 subunit A partial [Aeromonas caviae],TRUE
-BIORISK_1084,{FLAG}18266766_orf16 [Staphylococcus aureus],TRUE
-BIORISK_1085,{FLAG}282321250_toxin-antitoxin system toxin component Bro family partial [Staphylococcus aureus subsp. aureus M899],TRUE
-BIORISK_1086,{FLAG}317016977_alpha-hemolysin partial [Staphylococcus aureus],TRUE
-BIORISK_1087,{FLAG}365234890_enterotoxin type C-1 [Staphylococcus aureus subsp. aureus 21334],TRUE
-BIORISK_1088,{FLAG}408114978_shiga-like toxin 2 subunit A [Escherichia coli NE037],TRUE
-BIORISK_1089,{FLAG}75185614_AGGL_ABRPR RecName: Full=Agglutinin-1; AltName: Full=Agglutinin I; Contains: RecName: Full=Agglutinin-1 chain A; AltName: Full=AAG-A; Contains: RecName: Full=Agglutinin-1 chain B; AltName: Full=AAG-B; Flags: Precursor,TRUE
-BIORISK_1090,{FLAG}386634_01-ST-3=heat-stable enterotoxin [Vibrio cholerae 01 Peptide 19 aa],TRUE
-BIORISK_1091,{FLAG}516283061_accessory cholera enterotoxin [Vibrio cholerae],TRUE
-BIORISK_1092,{FLAG}18144541_hyaluronidase [Clostridium perfringens str. 13],TRUE
+BIORISK_0004,223516920_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0005,18266760_terminase [Staphylococcus aureus],TRUE
+BIORISK_0006,49258639_B Chain B Shiga Toxin Type 2,TRUE
+BIORISK_0007,402516273_shiga-like toxin A subunit [Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN00325],TRUE
+BIORISK_0008,13959317_CBLE_VISAL RecName: Full=Chitin-binding lectin,TRUE
+BIORISK_0009,sp|P0DPR0|HA33C_CBCP Main hemagglutinin component type C OS=Clostridium botulinum C phage OX=12336 GN=HA-33 PE=1 SV=1,TRUE
+BIORISK_0010,sp|Q12120|AFLP_ASPPU Sterigmatocystin 8-O-methyltransferase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflP PE=1 SV=1,TRUE
+BIORISK_0011,113010_ABRC_ABRPR RecName: Full=Abrin-c; Contains: RecName: Full=Abrin-c A chain; AltName: Full=rRNA N-glycosidase; Contains: RecName: Full=Linker peptide; Contains: RecName: Full=Abrin-c B chain; Flags: Precursor,TRUE
+BIORISK_0012,3805790_bonT [Clostridium botulinum],TRUE
+BIORISK_0013,122223_HAPT_VIBCH RecName: Full=Hemagglutinin/proteinase; Short=HA/protease; AltName: Full=Vibriolysin; Flags: Precursor,TRUE
+BIORISK_0014,609627_EpsF [Vibrio cholerae],TRUE
+BIORISK_0015,1345371_lambda toxin [Clostridium perfringens],TRUE
+BIORISK_0042,223539154_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0043,91177950_shiga toxin subunit B partial [Escherichia coli],TRUE
+BIORISK_0044,159121347_shiga toxin A-chain (rRNA N-glycosidase) [Rickettsiella grylli],TRUE
+BIORISK_0045,126517424_protein A partial [Staphylococcus aureus],TRUE
+BIORISK_0046,205371671_enterotoxin SEI partial [Staphylococcus aureus],TRUE
+BIORISK_0047,257846024_exotoxin [Staphylococcus aureus A9635],TRUE
+BIORISK_0048,257851044_enterotoxin family protein [Staphylococcus aureus A8115],TRUE
+BIORISK_0049,262074225_diarrheal toxin [Staphylococcus aureus subsp. aureus ED98],TRUE
+BIORISK_0050,290919014_toxin-antitoxin system toxin component GNAT family [Staphylococcus aureus subsp. aureus M1015],TRUE
+BIORISK_0051,377744336_enterotoxin type I [Staphylococcus aureus subsp. aureus CIG290],TRUE
+BIORISK_0052,478006253_enterotoxin SEN partial [Staphylococcus aureus M1093],TRUE
+BIORISK_0053,580655683_alpha-hemolysin [Staphylococcus aureus SJOS6144],TRUE
+BIORISK_0054,52210274_putative exported protein [Burkholderia pseudomallei K96243],TRUE
+BIORISK_0055,17529701_VCA precursor [Viscum coloratum],TRUE
+BIORISK_0056,sp|A0A0H3KHN8|ETXA_STAAE Enterotoxin type A OS=Staphylococcus aureus (strain Newman) OX=426430 GN=sea PE=3 SV=1,TRUE
+BIORISK_0057,sp|P10149|STXA_BPH30 Shiga-like toxin 1 subunit A OS=Bacteriophage H30 OX=12371 GN=stxA PE=3 SV=1,TRUE
+BIORISK_0058,sp|Q45914|BXAN_CLOBO Non-toxic nonhemagglutinin type A OS=Clostridium botulinum OX=1491 GN=ant PE=1 SV=1,TRUE
+BIORISK_0059,sp|Q12732|AFLG_ASPPU Averantin hydroxylase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflG PE=1 SV=2,TRUE
+BIORISK_0060,544674225_botulinum neurotoxin type F5 BoNT/F [Clostridium botulinum],TRUE
+BIORISK_0061,609628_EpsG [Vibrio cholerae],TRUE
+BIORISK_0085,223539155_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0086,98991376_Shiga toxin 2A subunit partial [uncultured bacterium],TRUE
+BIORISK_0087,551991_enterotoxin B partial [Staphylococcus aureus],TRUE
+BIORISK_0088,18266751_orf1 [Staphylococcus aureus],TRUE
+BIORISK_0089,282762431_enterotoxin type A [Staphylococcus aureus A8117],TRUE
+BIORISK_0090,282764648_conserved hypothetical protein [Staphylococcus aureus A8117],TRUE
+BIORISK_0091,283789808_toxin-antitoxin system toxin component Bro family [Staphylococcus aureus subsp. aureus A017934/97],TRUE
+BIORISK_0103,446426584_enterotoxin [Staphylococcus aureus],TRUE
+BIORISK_0104,206812300_Shiga toxin type 2 partial [Escherichia coli],TRUE
+BIORISK_0105,18266767_orf18 [Staphylococcus aureus],TRUE
+BIORISK_0106,82656949_enterotoxin G [Staphylococcus aureus RF122],TRUE
+BIORISK_0107,282597118_toxin secretion ABC transporter permease/ATP-binding protein [Staphylococcus aureus subsp. aureus C160],TRUE
+BIORISK_0109,283460987_toxin repressor [Staphylococcus aureus subsp. aureus H19],TRUE
+BIORISK_0110,377760560_enterotoxin type G [Staphylococcus aureus subsp. aureus CIGC340D],TRUE
+BIORISK_0111,379993941_Enterotoxin [Staphylococcus aureus subsp. aureus DR10],TRUE
+BIORISK_0112,610824110_putative gamma-hemolysin component B [Staphylococcus aureus subsp. aureus CO-49],TRUE
+BIORISK_0113,WP_115289619.1 staphylococcal enterotoxin type U [Staphylococcus aureus],TRUE
+BIORISK_0114,18144940_hyaluronidase [Clostridium perfringens str. 13],TRUE
+BIORISK_0131,299114_gamma-hemolysin component II H gamma II=leukocidin S homolog [Staphylococcus aureus 4 RIMD 310925 Peptide Partial 58 aa segment 1 of 2],TRUE
+BIORISK_0132,18266769_orf21 [Staphylococcus aureus],TRUE
+BIORISK_0133,41207515_enterotoxin E partial [Staphylococcus aureus subsp. aureus],TRUE
+BIORISK_0134,257845126_exotoxin 15 [Staphylococcus aureus A9635],TRUE
+BIORISK_0135,sp|P59026|PHLC_CLOHA Phospholipase C OS=Clostridium haemolyticum OX=84025 GN=plc PE=3 SV=1,TRUE
+BIORISK_0136,sp|Q7T1R0|PA2B1_BUNFL Basic phospholipase A2 beta-bungarotoxin A1 chain OS=Bungarus flaviceps flaviceps OX=8615 PE=1 SV=1,TRUE
+BIORISK_0137,18145185_hyaluronidase [Clostridium perfringens str. 13],TRUE
+BIORISK_0150,223526512_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0151,320480_A60757 enterotoxin C-1 - Staphylococcus aureus (fragments),TRUE
+BIORISK_0152,5690274_AF147744_1 lantibiotic structural protein alpha [Staphylococcus aureus],TRUE
+BIORISK_0153,18266770_staphylococcal enterotoxin Q [Staphylococcus aureus],TRUE
+BIORISK_0154,110675397_type II site-specific deoxyribonuclease [Clostridium perfringens ATCC 13124],TRUE
+BIORISK_0186,223531474_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0187,486931970_leukotoxin LukE [Staphylococcus aureus],TRUE
+BIORISK_0188,528856218_toxin [Staphylococcus aureus S94],TRUE
+BIORISK_0189,446399561_Shiga-like toxin A subunit [Salmonella enterica],TRUE
+BIORISK_0190,7546438_B Chain B Mistletoe Lectin I From Viscum Album,TRUE
+BIORISK_0191,WP_155560339.1 staphylococcal enterotoxin type Y [Staphylococcus aureus],TRUE
+BIORISK_0192,sp|P0DPI0|BXA1_CLOBO Botulinum neurotoxin type A OS=Clostridium botulinum OX=1491 GN=botA PE=1 SV=1,TRUE
+BIORISK_0193,sp|Q0TV31|PHLC_CLOP1 Phospholipase C OS=Clostridium perfringens (strain ATCC 13124 / DSM 756 / JCM 1290 / NCIMB 6125 / NCTC 8237 / Type A) OX=195103 GN=plc PE=1 SV=1,TRUE
+BIORISK_0194,sp|Q00278|AFLD_ASPPU Norsolorinic acid ketoreductase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflD PE=1 SV=1,TRUE
+BIORISK_0195,733429_botulinum neurotoxin serotype A Hc fragment [synthetic construct],TRUE
+BIORISK_0196,746181789_peptidase M27 [Clostridium botulinum],TRUE
+BIORISK_0197,609624_EpsC [Vibrio cholerae],TRUE
+BIORISK_0198,224552642_cholera toxin A subunit partial [Vibrio cholerae],TRUE
+BIORISK_0199,390815523_shiga-like toxin 2 subunit A [Escherichia coli TW10119],TRUE
+BIORISK_0200,502966427_shiga-like toxin A subunit [Erwinia billingiae],TRUE
+BIORISK_0201,sp|P09385|STXA_BP933 Shiga-like toxin 2 subunit A OS=Escherichia phage 933W OX=10730 GN=stxA2 PE=1 SV=2,TRUE
+BIORISK_0208,18266768_orf19 [Staphylococcus aureus],TRUE
+BIORISK_0209,41207509_enterotoxin B partial [Staphylococcus aureus subsp. aureus],TRUE
+BIORISK_0210,152968458_enterotoxin partial [Staphylococcus aureus],TRUE
+BIORISK_0211,166409295_enterotoxin-like R [Staphylococcus aureus],TRUE
+BIORISK_0212,257862176_toxin beta-grasp domain-containing protein [Staphylococcus aureus A5937],TRUE
+BIORISK_0213,262075793_toxin exporting ABC transporter permease [Staphylococcus aureus subsp. aureus ED98],TRUE
+BIORISK_0214,282315108_superantigen-like protein [Staphylococcus aureus subsp. aureus C101],TRUE
+BIORISK_0215,282324395_S1 domain RNA-binding protein [Staphylococcus aureus subsp. aureus WBG10049],TRUE
+BIORISK_0217,377755108_enterotoxin type E [Staphylococcus aureus subsp. aureus CIGC340D],TRUE
+BIORISK_0218,410655537_Enterotoxin [Staphylococcus aureus],TRUE
+BIORISK_0219,445562397_enterotoxin type C-2 [Staphylococcus aureus KT/Y21],TRUE
+BIORISK_0220,446531329_enterotoxin [Staphylococcus aureus],TRUE
+BIORISK_0221,477725841_enterotoxin type D [Staphylococcus aureus M0279],TRUE
+BIORISK_0242,223510624_ricin-agglutinin family protein partial [Ricinus communis],TRUE
+BIORISK_0243,10803051_AF298816_2 shiga toxin II B subunit partial [Escherichia coli],TRUE
+BIORISK_0244,18266759_orf22 [Staphylococcus aureus],TRUE
+BIORISK_0245,446628292_toxin [Staphylococcus aureus],TRUE
+BIORISK_0246,sp|P30995|BXE_CLOBU Botulinum neurotoxin type E OS=Clostridium butyricum OX=1492 PE=1 SV=2,TRUE
+BIORISK_0247,sp|Q9LBR5|HA70D_CBDP Hemagglutinin component HA-70 type D OS=Clostridium botulinum D phage OX=29342 GN=ha-70 PE=1 SV=1,TRUE
+BIORISK_0248,224262_1101208A toxin A1 C term,TRUE
+BIORISK_0249,34980247_CtxB partial [Vibrio cholerae],TRUE
+BIORISK_0266,487721192_gamma-hemolysin protein B [Staphylococcus aureus],TRUE
+BIORISK_0267,117969891_Verotoxin 1 partial [uncultured bacterium],TRUE
+BIORISK_0268,sp|P01553|ENTC1_STAAU Enterotoxin type C-1 OS=Staphylococcus aureus OX=1280 GN=entC1 PE=1 SV=2,TRUE
+BIORISK_0269,sp|P33183|NIGB_SAMNI Nigrin b OS=Sambucus nigra OX=4202 PE=1 SV=2,TRUE
+BIORISK_0270,sp|Q9M654|RIPM_POLML Ribosome-inactivating protein PMRIPm OS=Polygonatum multiflorum OX=45371 GN=RIPm PE=1 SV=1,TRUE
+BIORISK_0271,sp|P60615|3L21A_BUNMU Alpha-bungarotoxin OS=Bungarus multicinctus OX=8616 PE=1 SV=1,TRUE
+BIORISK_0272,259490926_BoNT/A ad ek [Cloning vector pLitSB3Aek],TRUE
+BIORISK_0287,223522038_ricin homolog truncated partial [Ricinus communis],TRUE
+BIORISK_0288,307938397_shiga toxin 1 subunit A partial [Aeromonas caviae],TRUE
+BIORISK_0289,18266762_orf8 [Staphylococcus aureus],TRUE
+BIORISK_0290,115498369_enterotoxin H partial [Staphylococcus aureus],TRUE
+BIORISK_0291,446744400_enterotoxin I partial [Staphylococcus aureus],TRUE
+BIORISK_0292,686386480_gamma-hemolysin subunit B [Staphylococcus aureus],TRUE
+BIORISK_0293,582459477_gamma-hemolysin component B [Staphylococcus aureus W60801],TRUE
+BIORISK_0294,686386481_succinyl-diaminopimelate desuccinylase [Staphylococcus aureus],TRUE
+BIORISK_0295,sp|P43528|E2BA_ECOLX Heat-labile enterotoxin IIB A chain OS=Escherichia coli OX=562 PE=1 SV=2,TRUE
+BIORISK_0296,sp|P00987|VKTH1_BUNMU Kunitz-type serine protease inhibitor homolog beta-bungarotoxin B1 chain major component OS=Bungarus multicinctus OX=8616 PE=1 SV=2,TRUE
+BIORISK_0297,259490935_deltaLC-peptide-BoNT/A tev [Cloning vector pFB1SPepB2Atev],TRUE
+BIORISK_0308,sp|Q8TGA2|AFLA_ASPPU Fatty acid synthase alpha subunit aflA OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflA PE=3 SV=1,TRUE
+BIORISK_0309,609630_EpsI [Vibrio cholerae],TRUE
+BIORISK_0310,262223016_CtxA partial [Vibrio cholerae],TRUE
+BIORISK_0311,122959148_ADDB_CLOP1 RecName: Full=ATP-dependent helicase/deoxyribonuclease subunit B; AltName: Full=ATP-dependent helicase/nuclease AddB,TRUE
+BIORISK_0320,998765_enterotoxin H {N-terminal} [Staphylococcus aureus FRI-569 Peptide Partial 30 aa],TRUE
+BIORISK_0321,18266754_orf7 [Staphylococcus aureus],TRUE
+BIORISK_0322,53854859_MepB [Staphylococcus aureus],TRUE
+BIORISK_0323,282595992_putative toxin-antitoxin system toxin component [Staphylococcus aureus subsp. aureus C160],TRUE
+BIORISK_0324,329728774_putative alpha-hemolysin [Staphylococcus aureus subsp. aureus 21193],TRUE
+BIORISK_0325,359830692_enterotoxin family protein [Staphylococcus aureus subsp. aureus M013],TRUE
+BIORISK_0326,sp|A2PU44|CHELT_VIBCL NAD(+)--arginine ADP-ribosyltransferase Chelt OS=Vibrio cholerae OX=666 GN=A51_B1772 PE=1 SV=1,TRUE
+BIORISK_0327,sp|P18640|BXC_CBCP Botulinum neurotoxin type C OS=Clostridium botulinum C phage OX=12336 PE=1 SV=3,TRUE
+BIORISK_0328,609632_EpsK [Vibrio cholerae],TRUE
+BIORISK_0329,12644212_DSBA_VIBCH RecName: Full=Thiol:disulfide interchange protein DsbA; Flags: Precursor,TRUE
+BIORISK_0357,255760624_Shiga toxin 2 A subunit partial [Escherichia coli],TRUE
+BIORISK_0358,408116261_shiga toxin A subunit partial [Escherichia coli NE037],TRUE
+BIORISK_0359,153012_ETB precursor [Staphylococcus aureus],TRUE
+BIORISK_0360,18266755_orf9 [Staphylococcus aureus],TRUE
+BIORISK_0361,253728430_toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus TCH130],TRUE
+BIORISK_0362,282325145_enterotoxin SEU [Staphylococcus aureus subsp. aureus WBG10049],TRUE
+BIORISK_0363,487709023_enterotoxin [Staphylococcus aureus],TRUE
+BIORISK_0364,54262019_verocytotoxin 1 partial [Escherichia coli],TRUE
+BIORISK_0365,21314418_lectin chain B isoform 1 partial [Viscum coloratum],TRUE
+BIORISK_0366,sp|B1INP5|BXB_CLOBK Botulinum neurotoxin type B OS=Clostridium botulinum (strain Okra / Type B1) OX=498213 GN=botB PE=1 SV=1,TRUE
+BIORISK_0367,sp|P20419|PHLC_PARBF Phospholipase C OS=Paraclostridium bifermentans OX=1490 GN=plc PE=1 SV=1,TRUE
+BIORISK_0368,sp|Q8VUZ6|PHLC_PARSO Phospholipase C OS=Paraclostridium sordellii OX=1505 GN=plc PE=3 SV=1,TRUE
+BIORISK_0369,155316_enterotoxin subunit A partial [Vibrio cholerae],TRUE
+BIORISK_0370,609634_EpsM [Vibrio cholerae],TRUE
+BIORISK_0371,356448294_accessory cholera enterotoxin [Vibrio cholerae HC-33A2],TRUE
+BIORISK_0372,156254608_beta 2 toxin partial [Clostridium perfringens],TRUE
+BIORISK_0395,223503655_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0396,18266757_orf17 [Staphylococcus aureus],TRUE
+BIORISK_0397,58397426_enterotoxin type I precursor [Staphylococcus aureus],TRUE
+BIORISK_0398,436430553_hemolysin [Staphylococcus aureus subsp. aureus DSM 20231],TRUE
+BIORISK_0406,392859041_Shiga toxin 1 A subunit partial [Escherichia coli],TRUE
+BIORISK_0407,299111_gamma-hemolysin component I H gamma I=leukocidin F homolog [Staphylococcus aureus 4 RIMD 310925 Peptide Partial 59 aa segment 1 of 2],TRUE
+BIORISK_0408,sp|Q2G1X0|HLA_STAA8 Alpha-hemolysin OS=Staphylococcus aureus (strain NCTC 8325 / PS 47) OX=93061 GN=hly PE=1 SV=1,TRUE
+BIORISK_0409,sp|Q12053|AFLC_ASPPU Norsolorinic acid synthase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflC PE=1 SV=1,TRUE
+BIORISK_0410,2499920_BXG_CLOBO RecName: Full=Botulinum neurotoxin type G; Short=BoNT/G; AltName: Full=Bontoxilysin-G; Contains: RecName: Full=Botulinum neurotoxin G light chain; Contains: RecName: Full=Botulinum neurotoxin G heavy chain; Flags: Precursor,TRUE
+BIORISK_0411,609625_EpsD [Vibrio cholerae],TRUE
+BIORISK_0412,429201215_LSC [synthetic construct],TRUE
+BIORISK_0413,188998312_delta toxin [Clostridium perfringens],TRUE
+BIORISK_0426,377744333_enterotoxin type H [Staphylococcus aureus subsp. aureus CIG290],TRUE
+BIORISK_0427,487397676_enterotoxin type G [Staphylococcus aureus],TRUE
+BIORISK_0428,580655684_alpha-hemolysin [Staphylococcus aureus SJOS6144],TRUE
+BIORISK_0429,686152093_gamma-hemolysin subunit B partial [Staphylococcus aureus],TRUE
+BIORISK_0430,686245652_gamma-hemolysin subunit B partial [Staphylococcus aureus],TRUE
+BIORISK_0431,9955674_Stx2fA protein subunit [Escherichia coli],TRUE
+BIORISK_0432,sp|A0A242DI27|BXJ_ENTS3 Botulinum-like toxin eBoNT/J OS=Enterococcus sp. (strain 3G1_DIV0629) OX=1834176 GN=A5816_002916 PE=1 SV=1,TRUE
+BIORISK_0433,sp|Q46150|PHLC_CLONO Phospholipase C OS=Clostridium novyi OX=1542 GN=plc PE=1 SV=1,TRUE
+BIORISK_0434,sp|Q8TGA1|AFLB_ASPPU Fatty acid synthase beta subunit aflB OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflB PE=2 SV=1,TRUE
+BIORISK_0435,609629_EpsH [Vibrio cholerae],TRUE
+BIORISK_0436,257851045_toxin OB domain-containing protein [Staphylococcus aureus A8115],TRUE
+BIORISK_0437,282320374_superantigen-like protein [Staphylococcus aureus subsp. aureus D139],TRUE
+BIORISK_0438,283461710_LOW QUALITY PROTEIN: enterotoxin S partial [Staphylococcus aureus subsp. aureus H19],TRUE
+BIORISK_0439,290919351_putative toxin-antitoxin system toxin component [Staphylococcus aureus subsp. aureus M1015],TRUE
+BIORISK_0440,294717887_alpha toxin partial [Clostridium perfringens],TRUE
+BIORISK_0441,366986387_epsilon toxin partial [Clostridium perfringens],TRUE
+BIORISK_0468,223546414_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0469,686286089_gamma-hemolysin subunit A partial [Staphylococcus aureus],TRUE
+BIORISK_0470,1777631_variant shiga-like toxin II VT subunit A partial [Escherichia coli],TRUE
+BIORISK_0471,117969888_Verotoxin 2 partial [uncultured bacterium],TRUE
+BIORISK_0472,sp|P01552|ETXB_STAAU Enterotoxin type B OS=Staphylococcus aureus OX=1280 GN=entB PE=1 SV=1,TRUE
+BIORISK_0473,sp|Q9M653|RIPT_POLML Ribosome-inactivating protein PMRIPt OS=Polygonatum multiflorum OX=45371 GN=RIPt PE=1 SV=1,TRUE
+BIORISK_0474,sp|P01398|3LKB_BUNMU Kappa-bungarotoxin OS=Bungarus multicinctus OX=8616 PE=1 SV=2,TRUE
+BIORISK_0475,401665812_cholera enterotoxin A subunit partial [Vibrio cholerae O1 biovar El Tor],TRUE
+BIORISK_0476,157956187_beta-toxin partial [Clostridium perfringens],TRUE
+BIORISK_0478,377721375_enterotoxin type G partial [Staphylococcus aureus subsp. aureus CIG1096],TRUE
+BIORISK_0479,507190203_enterotoxin Yent1 [Staphylococcus aureus subsp. aureus 091751],TRUE
+BIORISK_0480,sp|P01555|CHTA_VIBCH Cholera enterotoxin subunit A OS=Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) OX=243277 GN=ctxA PE=1 SV=1,TRUE
+BIORISK_0481,sp|Q9M6E9|AGGL_ABRPR Agglutinin-1 OS=Abrus precatorius OX=3816 GN=AAG PE=1 SV=1,TRUE
+BIORISK_0482,sp|A1IVR8|3L21_BUNCA Alpha-elapitoxin-Bc2a (Fragment) OS=Bungarus candidus OX=92438 PE=1 SV=1,TRUE
+BIORISK_0483,18143678_ATP-dependent deoxyribonuclease chain A [Clostridium perfringens str. 13],TRUE
+BIORISK_0484,169296930_type I site-specific deoxyribonuclease HsdR family [Clostridium perfringens C str. JGS1495],TRUE
+BIORISK_0497,223524824_ricin homolog truncated [Ricinus communis],TRUE
+BIORISK_0498,206812296_Shiga toxin type 1 partial [Escherichia coli],TRUE
+BIORISK_0499,356892769_shiga toxin 1 partial [Escherichia coli],TRUE
+BIORISK_0500,18266765_orf15 [Staphylococcus aureus],TRUE
+BIORISK_0501,390895858_shiga-like toxin 2 subunit A partial [Escherichia coli EC4448],TRUE
+BIORISK_0502,40782180_Volkensin partial [Adenia volkensii],TRUE
+BIORISK_0503,151567938_B Chain B Agglutinin From Abrus Precatorius (Apa-I),TRUE
+BIORISK_0504,386635_01-ST-4=heat-stable enterotoxin [Vibrio cholerae 01 Peptide 28 aa],TRUE
+BIORISK_0505,18144895_hyaluronidase [Clostridium perfringens str. 13],TRUE
+BIORISK_0534,251806_preproricin partial [Ricinus communis],TRUE
+BIORISK_0535,223537370_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0536,478045186_alpha-hemolysin [Staphylococcus aureus M1244],TRUE
+BIORISK_0537,502547504_enterotoxin P [Staphylococcus aureus],TRUE
+BIORISK_0538,1777597_variant shiga-like toxin II partial [Escherichia coli],TRUE
+BIORISK_0539,63021521_VT2 [synthetic construct],TRUE
+BIORISK_0540,444628957_shiga-like toxin beta subunit partial [Escherichia coli PA47],TRUE
+BIORISK_0541,sp|P0DPK1|BXX_CLOBO Botulinum neurotoxin type X OS=Clostridium botulinum OX=1491 GN=CBB2_0680 PE=1 SV=1,TRUE
+BIORISK_0542,sp|Q41358|SNAIB_SAMNI Ribosome-inactivating protein SNAI OS=Sambucus nigra OX=4202 GN=SNA-I PE=1 SV=1,TRUE
+BIORISK_0543,sp|Q12062|AFLK_ASPPU Versicolorin B synthase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflK PE=1 SV=1,TRUE
+BIORISK_0544,99865_B39761 abrin (clone 3.7) precursor - Indian licorice (fragment),TRUE
+BIORISK_0545,746263727_peptidase M27 [Clostridium baratii],TRUE
+BIORISK_0546,609626_EpsE [Vibrio cholerae],TRUE
+BIORISK_0547,148466382_cholera toxin A subunit partial [Vibrio phage CTX],TRUE
+BIORISK_0548,229352324_enterotoxin A subunit (NAD(+)--diphthamide ADP- ribosyltransferase) partial [Vibrio cholerae B33],TRUE
+BIORISK_0549,429224650_CtxA [Vibrio cholerae PS15],TRUE
+BIORISK_0550,929032_iota toxin component Ia [Clostridium perfringens],TRUE
+BIORISK_0566,223535279_conserved hypothetical protein [Ricinus communis],TRUE
+BIORISK_0567,6468278_shiga toxin A subunit partial [Enterobacteria phage f1],TRUE
+BIORISK_0568,9944974_AF288215_1 delta hemolysin [Staphylococcus aureus],TRUE
+BIORISK_0569,32264019_enterotoxin type M partial [Staphylococcus aureus],TRUE
+BIORISK_0570,57285505_exotoxin 3 putative [Staphylococcus aureus subsp. aureus COL],TRUE
+BIORISK_0571,166409297_enterotoxin T [Staphylococcus aureus],TRUE
+BIORISK_0572,205371668_enterotoxin-like protein U variant partial [Staphylococcus aureus],TRUE
+BIORISK_0573,270299674_Mono-ADP-ribosyltransferase C3 precursor (Exoenzyme C3) [Staphylococcus aureus],TRUE
+BIORISK_0585,18266763_orf11 [Staphylococcus aureus],TRUE
+BIORISK_0586,115498371_enterotoxin I partial [Staphylococcus aureus],TRUE
+BIORISK_0587,54262037_verocytotoxin 1 partial [Escherichia coli],TRUE
+BIORISK_0588,sp|P04958|TETX_CLOTE Tetanus toxin OS=Clostridium tetani (strain Massachusetts / E88) OX=212717 GN=tetX PE=1 SV=2,TRUE
+BIORISK_0589,18143848_hyaluronidase [Clostridium perfringens str. 13],TRUE
+BIORISK_0590,170662542_iota toxin component Ib [Clostridium perfringens E str. JGS1987],TRUE
+BIORISK_0591,308206461_beta-toxin partial [Clostridium perfringens],TRUE
+BIORISK_0593,487723089_hemolysin [Staphylococcus aureus],TRUE
+BIORISK_0594,443461622_accessory cholera enterotoxin [Vibrio cholerae HC-80A1],TRUE
+BIORISK_0595,194476439_epsilon toxin partial [Clostridium perfringens D],TRUE
+BIORISK_0602,229891708_CT5_CONTE RecName: Full=Trixin,TRUE
+BIORISK_0607,223264_0702158A ricin D Ala chain,TRUE
+BIORISK_0608,110264591_cholera toxin B partial [Vibrio cholerae O1],TRUE
+BIORISK_0609,146314787_accessory cholera enterotoxin [Vibrio cholerae O395],TRUE
+BIORISK_0610,262022431_non-hemolytic enterotoxin lytic component L1 [Vibrio cholerae RC27],TRUE
+BIORISK_0611,896252_alpha-toxin (phospholipase C) [Clostridium perfringens],TRUE
+BIORISK_0612,76496318_beta 2 toxin partial [Clostridium perfringens],TRUE
+BIORISK_0613,77168522_collagenase A partial [Clostridium perfringens],TRUE
+BIORISK_0614,111607663_alpha toxin partial [Clostridium perfringens],TRUE
+BIORISK_0615,183585284_alpha toxin partial [Clostridium perfringens],TRUE
+BIORISK_0616,209910398_epsilon toxin [Clostridium perfringens],TRUE
+BIORISK_0617,323690650_epsilon toxin partial [Clostridium perfringens],TRUE
+BIORISK_0658,225114_1209171A agglutinin B,TRUE
+BIORISK_0659,223531100_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0660,295792030_preproricin partial [Ricinus communis],TRUE
+BIORISK_0661,6468191_Shiga toxin 1 B subunit [Escherichia coli],TRUE
+BIORISK_0662,15830459_Shiga toxin 2 subunit A [Escherichia coli O157:H7 str. Sakai],TRUE
+BIORISK_0663,37360969_shiga toxin 1B subunit partial [Escherichia coli],TRUE
+BIORISK_0664,49425190_Shiga toxin 2 subunit B [Enterobacteria phage VTB178],TRUE
+BIORISK_0665,91177943_shiga toxin subunit A partial [Escherichia coli],TRUE
+BIORISK_0666,347439110_Shiga toxin 2B subunit partial [Escherichia coli],TRUE
+BIORISK_0667,475839_leucocidin S component [Staphylococcus aureus],TRUE
+BIORISK_0668,6176434_AF188837_1 exotoxin 1 [Staphylococcus aureus subsp. aureus NCTC 8325],TRUE
+BIORISK_0669,49242199_enterotoxin [Staphylococcus aureus subsp. aureus MRSA252],TRUE
+BIORISK_0670,57285499_exotoxin putative [Staphylococcus aureus subsp. aureus COL],TRUE
+BIORISK_0671,87126354_alpha-hemolysin precursor [Staphylococcus aureus subsp. aureus USA300_FPR3757],TRUE
+BIORISK_0672,146747420_toxic shock syndrome toxin-1 precursor [Staphylococcus aureus],TRUE
+BIORISK_0673,149945354_conserved hypothetical protein [Staphylococcus aureus subsp. aureus JH1],TRUE
+BIORISK_0674,160367480_staphylococcal exotoxin [Staphylococcus aureus subsp. aureus USA300_TCH1516],TRUE
+BIORISK_0675,166092095_Panton-Valentine leukocidin F [Staphylococcus aureus],TRUE
+BIORISK_0676,253726831_superantigen-like protein [Staphylococcus aureus subsp. aureus TCH130],TRUE
+BIORISK_0677,257271682_C4-dicarboxylate transporter/malic acid transporter [Staphylococcus aureus subsp. aureus 55/2053],TRUE
+BIORISK_0678,257282382_hemolysin [Staphylococcus aureus subsp. aureus E1410],TRUE
+BIORISK_0679,257284724_panton-Valentine leukocidin chain S [Staphylococcus aureus subsp. aureus M876],TRUE
+BIORISK_0680,257839634_beta-channel forming cytolysin [Staphylococcus aureus A9763],TRUE
+BIORISK_0681,257842824_toxin beta-grasp domain-containing protein [Staphylococcus aureus A9719],TRUE
+BIORISK_0682,257845172_conserved hypothetical protein [Staphylococcus aureus A9635],TRUE
+BIORISK_0683,257862172_exotoxin NM10 [Staphylococcus aureus A5937],TRUE
+BIORISK_0684,281334763_Enterotoxin phage associated [Staphylococcus aureus],TRUE
+BIORISK_0685,282319856_superantigen-like protein [Staphylococcus aureus subsp. aureus D139],TRUE
+BIORISK_0686,282324337_exotoxin [Staphylococcus aureus subsp. aureus WBG10049],TRUE
+BIORISK_0687,282330363_toxin mazF [Staphylococcus aureus subsp. aureus Btn1260],TRUE
+BIORISK_0688,282589770_enterotoxin [Staphylococcus aureus A10102],TRUE
+BIORISK_0689,282591917_conserved hypothetical protein [Staphylococcus aureus A9765],TRUE
+BIORISK_0690,sp|P93543|RIP1_SAMNI Ribosome-inactivating protein SNAI' OS=Sambucus nigra OX=4202 PE=1 SV=1,TRUE
+BIORISK_0691,sp|Q8AY47|PA2B2_BUNCA Basic phospholipase A2 beta-bungarotoxin A2 chain (Fragment) OS=Bungarus candidus OX=92438 PE=2 SV=1,TRUE
+BIORISK_0692,1095848_2110216A lockjaw peptide,TRUE
+BIORISK_0700,152998_epidermal cell differentiation inhibitor [Staphylococcus aureus],TRUE
+BIORISK_0701,11094375_AF217235_1 sel [Staphylococcus aureus],TRUE
+BIORISK_0702,32264025_enterotoxin type M partial [Staphylococcus aureus],TRUE
+BIORISK_0703,205371669_enterotoxin SEI variant partial [Staphylococcus aureus],TRUE
+BIORISK_0704,282320372_superantigen-like protein [Staphylococcus aureus subsp. aureus D139],TRUE
+BIORISK_0705,408425188_Hemolysin [Staphylococcus aureus subsp. aureus ST228],TRUE
+BIORISK_0706,120407510_PfoA [Clostridium perfringens],TRUE
+BIORISK_0718,408116388_shiga toxin subunit A partial [Escherichia coli NE037],TRUE
+BIORISK_0719,2689557_orf14 [Staphylococcus aureus],TRUE
+BIORISK_0720,11527268_AF285760_5 YENT2 [Staphylococcus aureus],TRUE
+BIORISK_0721,18266756_orf10 [Staphylococcus aureus],TRUE
+BIORISK_0722,sp|A7GBG3|BXF_CLOBL Botulinum neurotoxin type F OS=Clostridium botulinum (strain Langeland / NCTC 10281 / Type F) OX=441772 GN=F PE=1 SV=1,TRUE
+BIORISK_0723,sp|P19321|BXD_CBDP Botulinum neurotoxin type D OS=Clostridium botulinum D phage OX=29342 GN=botD PE=1 SV=1,TRUE
+BIORISK_0724,sp|Q70US9|VOLK_ADEVO Volkensin (Fragment) OS=Adenia volkensii OX=219186 GN=volk38 PE=1 SV=1,TRUE
+BIORISK_0725,226332414_B Chain B Crystal Structure Of A Catalytically Active Non-Toxic Endopeptidase Derivative Of Clostridium Botulinum Toxin A,TRUE
+BIORISK_0726,155315_zonula occludens toxin [Vibrio cholerae],TRUE
+BIORISK_0727,609633_EpsL [Vibrio cholerae],TRUE
+BIORISK_0728,446897611_MULTISPECIES: hypothetical protein [Vibrio],TRUE
+BIORISK_0729,156254606_beta 2 toxin partial [Clostridium perfringens],TRUE
+BIORISK_0732,359830693_enterotoxin family protein [Staphylococcus aureus subsp. aureus M013],TRUE
+BIORISK_0733,446317600_enterotoxin [Staphylococcus aureus],TRUE
+BIORISK_0734,sp|P28590|ABRC_ABRPR Abrin-c OS=Abrus precatorius OX=3816 PE=1 SV=1,TRUE
+BIORISK_0735,sp|Q9LBR4|HA17D_CBDP Hemagglutinin component HA-17 type D OS=Clostridium botulinum D phage OX=29342 GN=ha-17 PE=1 SV=1,TRUE
+BIORISK_0736,6977827_beta toxin partial [Clostridium perfringens C],TRUE
+BIORISK_0737,315193835_alpha-hemolysin [Staphylococcus aureus subsp. aureus CGS00],TRUE
+BIORISK_0738,446392465_enterotoxin [Staphylococcus aureus],TRUE
+BIORISK_0751,223503656_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0752,2689564_integrase [Staphylococcus aureus],TRUE
+BIORISK_0753,18266758_orf20 [Staphylococcus aureus],TRUE
+BIORISK_0754,21314420_lectin chain B isoform 2 partial [Viscum coloratum],TRUE
+BIORISK_0755,sp|C1FUH8|BXAN_CLOBJ Non-toxic nonhemagglutinin type A OS=Clostridium botulinum (strain Kyoto / Type A2) OX=536232 GN=ntnh PE=1 SV=1,TRUE
+BIORISK_0756,sp|P20723|ETXD_STAAU Enterotoxin type D OS=Staphylococcus aureus OX=1280 GN=entD PE=1 SV=1,TRUE
+BIORISK_0757,sp|Q9LBR2|BXDN_CBDP Non-toxic nonhemagglutinin type D OS=Clostridium botulinum D phage OX=29342 GN=ntnha PE=1 SV=1,TRUE
+BIORISK_0758,sp|P00617|PA2B1_BUNMU Basic phospholipase A2 beta-bungarotoxin A1 chain OS=Bungarus multicinctus OX=8616 PE=1 SV=2,TRUE
+BIORISK_0759,209556_cholera toxin subunit B precursor [synthetic construct],TRUE
+BIORISK_0760,609635_EpsN [Vibrio cholerae],TRUE
+BIORISK_0761,32187073_toxin B subunit precursor partial [Vibrio cholerae],TRUE
+BIORISK_0770,3123900_iota toxin component A partial [Clostridium perfringens],TRUE
+BIORISK_0771,121544184_iota toxin partial [Clostridium perfringens],TRUE
+BIORISK_0772,282555711_beta toxin partial [Clostridium perfringens B],TRUE
+BIORISK_0795,223544526_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0796,6635141_Shiga toxin II subuit A partial [Escherichia coli],TRUE
+BIORISK_0797,577649_preLUKM [Staphylococcus aureus],TRUE
+BIORISK_0798,18266752_orf4 [Staphylococcus aureus],TRUE
+BIORISK_0799,53854857_MepR [Staphylococcus aureus],TRUE
+BIORISK_0800,156153053_PVL toxin partial [Staphylococcus aureus],TRUE
+BIORISK_0801,283789805_toxin-antitoxin system toxin component Bro family [Staphylococcus aureus subsp. aureus A017934/97],TRUE
+BIORISK_0802,312830198_enterotoxin [Staphylococcus aureus subsp. aureus ECT-R 2],TRUE
+BIORISK_0803,587148501_alpha-hemolysin [Staphylococcus aureus W73649],TRUE
+BIORISK_0804,10120878_A Chain A Mutated Shiga-Like Toxin B Subunit (G62t),TRUE
+BIORISK_0805,444548400_shiga-like toxin beta subunit partial [Escherichia coli 99.0815],TRUE
+BIORISK_0806,sp|A0A5P3XKL4|NTNH_PARBF Non-toxic nonhemagglutinin OS=Paraclostridium bifermentans OX=1490 GN=ntnh PE=1 SV=1,TRUE
+BIORISK_0807,sp|Q60393|BXG_CLOBO Botulinum neurotoxin type G OS=Clostridium botulinum OX=1491 GN=botG PE=1 SV=2,TRUE
+BIORISK_0815,223526513_ricin-agglutinin family protein partial [Ricinus communis],TRUE
+BIORISK_0816,5690275_AF147744_2 lantibiotic structural protein beta [Staphylococcus aureus],TRUE
+BIORISK_0817,18266771_orf25 [Staphylococcus aureus],TRUE
+BIORISK_0818,41207529_enterotoxin Q partial [Staphylococcus aureus subsp. aureus],TRUE
+BIORISK_0819,149947367_addiction module toxin Txe/YoeB family [Staphylococcus aureus subsp. aureus JH1],TRUE
+BIORISK_0820,253726823_toxin beta-grasp domain protein [Staphylococcus aureus subsp. aureus TCH130],TRUE
+BIORISK_0821,283789399_putative toxin-antitoxin system toxin component MazF family [Staphylococcus aureus subsp. aureus A017934/97],TRUE
+BIORISK_0822,285020031_panton-valentine leucocidin S partial [Staphylococcus aureus],TRUE
+BIORISK_0823,507923190_shiga-like toxin A subunit [Erwinia tracheiphila PSU-1],TRUE
+BIORISK_0824,VDZ34195.1 staphylococcal enterotoxin L [Staphylococcus aureus],TRUE
+BIORISK_0825,sp|P82683|ML3_VISAL Beta-galactoside-specific lectin 3 OS=Viscum album OX=3972 PE=1 SV=2,TRUE
+BIORISK_0832,223635808_VPL9A_POLAB RecName: Full=Turripeptide Pal9a,TRUE
+BIORISK_0840,223528120_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0841,269979609_ricin A chain partial [Ricinus communis],TRUE
+BIORISK_0842,5690276_AF147744_3 lantibiotic modifying enzyme [Staphylococcus aureus],TRUE
+BIORISK_0843,18266772_orf12 [Staphylococcus aureus],TRUE
+BIORISK_0844,282591911_exotoxin 2 [Staphylococcus aureus A9765],TRUE
+BIORISK_0845,478077208_enterotoxin SEN [Staphylococcus aureus M1367],TRUE
+BIORISK_0846,54262051_verocytotoxin 2 partial [Escherichia coli],TRUE
+BIORISK_0847,477968538_enterotoxin type D [Staphylococcus aureus M1016],TRUE
+BIORISK_0848,261106_MLIII A chain=toxic lectin {N-terminal} [Viscum album=mistletoe Peptide Partial 29 aa],TRUE
+BIORISK_0849,GBR90786.1 enterotoxin P phage associated [Staphylococcus aureus],TRUE
+BIORISK_0850,sp|P0A0L6|ETXG_STAAM Enterotoxin type G OS=Staphylococcus aureus (strain Mu50 / ATCC 700699) OX=158878 GN=entG PE=3 SV=1,TRUE
+BIORISK_0851,sp|Q02307|ETXB_CLOPF Epsilon-toxin type B OS=Clostridium perfringens OX=1502 GN=etxB PE=1 SV=1,TRUE
+BIORISK_0852,sp|Q9YGJ0|3NO5I_BUNMU Gamma-bungarotoxin OS=Bungarus multicinctus OX=8616 PE=1 SV=1,TRUE
+BIORISK_0853,110294017_enterotoxin A partial [Staphylococcus aureus],TRUE
+BIORISK_0854,126517408_protein A partial [Staphylococcus aureus],TRUE
+BIORISK_0855,186660357_enterotoxin A partial [Staphylococcus aureus],TRUE
+BIORISK_0856,283461058_enterotoxin Seu [Staphylococcus aureus subsp. aureus H19],TRUE
+BIORISK_0857,288551761_hypothetical protein [Staphylococcus aureus],TRUE
+BIORISK_0858,290920186_toxin-antitoxin system toxin component Bro family partial [Staphylococcus aureus subsp. aureus M1015],TRUE
+BIORISK_0859,446647974_enterotoxin [Staphylococcus aureus],TRUE
+BIORISK_0868,223528122_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_0869,54262053_verocytotoxin 2 partial [Escherichia coli],TRUE
+BIORISK_0870,525336718_shiga-like toxin II subunit A precursor [Escherichia phage 1720a-02],TRUE
+BIORISK_0871,ADC37997.1 enterotoxin SeO [Staphylococcus aureus 04-02981],TRUE
+BIORISK_0872,302333277_enterotoxin family protein [Staphylococcus aureus subsp. aureus JKD6159],TRUE
+BIORISK_0873,375021305_gamma-hemolysin component A [Staphylococcus aureus subsp. aureus IS-99],TRUE
+BIORISK_0874,477907871_enterotoxin SEE partial [Staphylococcus aureus M0780],TRUE
+BIORISK_0881,146747406_leukotoxin E precursor partial [Staphylococcus aureus],TRUE
+BIORISK_0882,160369466_hypothetical protein USA300HOU_2447 [Staphylococcus aureus subsp. aureus USA300_TCH1516],TRUE
+BIORISK_0883,253725482_putative superantigen-like protein partial [Staphylococcus aureus subsp. aureus USA300_TCH959],TRUE
+BIORISK_0884,528854683_toxin [Staphylococcus aureus S100],TRUE
+BIORISK_0885,356494401_enterotoxin type C3 [Staphylococcus aureus],TRUE
+BIORISK_0886,377696764_enterotoxin type B [Staphylococcus aureus subsp. aureus CIG1114],TRUE
+BIORISK_0892,147742070_membrane protein putative toxin regulator-like protein [Staphylococcus aureus subsp. aureus JH9],TRUE
+BIORISK_0893,253725488_superantigen-like protein [Staphylococcus aureus subsp. aureus USA300_TCH959],TRUE
+BIORISK_0894,198042548_hypothetical protein [Escherichia coli],TRUE
+BIORISK_0895,494641_P Chain P Crystal Structure Of An Anticholera Toxin Peptide Complex At 2.3 Angstroms,TRUE
+BIORISK_0899,478052576_enterotoxin type G [Staphylococcus aureus M1275],TRUE
+BIORISK_0900,126517410_protein A partial [Staphylococcus aureus],TRUE
+BIORISK_0901,205371658_enterotoxin-like protein U partial [Staphylococcus aureus],TRUE
+BIORISK_0902,257853890_LOW QUALITY PROTEIN: enterotoxin [Staphylococcus aureus A6300],TRUE
+BIORISK_0903,sp|O13345|AFLQ_ASPPU O-methylsterigmatocystin oxidoreductase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflQ PE=1 SV=1,TRUE
+BIORISK_0904,399136_BXE_CLOBU RecName: Full=Botulinum neurotoxin type E; Short=BoNT/E; AltName: Full=Bontoxilysin-E; Contains: RecName: Full=Botulinum neurotoxin E light chain; Contains: RecName: Full=Botulinum neurotoxin E heavy chain; Flags: Precursor,TRUE
+BIORISK_0905,502144586_peptidase M27 [Clostridium botulinum],TRUE
+BIORISK_0906,1708330_HSTO_VIBCL RecName: Full=Heat-stable enterotoxin STO; AltName: Full=O1-ST; Flags: Precursor,TRUE
+BIORISK_0907,52082991_CTB-P1 [synthetic construct],TRUE
+BIORISK_0908,257848497_RNA-binding S1 domain-containing protein [Staphylococcus aureus A9299],TRUE
+BIORISK_0909,282322009_putative exotoxin 4 [Staphylococcus aureus subsp. aureus M899],TRUE
+BIORISK_0910,293792080_alpha toxin partial [Staphylococcus aureus],TRUE
+BIORISK_0933,18266761_orf5 [Staphylococcus aureus],TRUE
+BIORISK_0934,72536463_Panton-Valentine leukocidin partial [Staphylococcus aureus],TRUE
+BIORISK_0935,115361614_enterotoxin G partial [Staphylococcus aureus],TRUE
+BIORISK_0936,586418706_leukotoxin LukD [Staphylococcus aureus HBHO6050],TRUE
+BIORISK_0937,397785512_shiga-like toxin 2 subunit A domain protein [Escherichia coli STEC_O31],TRUE
+BIORISK_0938,446399560_Shiga-like toxin A subunit [Escherichia coli],TRUE
+BIORISK_0939,WP_032492129.1 staphylococcal enterotoxin type S [Staphylococcus aureus],TRUE
+BIORISK_0940,sp|P0DJY8|SPEA_BPT12 Exotoxin type A OS=Streptococcus pyogenes phage T12 OX=35344 GN=speA PE=3 SV=1,TRUE
+BIORISK_0941,sp|Q06366|BXEN_CLOBU Non-toxic nonhemagglutinin type E OS=Clostridium butyricum OX=1492 PE=3 SV=1,TRUE
+BIORISK_0942,sp|P87017|AFLH_ASPPU 5'-hydroxyaverantin dehydrogenase OS=Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1) OX=1403190 GN=aflH PE=1 SV=2,TRUE
+BIORISK_0943,sp|Q7T2Q6|VKTHB_BUNFL Kunitz-type serine protease inhibitor homolog beta-bungarotoxin B chain OS=Bungarus flaviceps flaviceps OX=8615 PE=1 SV=1,TRUE
+BIORISK_0944,399137_BXF_CLOBO RecName: Full=Botulinum neurotoxin type F; Short=BoNT/F; AltName: Full=Bontoxilysin-F; Contains: RecName: Full=Botulinum neurotoxin F light chain; Contains: RecName: Full=Botulinum neurotoxin F heavy chain; Flags: Precursor,TRUE
+BIORISK_0945,502144879_peptidase M27 [Clostridium botulinum],TRUE
+BIORISK_0946,586275_Y1460_VIBCH RecName: Full=Uncharacterized protein VC_1460; AltName: Full=OrfU,TRUE
+BIORISK_0947,1827848_A Chain A Cholera Toxin,TRUE
+BIORISK_0948,224552641_zonula occludens toxin partial [Vibrio cholerae],TRUE
+BIORISK_0949,262022432_non-hemolytic enterotoxin lytic component L1 [Vibrio cholerae RC27],TRUE
+BIORISK_0952,290918898_txe/YoeB family toxin [Staphylococcus aureus subsp. aureus M1015],TRUE
+BIORISK_0953,291097240_conserved hypothetical protein [Staphylococcus aureus subsp. aureus 58-424],TRUE
+BIORISK_0954,377696765_enterotoxin type B [Staphylococcus aureus subsp. aureus CIG1114],TRUE
+BIORISK_0955,410655536_Enterotoxin [Staphylococcus aureus],TRUE
+BIORISK_0956,446517171_gamma-hemolysin component A [Staphylococcus aureus],TRUE
+BIORISK_0957,446656427_enterotoxin I [Staphylococcus aureus],TRUE
+BIORISK_0958,446714080_succinyl-diaminopimelate desuccinylase [Staphylococcus aureus],TRUE
+BIORISK_0959,447068943_enterotoxin I [Staphylococcus aureus],TRUE
+BIORISK_0960,477697567_hemolysin [Staphylococcus aureus M0200],TRUE
+BIORISK_0961,477725840_enterotoxin type D [Staphylococcus aureus M0279],TRUE
+BIORISK_0962,477806809_enterotoxin type A partial [Staphylococcus aureus M0460],TRUE
+BIORISK_0963,195182312_shiga toxin 2e A partial [Escherichia coli],TRUE
+BIORISK_0965,8885990_enterotoxin I partial [Staphylococcus aureus],TRUE
+BIORISK_0966,32264016_enterotoxin type M partial [Staphylococcus aureus],TRUE
+BIORISK_0967,126517418_protein A partial [Staphylococcus aureus],TRUE
+BIORISK_0968,149945381_exotoxin 7 [Staphylococcus aureus subsp. aureus JH1],TRUE
+BIORISK_0969,160367483_staphylococcal exotoxin [Staphylococcus aureus subsp. aureus USA300_TCH1516],TRUE
+BIORISK_0970,257858038_enterotoxin type A [Staphylococcus aureus A6224],TRUE
+BIORISK_0971,257862395_addiction module toxin [Staphylococcus aureus A5937],TRUE
+BIORISK_0972,282320336_enterotoxin [Staphylococcus aureus subsp. aureus D139],TRUE
+BIORISK_0973,282592174_ADP-ribosylating toxin [Staphylococcus aureus A9765],TRUE
+BIORISK_0974,282595059_putative toxin-antitoxin system toxin component [Staphylococcus aureus subsp. aureus C160],TRUE
+BIORISK_0975,516415261_toxin [Staphylococcus aureus],TRUE
+BIORISK_0976,sp|A0A5P3XKQ1|PMP1_PARBF Paraclostridial mosquitocidal protein 1 OS=Paraclostridium bifermentans OX=1490 GN=pmp1 PE=1 SV=1,TRUE
+BIORISK_0977,sp|P13810|E2AA_ECOLX Heat-labile enterotoxin IIA A chain OS=Escherichia coli OX=562 PE=3 SV=1,TRUE
+BIORISK_0978,sp|Q6H266|ML2_VISAL Beta-galactoside-specific lectin 2 OS=Viscum album OX=3972 PE=2 SV=1,TRUE
+BIORISK_0979,sp|Q90WJ7|SXT1_TAKPA Saxitoxin and tetrodotoxin-binding protein 1 OS=Takifugu pardalis OX=98921 GN=psbp1 PE=1 SV=2,TRUE
+BIORISK_0980,265719_abrin-a B-chain=toxic lectin [Abrus precatorius seeds Peptide 268 aa],TRUE
+BIORISK_0981,575527059_botulinum neurotoxin type A light chain partial [synthetic construct],TRUE
+BIORISK_0982,609631_EpsJ [Vibrio cholerae],TRUE
+BIORISK_0983,327244558_cholera toxin B subunit partial [Vibrio cholerae O1],TRUE
+BIORISK_0995,223546106_hydrolase hydrolyzing O-glycosyl compounds putative [Ricinus communis],TRUE
+BIORISK_0996,390815507_shiga toxin 2 A subunit [Escherichia coli TW10119],TRUE
+BIORISK_0997,153006_ETA precursor [Staphylococcus aureus],TRUE
+BIORISK_0998,18266753_orf6 [Staphylococcus aureus],TRUE
+BIORISK_1000,253726429_superantigen-like protein [Staphylococcus aureus subsp. aureus USA300_TCH959],TRUE
+BIORISK_1001,257859961_enterotoxin typeC3 [Staphylococcus aureus A5948],TRUE
+BIORISK_1002,282320382_superantigen-like protein 5 [Staphylococcus aureus subsp. aureus D139],TRUE
+BIORISK_1003,282328650_exotoxin [Staphylococcus aureus subsp. aureus WW2703/97],TRUE
+BIORISK_1004,282590191_LOW QUALITY PROTEIN: enterotoxin type E [Staphylococcus aureus A10102],TRUE
+BIORISK_1017,255587303_ricin-agglutinin family protein [Ricinus communis],TRUE
+BIORISK_1018,3806104_exotoxin 2 partial [Staphylococcus aureus],TRUE
+BIORISK_1019,18266764_orf13 [Staphylococcus aureus],TRUE
+BIORISK_1020,115498373_enterotoxin J partial [Staphylococcus aureus],TRUE
+BIORISK_1021,507197968_enterotoxin SeO partial [Staphylococcus aureus subsp. aureus 122051],TRUE
+BIORISK_1022,96426_A60283 shiga-like toxin II variant chain A - Escherichia coli (strain TB1-pCG6) (fragments),TRUE
+BIORISK_1023,300373175_Stx2 partial [Escherichia coli],TRUE
+BIORISK_1024,386231702_shiga-like toxin 2 subunit B [Escherichia coli 3.3884],TRUE
+BIORISK_1025,sp|P02879|RICI_RICCO Ricin OS=Ricinus communis OX=3988 PE=1 SV=1,TRUE
+BIORISK_1026,sp|P43530|ELAH_ECOH1 Heat-labile enterotoxin A chain OS=Escherichia coli O78:H11 (strain H10407 / ETEC) OX=316401 GN=eltA PE=3 SV=1,TRUE
+BIORISK_1027,sp|U3KRF8|SGSL_TRIAN Seed lectin (Fragment) OS=Trichosanthes anguina OX=50544 PE=1 SV=2,TRUE
+BIORISK_1028,sp|P00989|VKTH2_BUNMU Kunitz-type serine protease inhibitor homolog beta-bungarotoxin B2 chain OS=Bungarus multicinctus OX=8616 PE=1 SV=2,TRUE
+BIORISK_1029,18653444_abrin isoform G precursor partial [Abrus precatorius],TRUE
+BIORISK_1030,18143830_collagenase [Clostridium perfringens str. 13],TRUE
+BIORISK_1031,170661520_putative type I site-specific deoxyribonuclease HsdR family subfamily [Clostridium perfringens E str. JGS1987],TRUE
+BIORISK_1068,91177944_shiga toxin subunit B partial [Escherichia coli],TRUE
+BIORISK_1069,208739426_shiga toxin subunit A [Escherichia coli O157:H7 str. EC4042],TRUE
+BIORISK_1070,7239368_AF230358_1 delta-haemolysin precurser [Staphylococcus aureus subsp. aureus RN4220],TRUE
+BIORISK_1071,149945380_exotoxin 6 [Staphylococcus aureus subsp. aureus JH1],TRUE
+BIORISK_1073,20177871_COW3_CONTE RecName: Full=Leu-contryphan-Tx; Flags: Precursor,TRUE
+BIORISK_1080,206557915_COW_CONST RecName: Full=Contryphan-S; Flags: Precursor,TRUE
+BIORISK_1083,307938405_shiga toxin 2 subunit A partial [Aeromonas caviae],TRUE
+BIORISK_1084,18266766_orf16 [Staphylococcus aureus],TRUE
+BIORISK_1085,282321250_toxin-antitoxin system toxin component Bro family partial [Staphylococcus aureus subsp. aureus M899],TRUE
+BIORISK_1086,317016977_alpha-hemolysin partial [Staphylococcus aureus],TRUE
+BIORISK_1087,365234890_enterotoxin type C-1 [Staphylococcus aureus subsp. aureus 21334],TRUE
+BIORISK_1088,408114978_shiga-like toxin 2 subunit A [Escherichia coli NE037],TRUE
+BIORISK_1089,75185614_AGGL_ABRPR RecName: Full=Agglutinin-1; AltName: Full=Agglutinin I; Contains: RecName: Full=Agglutinin-1 chain A; AltName: Full=AAG-A; Contains: RecName: Full=Agglutinin-1 chain B; AltName: Full=AAG-B; Flags: Precursor,TRUE
+BIORISK_1090,386634_01-ST-3=heat-stable enterotoxin [Vibrio cholerae 01 Peptide 19 aa],TRUE
+BIORISK_1091,516283061_accessory cholera enterotoxin [Vibrio cholerae],TRUE
+BIORISK_1092,18144541_hyaluronidase [Clostridium perfringens str. 13],TRUE
 BIORISK_RICIN_10072025,RICIN,TRUE
 1A8M_1ExtractedfromPDB,TUMOR NECROSIS FACTOR ALPHA [Homo sapiens] PDB : 1A8M,TRUE
 1CA1_1ExtractedfromPDB,ALPHA-TOXIN [Clostridium perfringens] PDB : 1CA1,TRUE
@@ -3071,23 +3071,22 @@ BIORISK_RICIN_10072025,RICIN,TRUE
 8C9K_1ExtractedfromPDB,MPXVgp165 [Monkeypox virus] PDB : 8C9K,TRUE
 8DNG_1ExtractedfromPDB,Fusion glycoprotein F0 [Nipah henipavirus] PDB : 8DNG,TRUE
 8DNG_2ExtractedfromPDB,Fusion glycoprotein F0 [Nipah henipavirus] PDB : 8DNG,TRUE
-A0A8D9W4Z1,{FLAG},TRUE
-ADC37993.1,{FLAG},TRUE
-ADC37994.1,{FLAG},TRUE
-ADC37997.1,{FLAG},TRUE
-EEV03781.1,{FLAG},TRUE
-GBR90786.1,{FLAG},TRUE
-O86264,{FLAG},TRUE
-Q0PRM7,{FLAG},TRUE
-Q46308,{FLAG},TRUE
-Q57398,{FLAG},TRUE
-Q6XXM5,{FLAG},TRUE
-Q70US9,{FLAG},TRUE
-VDZ34195.1,{FLAG},TRUE
-WP_032492129.1,{FLAG},TRUE
-WP_044122767.1,{FLAG},TRUE
-WP_049880132.1,{FLAG},TRUE
-WP_053819437.1,{FLAG},TRUE
-WP_086098263.1,{FLAG},TRUE
-WP_115289619.1,{FLAG},TRUE
-WP_155560339.1,{FLAG},TRUE
+A0A8D9W4Z1,"{flag}",TRUE
+ADC37993.1,"enterotoxin Yent2 [Staphylococcus aureus 04-02981]",TRUE
+ADC37994.1,"enterotoxin Yent1 [Staphylococcus aureus 04-02981]",TRUE
+ADC37997.1,"enterotoxin SeO [Staphylococcus aureus 04-02981]",TRUE
+EEV03781.1,"enterotoxin M [Staphylococcus aureus subsp. aureus 55/2053]",TRUE
+GBR90786.1,"enterotoxin P, phage associated [Staphylococcus aureus]",TRUE
+O86264,Beta 2 toxin [Clostridium perfringens C],TRUE
+Q0PRM7,Enterotoxin I [Staphylococcus aureus],TRUE
+Q46308,Leukocidin/Hemolysin toxin domain-containing protein [Clostridium perfringens],TRUE
+Q57398,Epsilaon-toxin [Clostridium perfringens],TRUE
+Q6XXM5,Enterotoxin Seu [Staphylococcus aureus],TRUE
+VDZ34195.1,staphylococcal enterotoxin L [Staphylococcus aureus],TRUE
+WP_032492129.1,staphylococcal enterotoxin type S [Staphylococcus aureus],TRUE
+WP_044122767.1,staphylococcal enterotoxin type E [Staphylococcus aureus],TRUE
+WP_049880132.1,staphylococcal enterotoxin type R [Staphylococcus aureus],TRUE
+WP_053819437.1,staphylococcal enterotoxin type D [Staphylococcus aureus],TRUE
+WP_086098263.1,staphylococcal enterotoxin type Q [Staphylococcus aureus],TRUE
+WP_115289619.1,staphylococcal enterotoxin type U [Staphylococcus aureus],TRUE
+WP_155560339.1,staphylococcal enterotoxin type Y [Staphylococcus aureus],TRUE

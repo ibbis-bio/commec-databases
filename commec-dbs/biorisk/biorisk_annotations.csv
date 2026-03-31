@@ -3071,7 +3071,7 @@ BIORISK_RICIN_10072025,RICIN,TRUE
 8C9K_1ExtractedfromPDB,MPXVgp165 [Monkeypox virus] PDB : 8C9K,TRUE
 8DNG_1ExtractedfromPDB,Fusion glycoprotein F0 [Nipah henipavirus] PDB : 8DNG,TRUE
 8DNG_2ExtractedfromPDB,Fusion glycoprotein F0 [Nipah henipavirus] PDB : 8DNG,TRUE
-A0A8D9W4Z1,"{flag}",TRUE
+A0A8D9W4Z1,"Unlabelled enterotoxin",TRUE
 ADC37993.1,"enterotoxin Yent2 [Staphylococcus aureus 04-02981]",TRUE
 ADC37994.1,"enterotoxin Yent1 [Staphylococcus aureus 04-02981]",TRUE
 ADC37997.1,"enterotoxin SeO [Staphylococcus aureus 04-02981]",TRUE

@@ -15,10 +15,10 @@ DATABASE_DIRECTORY = os.path.join(os.path.dirname(__file__), "..", "commec-dbs")
 TEST_DIRECTORY = os.path.dirname(__file__)
 
 databases_to_test = [
-    [BlastNHandler, "low_concern/dna", "benign.fasta"],
+    [BlastNHandler, "low_concern/dna", "low_concern.fasta"],
     [HmmerHandler, "biorisk", "biorisk.hmm"],
-    [HmmerHandler, "low_concern/protein", "benign.hmm"],
-    [CmscanHandler, "low_concern/rna", "benign.cm"],
+    [HmmerHandler, "low_concern/protein", "low_concern.hmm"],
+    [CmscanHandler, "low_concern/rna", "low_concern.cm"],
 ]
 
 @pytest.mark.parametrize("input_database", databases_to_test)
@@ -54,5 +54,5 @@ def test_databases_can_run(input_database, tmp_path):
         output_text = str(f.read())
 
     assert output_text, "The output file text failed to generate."
-    assert screener.check_output(), "No file was created for tool search."
+    assert screener.validate_output(), "No file was created for tool search."
     assert screener.get_version_information(), "get_version_information() returned empty/None"

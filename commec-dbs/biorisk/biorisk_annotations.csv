@@ -35,8 +35,8 @@ Toxin11, Spasmodic peptide gm9a; conotoxin from Conus species,FALSE
 Toxin26, Conotoxin T-superfamily,FALSE
 Toxin24, Conotoxin TVIIA/GS family,FALSE
 VFG000838gbWP000738068,(stx2B) shiga-like toxin II B subunit encoded by bacteriophage BP-933W [Stx (VF0206) - Exotoxin (VFC0235)] [Escherichia coli O157:H7 str. EDL933],TRUE
-VFG000676gbAAD32411,(lef) anthrax toxin lethal factor precursor [Anthrax toxin (VF0142) - Exotoxin (VFC0235)] [Bacillus anthracis str. Sterne],FALSE
-VFG000677gbAAD32414,"(pagA) anthrax toxin moiety, protective antigen [Anthrax toxin (VF0142) - Exotoxin (VFC0235)] [Bacillus anthracis str. Sterne]",FALSE
+VFG000676gbAAD32411,(lef) anthrax toxin lethal factor precursor [Anthrax toxin (VF0142) - Exotoxin (VFC0235)] [Bacillus anthracis str. Sterne],TRUE
+VFG000677gbAAD32414,"(pagA) anthrax toxin moiety, protective antigen [Anthrax toxin (VF0142) - Exotoxin (VFC0235)] [Bacillus anthracis str. Sterne]",TRUE
 VFG016239gbWP001099551,(GBAA_RS27765) hemolysin III family protein [Hemolysin III homolog (VF0656) - Exotoxin (VFC0235)] [Bacillus anthracis str. Ames Ancestor],FALSE
 VFG016268gbWP000751851,(nheA) non-hemolytic enterotoxin A [Nhe (VF0533) - Exotoxin (VFC0235)] [Bacillus anthracis str. Sterne],FALSE
 VFG000680gbAAF13661,"(capA) CapA, required for Poly-gamma-glutamate transport [Capsule (VF0141) - Immune modulation (VFC0258)] [Bacillus anthracis]",FALSE
@@ -2266,7 +2266,7 @@ gi16767730refNP463345.1,D-gluconate kinase [Salmonella enterica subsp. enterica 
 gi209947607refYP002291114.1,epsilon toxin [Clostridium perfringens],TRUE
 gi227814016refYP002814025.1,"manganese ABC transporter, manganese-binding protein [Bacillus anthracis str. CDC 684]",FALSE
 gi227818215refYP002818224.1,"nitric-oxide synthase, oxygenase subunit [Bacillus anthracis str. CDC 684]",FALSE
-gi227811562refYP002811573.1,calmodulin-sensitive adenylate cyclase [Bacillus anthracis str. CDC 684],FALSE
+gi227811562refYP002811573.1,calmodulin-sensitive adenylate cyclase [Bacillus anthracis str. CDC 684],TRUE
 gi227811569refYP002811580.1,anthrax toxin expression trans-acting positive regulator [Bacillus anthracis str. CDC 684],FALSE
 gi227811374refYP002808736.1,capsule synthesis trans-acting positive regulator AcpB [Bacillus anthracis str. CDC 684],FALSE
 gi227811376refYP002808738.1,polyglutamate capsule biosynthesis protein CapE [Bacillus anthracis str. CDC 684],FALSE

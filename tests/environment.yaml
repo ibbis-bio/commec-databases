@@ -5,5 +5,7 @@ channels:
   - defaults
 dependencies:
   - python >=3.10
-  - commec
+  # These are the commec v1.x databases; pin commec to 1.x so the DB tests run
+  # against a compatible version (commec 2.0 uses a different database layout).
+  - commec >=1.0,<2
   - pytest

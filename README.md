@@ -1,35 +1,39 @@
-# commec: a free, open-source, globally available tool for DNA sequence screening
+# commec-databases (archived)
+
+> ⚠️ **This repository is archived and no longer maintained.**
+>
+> It distributed the **commec v1.x** biorisk and low-concern (formerly "benign") databases via Git LFS and tagged releases. As of **commec v2.0**, reference databases are no longer distributed from this repository.
+>
+> **Get the current databases with `commec setup`**, which downloads them from **[databases.commec.io](https://databases.commec.io)**:
+> ```bash
+> commec setup -d /path/to/databases
+> ```
+> See the [commec Install guide](https://github.com/ibbis-bio/common-mechanism/wiki/Install) for details.
+>
+> This repository is preserved, read-only, for reference by users still running commec v1.x.
+
+---
+
+## About this repository (commec v1.x)
 
 The `commec` package is a tool for DNA sequence screening that is part of the
 [Common Mechanism for DNA Synthesis screening](https://ibbis.bio/common-mechanism/).
 
-![Common Mechanism banner](https://ibbis.bio/wp-content/uploads/2024/05/commec-v0.1.0-banner.png)
+This repository held the Biorisk and Benign (low-concern) database files used by commec v1.x for the biorisk and benign screening steps — the only databases needed to run commec in the truncated `--skip-tx` mode, where the regulated taxonomy steps are skipped. In v1.x these could be downloaded with `commec setup`, or by downloading `commec-dbs.zip` from a tagged release and pointing `commec` at the extracted files with `-d/--databases` or a YAML config.
 
-Introduction : Common Mechanism Databases
-============
-The Common Mechanism offers DNA sequence screening:
-The `screen` command runs an input FASTA through four steps:
+<details>
+<summary>Historical: v1.x database release &amp; update process</summary>
 
-  1. Biorisk scan (uses a hmmer search against custom databases)
-  2. Regulated protein scan (uses a BLASTX or DIAMOND search against NCBI nr)
-  3. Regulated nucleotide scan (uses BLASTN against NCBI nt)
-  4. Benign scan (users hmmer, cmscan and BLASTN against custom databases)
-
-This repository contains the Biorisk and Benign database files necessary for steps 1 and 4. These are the only databases necessary when running Commec in the truncated `--skip-tx` mode where regulated taxonomy steps are skipped.
-
-These files can be downloaded to a desired location using the `commec setup` command line interface. Alternatively, downloading commec-dbs.zip from the a tagged release, and placing the extracted files in a location to be pointed to with the `-d, --databases` commec cli. Or ensure that the yaml parameters file points to the biorisk and benign directories respectively.
-
-Database Release and Update
-===========================
-Updating the databases will entail the following steps:
+Updating the databases entailed the following steps:
 - Ensure git lfs is installed, and pull using `git lfs pull`
-- Update the relevant files inside the commec-dbs sub-directory within the repo.
-- Create a Pull Request for changes into main, this will trigger unit tests on the database files.
-- On a successfully merged pull request, merge into main.
-- Use the `tag and release` github action, supply the semantic version, which will automate the release.
+- Update the relevant files inside the `commec-dbs` sub-directory within the repo.
+- Create a Pull Request for changes into `main`, which triggered unit tests on the database files.
+- On a successfully reviewed pull request, merge into `main`.
+- Use the `tag and release` GitHub action, supplying the semantic version, to automate the release.
 
-About
-=====
+</details>
+
+## About
 The Common Mechanism is a project of [IBBIS](https://ibbis.bio), the International Biosecurity and
 Biosafety Initiative for Science. From 2021-2023, the software and databases were developed by a
 team of technical consultants working with the Nuclear Threat Initiative, led by Dr. Nicole Wheeler
